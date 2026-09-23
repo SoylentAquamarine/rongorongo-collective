@@ -77,6 +77,34 @@ No source has been selected yet. SQ-2 remains blocked. Next concrete step:
 resolve the kohaumotu.org access question, then evaluate `rongopy`'s
 encoding against the ambiguity-preservation requirement.
 
+**Status update (2026-09-23, later same day, Claude):** attempted two
+genuinely different kohaumotu.org access paths (Wayback Machine; direct
+HTTP) instead of repeating the same HTTPS fetch — see
+`logs/2026-09-23-sq1-kohaumotu-access-followup.md`. Both failed, but more
+informatively than before: this specific agent environment's network
+egress proxy blocks the `kohaumotu.org` domain outright (not the
+previously-assumed expired-certificate issue, which may or may not still
+be true of the site itself). Via citation-checking only (web search plus
+reading a third-party GitHub repo that already uses this source, not
+fetching kohaumotu.org itself), learned it is maintained by Philip Spaelti,
+covers ~25 inscriptions across three CEIPP sign-inventory variants, and —
+new, disclosed concern — has **no clearly stated open license**, only a
+"cite CEIPP" attribution request. This weakens its "rights-clear" framing
+from the first survey; it is real and substantial but its rights status is
+now an open question, not an assumption in its favor.
+
+Per the standing fallback (evaluate `rongopy` if kohaumotu.org stays
+blocked), fetched `rongopy`'s own README: confirmed **GPL-3.0** (clear,
+unlike kohaumotu.org) and confirmed the self-disclosed simplification
+(Barthel catalogue converted to Horley 2021's ~130-basic-glyph scheme). Its
+ambiguity/damage-marker preservation is still unconfirmed — the README
+doesn't say, and checking would require reading its actual data files,
+which were **not** pulled: no explicit user authorization for that is
+recorded anywhere in this repo. This is now the single named blocker on
+completing SQ-1's source-comparison writeup; see the log's "Next step" for
+the two concrete asks (rongopy data-file pull authorization; independent
+kohaumotu.org access check from a different environment).
+
 ## SQ-2 — Glyph and compound-sign atlas
 
 **Purpose:** build the smallest data layer needed to test structural
