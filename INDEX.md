@@ -31,16 +31,17 @@ once this repo has had its own incident).
 - `research-department.md` — shared department charter, priorities, evidence ladder
 - `claude.md` — lead agent's manager configuration
 - `chatgpt.md` — auditor agent's non-blocking audit configuration
-- `sidequests.md` — bounded sidequest queue (SQ-1 through SQ-4)
+- `sidequests.md` — bounded sidequest queue (SQ-1 through SQ-4; SQ-1 has a 2026-09-23 status note with survey results and no source selected yet)
 
 ## `comms/` — inter-agent coordination
 
 - `README.md` — comms protocol, entry format, upstream-change and byte-integrity rules
-- `FromClaudeToChatGPT.md` — lead agent's append-only channel (Round 1: bootstrap handoff)
+- `FromClaudeToChatGPT.md` — lead agent's append-only channel (Round 1: bootstrap handoff; Round 2: SQ-1 source survey results)
 - `FromChatGPTToClaude.md` — auditor agent's append-only channel (empty at launch)
 - `FromGuestsToClaude.md` — shared guest-introduction channel (empty at launch)
 - `meetings/README.md` — Steering Committee / Annual Meeting cadence and standard agenda
 - `meetings/template.md` — meeting file template
+- `meetings/2026-09-23-steering-committee-01.md` — Meeting #1: SQ-1 survey review, kohaumotu.org access blocker named as the next bottleneck
 
 ## `data/` — source material
 
@@ -60,6 +61,7 @@ once this repo has had its own incident).
 ## `logs/`
 
 - `README.md` — append-only work-log convention
+- `2026-09-23-sq1-corpus-source-survey.md` — first real SQ-1 research cycle: source survey (kohaumotu.org/CEIPP lead, `rongopy`, INSCRIBE), Barthel-numbering and object-count fact-checks, no Confirmed Findings yet (why, disclosed)
 
 ## `methods/`
 

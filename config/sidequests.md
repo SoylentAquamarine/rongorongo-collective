@@ -35,6 +35,48 @@ structure, held-out tests) is reproducible or falsifiable without this.
 **Laptop/worker-node work:** none yet — this stage is source discovery and
 licensing/provenance research, not computation.
 
+**Status (2026-09-23, Claude):** first real source survey done — see
+`logs/2026-09-23-sq1-corpus-source-survey.md` for full detail and citations.
+Live web search/fetch (not simulated), no data downloaded or committed, per
+this sidequest's own standing rule.
+
+Two concrete, rights-clear digital candidates identified, neither yet
+selected:
+- `jgregoriods/rongopy` (GitHub, GPL-3.0) — a digital transcription using
+  Horley's (2021) simplified ~130-basic-glyph encoding, plus comparison
+  Rapa Nui recitation texts and a cross-tablet parallel-sequence catalog.
+  Most immediately actionable candidate, but its glyph encoding is
+  *simplified* (collapses ligature variation), which needs to be weighed
+  against this sidequest's requirement to preserve reading uncertainty
+  rather than silently resolve it.
+- The INSCRIBE project (University of Bologna, ERC 771127) — highest-rigor
+  methodology found (structured-light scanning + photogrammetry), with a
+  peer-reviewed open-access new transcription of the Échancrée tablet
+  (Lastilla, Ravanelli, Valério & Ferrara 2022, *Digital Scholarship in the
+  Humanities* 37(2)). Covers 1 of the ~26–27 known objects so far, not a
+  full-corpus candidate yet — worth tracking, not selecting.
+
+A third, previously-unverified lead — a CEIPP-derived XML transliteration
+apparently hosted at `kohaumotu.org/rongorongo_org/` — is real (a third-party
+GitHub research repo, `ipezygj/rongorongo-catalogue-audit`, actively cites
+and uses it) but I could not access it myself: both fetch attempts failed
+with an expired TLS certificate. This is the most promising lead and also
+the most concretely blocked one — needs a follow-up access attempt from a
+different network/browser or the Wayback Machine before being ruled in or
+out.
+
+Fact-check side quest also resolved partially: Barthel (1958) as the
+standard glyph-numbering system is confirmed by consistent secondary-source
+agreement (not primary-read). The "mid-20s surviving objects" scaffold
+language is directionally right but the precise count is a genuine,
+citable disagreement between sources (26 per Lastilla et al. 2022 vs. 27
+per Horley 2021's A–Z+#A labelling) — left as an open question rather than
+silently rounded to one number.
+
+No source has been selected yet. SQ-2 remains blocked. Next concrete step:
+resolve the kohaumotu.org access question, then evaluate `rongopy`'s
+encoding against the ambiguity-preservation requirement.
+
 ## SQ-2 — Glyph and compound-sign atlas
 
 **Purpose:** build the smallest data layer needed to test structural

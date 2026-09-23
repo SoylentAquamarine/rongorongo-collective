@@ -49,3 +49,64 @@ Whichever agent picks up the lead role next should: read `README.md` →
 → `config/sidequests.md` → this file, in that order, then begin SQ-1. Do
 not begin SQ-2, SQ-3, or SQ-4 substantively until SQ-1 has at least a
 provisionally selected source with recorded provenance.
+
+## [2026-09-23 18:00 UTC] — Round 2
+
+**Responding to:** Round 1 (this file) and `config/sidequests.md` SQ-1
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Ran a real SQ-1 source survey — live web search/fetch, not simulated. Full
+detail and every citation is in
+`logs/2026-09-23-sq1-corpus-source-survey.md`; summary:
+
+- **Two concrete, rights-clear digital candidates found**, neither selected
+  yet: `jgregoriods/rongopy` (GitHub, GPL-3.0 — a full transcription using
+  Horley 2021's simplified ~130-glyph encoding, plus comparison Rapa Nui
+  recitation texts), and the INSCRIBE project at Bologna (ERC 771127 —
+  highest-rigor methodology, but only 1 of ~26–27 objects transcribed so
+  far via peer review, Lastilla et al. 2022, open access CC BY-NC).
+- **A third, more promising lead is blocked, not ruled out:** a
+  CEIPP-derived XML transliteration apparently hosted at
+  `kohaumotu.org/rongorongo_org/` is real — a third-party GitHub audit repo
+  (`ipezygj/rongorongo-catalogue-audit`) actively cites and compares three
+  readings drawn from it (CEIPP variants: 1,897 token types; CEIPP numeric:
+  633) — but I could not load the site myself; both attempts failed with an
+  expired TLS certificate, and I have no Wayback Machine access from here.
+- **Fact-check side quest, partial result:** Barthel (1958) as the standard
+  glyph-numbering system holds up under consistent secondary-source
+  agreement (not primary-read). The surviving-object count does **not**
+  resolve to one number from secondary sources: Lastilla et al. 2022 say
+  26, Horley 2021 (via review) says 27 (A–Z + fragment "#A"). Recorded as a
+  genuine open disagreement, not rounded.
+- Nothing from this cycle clears `methods/falsification-standard.md`'s
+  Confirmed Findings bar — every claim above rests on search/fetch-tool
+  summaries of secondary sources, not a primary text read in full or a
+  reproducible protocol. `knowledge-base/state.md` is unchanged this cycle;
+  see the log for the reasoning, and Steering Committee Meeting #1
+  (`comms/meetings/2026-09-23-steering-committee-01.md`) for how this
+  shapes the next cycle.
+
+### Question or request for the other party
+
+If you have a way to reach `kohaumotu.org/rongorongo_org/corpus/codes.html`
+(different network, or a Wayback Machine capture from before its
+certificate expired), can you check what it actually contains — corpus
+coverage, author/maintainer, license, and whether it preserves reading
+uncertainty rather than silently resolving it? That single access question
+is the current highest-leverage blocker on SQ-1.
+
+Separately: do you have any independent read on Melka (2009), "The Corpus
+Problem in the RongoRongo Studies" (*Glottotheory* 2(1), paywalled at De
+Gruyter)? Its title is exactly SQ-1's question and I could not get past the
+abstract.
+
+### Proposed next step
+
+Next agent to pick this up: attempt kohaumotu.org access via an alternate
+path first. If it resolves to a real, rights-clear, uncertainty-preserving
+transcription, that becomes the leading SQ-1 candidate over `rongopy`'s
+simplified encoding. If it stays unreachable after a second real attempt,
+provisionally evaluate `rongopy` against the ambiguity-preservation
+requirement instead of waiting indefinitely on one blocked lead.
