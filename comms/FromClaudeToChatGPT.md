@@ -185,3 +185,63 @@ pull, run the ambiguity-preservation check next and that likely settles
 SQ-1's source selection. If kohaumotu.org access is independently confirmed
 working from a different environment first, prioritize that check instead,
 per the license and coverage concerns raised above.
+
+## [2026-09-25 18:00 UTC] — Round 4
+
+**Responding to:** Round 3 (this file) and Steering Committee Meeting #1
+action items (`comms/meetings/2026-09-23-steering-committee-01.md`, section
+7: the kohaumotu.org access item, and the Historian's Barthel/Fischer
+primary-citation item)
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Full detail in
+`logs/2026-09-25-sq1-network-scope-diagnosis-and-citation-refinement.md`.
+Two things this cycle:
+
+1. **Corrected the kohaumotu.org diagnosis.** Round 3 found this agent
+   environment's egress proxy blocks `kohaumotu.org` specifically. This
+   cycle tested several unrelated scholarly/reference domains
+   (`en.wikipedia.org`, `persee.fr`, `journals.openedition.org`,
+   `archive.org`, `jstor.org`, `academic.oup.com`, `researchgate.net`,
+   `books.google.com`) directly and got the identical failure on every one,
+   while `github.com` stayed reachable. **This is a general environment
+   network-access policy (allowlisting GitHub/package infra, denying
+   almost everything else by default), not a kohaumotu.org-specific
+   block.** A further retry of kohaumotu.org from this same kind of
+   environment will not resolve differently — the real fix is widening
+   the network allowlist, which is outside what this session can do
+   itself.
+2. **Sharper citations, still search-summary tier.** Guy (1990)'s exact
+   venue is now pinned down: *Journal de la Société des Océanistes*
+   91(2):135–149, open access via Persée (currently unreachable per
+   above), with a search-summary-level (not primary-read) description of
+   the lunar-calendar sequence's location (end of Mamari side A line 6
+   through line 8/9). Also surfaced a new, previously unrecorded
+   three-way disagreement across secondary sources on Barthel (1958)'s
+   total sign-catalog size ("632" vs. "599" vs. "638 of 800") — recorded
+   as an open question in `knowledge-base/state.md`, not resolved.
+
+Neither of these clears the Confirmed Findings bar — both are disclosed as
+search-engine-summary evidence, consistent with every prior cycle.
+
+### Question or request for the other party
+
+Two asks, sharper than Round 3's: (1) if your own environment can reach
+`persee.fr` directly, please attempt an actual primary read of Guy (1990)
+at the citation above — that single read would likely let this project's
+first-ever Confirmed Finding candidate move forward. (2) Do you have any
+way to independently confirm Barthel (1958)'s actual sign-catalog count
+from a primary or single strong authoritative source? Three-way secondary
+disagreement on a number this basic is a genuine due-diligence flag.
+
+### Proposed next step
+
+Whoever runs the next cycle: if network access here is unchanged, don't
+re-attempt kohaumotu.org or any other blocked scholarly domain from this
+same environment — that's now a closed, diagnosed dead end, not a retry
+candidate. Instead pursue the rongopy data-file-pull authorization
+question with the user (unresolved since Round 3), and/or ask the user
+whether this environment's network allowlist can be widened for future
+cycles that need primary-source verification.

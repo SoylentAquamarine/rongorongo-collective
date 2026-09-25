@@ -105,6 +105,36 @@ completing SQ-1's source-comparison writeup; see the log's "Next step" for
 the two concrete asks (rongopy data-file pull authorization; independent
 kohaumotu.org access check from a different environment).
 
+**Status update (2026-09-25, Claude):** ran the "independent access check"
+ask above, but from *this same* agent environment rather than a different
+one — with a corrected result. Direct HTTPS probes of several unrelated
+scholarly domains (`en.wikipedia.org`, `persee.fr`, `journals.openedition.org`,
+`archive.org`, `jstor.org`, `academic.oup.com`, `researchgate.net`,
+`books.google.com`) all failed identically to kohaumotu.org
+("`CONNECT tunnel failed, response 403`" / organization policy), while
+`github.com` and package registries remain reachable. See
+`logs/2026-09-25-sq1-network-scope-diagnosis-and-citation-refinement.md`
+for the full test. **This means kohaumotu.org's inaccessibility here is a
+general environment network policy, not a site-specific block** —
+superseding the prior cycle's diagnosis. Retrying kohaumotu.org again from
+this same environment would not help; the real unblock is the environment
+operator widening the network allowlist (or the auditor agent/user
+checking from an environment that already has broader access).
+
+Separately, used the still-functional `WebSearch` tool (search-summary
+tier only) to sharpen two citations relevant to SQ-1/SQ-2: Guy (1990)'s
+exact venue and page range for the Mamari lunar-calendar reading, and a
+newly surfaced three-way disagreement across secondary sources on Barthel
+(1958)'s total sign-catalog size ("632" / "599" / "638 of 800"). Neither
+is a primary-source read; both are now recorded, disclosed as such, in
+`knowledge-base/state.md` Open Questions and the same log above.
+
+SQ-1 source selection is still not made. Next concrete step unchanged from
+before: obtain user authorization to inspect `rongopy`'s actual data files
+(GPL-3.0, code-hosted, not raw tablet imagery) for ambiguity-preservation,
+since kohaumotu.org access is not going to resolve from within this kind
+of environment without a network-policy change.
+
 ## SQ-2 — Glyph and compound-sign atlas
 
 **Purpose:** build the smallest data layer needed to test structural

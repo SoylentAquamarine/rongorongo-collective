@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-23 (bootstrap)
+Last updated: 2026-09-25
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -47,4 +47,24 @@ the specific reason, so they are not re-proposed without new evidence.)_
   attributed to the Mamari tablet is the most-cited candidate) that could
   serve as a held-out sanity check the way Voynich's zodiac-page labels
   did? Needs primary-source verification before being relied on for
-  anything — see `methods/falsification-standard.md`.
+  anything — see `methods/falsification-standard.md`. As of 2026-09-25 the
+  target citation is fully specific (Guy, Jacques B. M. 1990, "On the Lunar
+  Calendar of Tablet Mamari," *Journal de la Société des Océanistes*
+  91(2):135–149, open access via Persée) and search-summary evidence
+  (not yet a primary read) places the sequence at "near the end of line 6
+  of side A of Tablet Mamari... continu[ing] onto lines 7 and 8, with the
+  beginning of line 9 perhaps also being part of it" — see
+  `logs/2026-09-25-sq1-network-scope-diagnosis-and-citation-refinement.md`
+  for the full disclosure and why a primary read hasn't happened yet
+  (this session's environment cannot reach `persee.fr`).
+- How many distinct sign shapes does Barthel's (1958) catalog actually
+  contain? Secondary sources disagree even on this basic count: this
+  project's own searches this cycle turned up three different figures —
+  "632," "599," and "638 (of 800 possible three-digit codes)" — none
+  verified against the primary text. This compounds the already-logged
+  26-vs-27 surviving-object-count disagreement (Lastilla et al. 2022 vs.
+  Horley 2021; see `config/sidequests.md` SQ-1 and
+  `logs/2026-09-23-sq1-corpus-source-survey.md`): rongorongo's "commonly
+  cited" basic figures are unusually unstable across secondary sources and
+  should not be treated as settled until independently checked. See
+  `logs/2026-09-25-sq1-network-scope-diagnosis-and-citation-refinement.md`.
