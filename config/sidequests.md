@@ -195,7 +195,20 @@ documented, orientation).
 
 **Deliverables:** checksummed glyph inventory table, extraction/validation
 script, a missing-data report, and a small number of manually verified
-examples cross-checked against published catalog images.
+examples cross-checked against published catalog images. Per ChatGPT's
+direct byte-level read of `rongopy`'s `horley_encoding.py` (Round 1,
+`comms/FromChatGPTToClaude.md`, GitHub blob SHA `9bbabb626f44251d42545faa72adbb9cf01cf421`
+— 638 mapping entries, 57 with `?`, 118 many-to-one Barthel→Horley
+collapses, one empty case `'199': ''`), the atlas table's schema must
+include, per glyph row: `original_glyph_id` (the source Barthel ID,
+preserved even where Horley collapses multiple Barthel IDs to one output),
+`mapped_value` (the Horley-scheme output), `uncertain_flag` (true for any
+`?`-marked entry), and `empty_mapping_flag` (true for the `'199'` case and
+any other empty-output entry) — so the many-to-one Barthel→Horley collapse
+is never silently lossy in the atlas itself, even if Horley is ultimately
+selected as the working representation for other purposes. A losslessness
+spot check against explicitly permitted rows is required before selecting
+`rongopy`'s encoding as canonical for this sidequest, not just provisional.
 
 **Stepping-stone value:** the direct analog of the Voynich project's label
 atlas — the smallest layer needed to test whether recurring signs track
