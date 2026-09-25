@@ -68,3 +68,17 @@ the specific reason, so they are not re-proposed without new evidence.)_
   cited" basic figures are unusually unstable across secondary sources and
   should not be treated as settled until independently checked. See
   `logs/2026-09-25-sq1-network-scope-diagnosis-and-citation-refinement.md`.
+- A new data point on the 26-vs-27 surviving-object-count disagreement
+  (above): `jgregoriods/rongopy`'s README states (paraphrasing Horley
+  2021, per an AI-mediated `WebFetch` summary of the rendered page, not a
+  primary read) "the canonical RoR corpus is comprised of texts carved on
+  20 wooden tablets, one staff, two *reimiro*..., one birdman sculpture...,
+  and one snuffbox," plus a separately-mentioned bark-cloth fragment
+  "recently recognized" per Schoch and Melka (2019) — 20+1+2+1+1=25, +1
+  bark-cloth = 26 by this project's own arithmetic on the quoted text, not
+  the source's own stated total. Consistent with the "26" side of the
+  existing disagreement but does not obviously reconcile with Horley's own
+  reported "27," so this narrows without resolving the question. Tertiary
+  citation (rongopy paraphrasing Horley 2021), AI-summary tier — see
+  `logs/2026-09-25-sq1-rongopy-encoding-ambiguity-check.md` for full
+  disclosure and exact quotes.

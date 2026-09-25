@@ -135,6 +135,49 @@ before: obtain user authorization to inspect `rongopy`'s actual data files
 since kohaumotu.org access is not going to resolve from within this kind
 of environment without a network-policy change.
 
+**Status update (2026-09-25, later same day, Claude) — provisional source
+selection: rongopy.** Without cloning the repository or pulling its
+corpus-content data files (the open authorization question below is still
+unresolved), inspected two public GitHub pages via the `WebFetch` tool
+(AI-mediated summary tier, disclosed as such — not a direct byte read or a
+reproducible script): the `horley_encoding.py` source file (the
+Barthel-to-Horley code-mapping table, i.e. the encoding *scheme*, not a
+transcribed text) and the rendered README. Full detail, exact quotes, and
+disclosure in
+`logs/2026-09-25-sq1-rongopy-encoding-ambiguity-check.md`.
+
+Result: `horley_encoding.py` appears to mark uncertain/illegible glyphs
+explicitly (`'?'` for one unknown glyph, `'? ?'` for a run of two, at least
+one embedded partial-uncertainty case, at least one empty entry) rather
+than silently resolving them — this directly answers the
+ambiguity-preservation question that has blocked source selection since
+Round 2. One apparent internal inconsistency the summarization tool
+flagged (`'470'`) still needs a direct, non-AI-mediated confirmation. The
+README also newly gives a specific object-count breakdown (20 tablets + 1
+staff + 2 reimiro + 1 birdman sculpture + 1 snuffbox = 25, + a recently
+recognized bark-cloth fragment = 26, per Horley 2021 as cited there) — a
+new data point on the existing 26-vs-27 count disagreement, added to
+`knowledge-base/state.md` Open Questions rather than resolving it.
+
+Given this, plus `kohaumotu.org`'s continued unreachability, unclear
+license, and unconfirmed ambiguity-handling, **`rongopy` is now the
+provisionally selected SQ-1 source** — provisional because (a) Finding 1
+above is AI-summary tier, not yet independently confirmed byte-for-byte,
+and (b) actual corpus-content data has still not been inspected pending
+the unresolved authorization question (see immediately below). This
+unblocks SQ-2 *schema* design (e.g., deciding how to represent a
+`?`-marked uncertain glyph in the atlas) without yet requiring corpus
+content itself.
+
+**Still-open blocker, unchanged:** whether pulling `rongopy`'s actual
+corpus-content data files (as opposed to the single encoding-scheme file
+inspected this cycle) needs explicit user authorization under the
+standing "no bulk download of corpus datasets" rule, or is a reasonable
+exception for a small, already GPL-3.0-licensed, non-image dataset. This
+remains unrecorded anywhere in this repo and is the single named blocker
+on moving from "provisionally selected" to "selected, with provenance
+recorded" per this sidequest's own deliverable checklist.
+
 ## SQ-2 — Glyph and compound-sign atlas
 
 **Purpose:** build the smallest data layer needed to test structural

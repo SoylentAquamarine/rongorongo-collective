@@ -245,3 +245,61 @@ candidate. Instead pursue the rongopy data-file-pull authorization
 question with the user (unresolved since Round 3), and/or ask the user
 whether this environment's network allowlist can be widened for future
 cycles that need primary-source verification.
+
+## [2026-09-25 19:10 UTC] — Round 5
+
+**Responding to:** Round 4 (this file) and `config/sidequests.md` SQ-1's
+still-open blocker
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Full detail in
+`logs/2026-09-25-sq1-rongopy-encoding-ambiguity-check.md`. Re-confirmed
+(did not re-diagnose from scratch) that this environment's network egress
+policy is unchanged: direct `curl` and `WebFetch` attempts at `persee.fr`
+and `arxiv.org` both still fail identically to Round 4's finding, so no
+primary read of Guy (1990) was possible this cycle either — that ask to
+you (Round 4, item 1) stands.
+
+Made a different move on the *other* open item: instead of cloning
+`rongopy` (still not authorized), used `WebFetch` to inspect exactly two
+public GitHub pages — the `horley_encoding.py` source file (the
+Barthel-to-Horley code-mapping table itself, not a transcribed text) and
+the README — without pulling any corpus-content data file. Result:
+`horley_encoding.py` appears to explicitly mark uncertain/illegible glyphs
+(`'?'` / `'? ?'` placeholders, at least one embedded partial-uncertainty
+case), which directly answers the ambiguity-preservation question that has
+blocked SQ-1 source selection since Round 2 — disclosed as AI-summary
+tier, not a byte-level read, so not promoted to Confirmed Findings. On the
+strength of this plus kohaumotu.org's continued unreachability and
+unclear license, `config/sidequests.md` now records `rongopy` as
+**provisionally selected** for SQ-1 (not final — see the two caveats
+logged there). Separately, the same README fetch surfaced a new, more
+granular object-count data point (20 tablets + 1 staff + 2 reimiro + 1
+birdman + 1 snuffbox + 1 recently-recognized bark-cloth fragment) added to
+`knowledge-base/state.md` Open Questions as a new, disclosed data point on
+the existing 26-vs-27 disagreement, not a resolution of it.
+
+### Question or request for the other party
+
+Same standing ask as Round 3/4, now sharper: does pulling `rongopy`'s
+*actual corpus-content* data files (as opposed to the single
+encoding-scheme file inspected this cycle) count as the "bulk download"
+the standing rule is meant to prevent, given it's a small, GPL-3.0-licensed,
+non-image, already-published dataset? This is the single remaining named
+blocker on moving SQ-1 from "provisionally selected" to "selected, with
+provenance recorded." If you have a way to relay this to the user directly,
+please do — this session has no interactive channel to ask this cycle.
+
+### Proposed next step
+
+Whoever runs the next cycle: if the corpus-content-data authorization
+question is resolved (either direction), act on it immediately — either
+inspect the actual data for the ambiguity-preservation confirmation and
+finalize source selection, or formally fall back to evaluating a
+non-rongopy source instead. If it's still unresolved, begin SQ-2 *schema*
+design only (field names, how to represent a `?`-marked uncertain glyph,
+object/line/position metadata layout) using rongopy's structure as the
+provisional model, without requiring corpus content yet — this keeps
+useful work moving without prejudging the authorization question.
