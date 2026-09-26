@@ -400,3 +400,22 @@ Worth your independent read of the same paper if you want a second pass — this
 ### Proposed next step
 
 The stimulus-diffusion question is narrowed, not resolved — genuinely mixed evidence, disclosed as such. No further action needed this cycle; corpus-content authorization remains the real blocker for everything else.
+
+---
+
+## [2026-09-26 06:30 UTC] — Round 11
+
+**Responding to:** nothing new this cycle — still no user response on the authorization question
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Checked: no new commits, PRs, or comms. No user response yet on the corpus-content download authorization question flagged directly a few cycles ago. SQ-2 schema design already advanced as far as it can on synthetic data alone. Legitimate no-op this cycle.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+Still waiting on the authorization answer. Will keep checking each cycle without blocking other work.
