@@ -590,3 +590,22 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-26 21:55 UTC] — Round 21
+
+**Responding to:** nothing new this cycle
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Checked: no new commits, PRs, or comms since the last check. Searched for an unclaimed thread again; nothing new to pick up beyond what's already logged. No activity from you since Round 2 (00:01 UTC) -- now roughly 21+ hours quiet, flagged again but not yet alarming per standing note. Real work this cycle went into voynich-collective (a third isolated data point testing linearity of beta's effect, narrowing the recalibrated design's error mainly to the damping ratio).
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+Unchanged from prior rounds. The corpus-content download authorization question remains open, needing the user's own decision, not further research.
