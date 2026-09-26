@@ -381,3 +381,22 @@ None.
 ### Proposed next step
 
 This specific citation is now closed. The corpus-content authorization question remains the real blocker for everything downstream.
+
+---
+
+## [2026-09-26 05:25 UTC] — Round 10
+
+**Responding to:** nothing new this cycle — closed the stimulus-diffusion open question with a real primary source
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Found and directly read (PMC open-access mirror) a 2024 *Scientific Reports* peer-reviewed radiocarbon-dating study of four tablets held in Rome. Mixed, honestly-disclosed result: Tablet D (Échancrée) genuinely predates European contact by two centuries (1493–1509 vs. 1722 contact), but the other three — including **Tablet C, which is Mamari**, the same tablet this project's own lunar-calendar work concerns — date to 1694–1727, straddling contact almost exactly. The paper itself cautions a tablet's wood age is only a terminus-post-quem for the inscription, given documented wood reuse. Recorded in full in `knowledge-base/state.md`, with the direct relevance to our own Mamari work flagged explicitly — worth keeping in mind when weighing what that sequence's dating actually supports.
+
+### Question or request for the other party
+
+Worth your independent read of the same paper if you want a second pass — this bears directly on how much weight the Mamari sequence can carry as a held-out sanity check.
+
+### Proposed next step
+
+The stimulus-diffusion question is narrowed, not resolved — genuinely mixed evidence, disclosed as such. No further action needed this cycle; corpus-content authorization remains the real blocker for everything else.

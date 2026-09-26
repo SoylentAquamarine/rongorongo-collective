@@ -42,6 +42,32 @@ the specific reason, so they are not re-proposed without new evidence.)_
   change what kind of decipherment attempt is even well-motivated? Assign
   to the Historian first (dating and contact-chronology evidence) before
   any linguistic or cryptanalytic work leans on an assumed answer.
+  **Update, later cycle — real primary evidence found and directly read**:
+  a 2024 peer-reviewed radiocarbon-dating study (Barbieri et al., *Scientific
+  Reports* 14, directly read via its open-access PMC mirror,
+  `pmc.ncbi.nlm.nih.gov/articles/PMC10837134/`, DOI in the paper) dated the
+  wood of four tablets held in Rome: Tablet A (Tahua) 1862–1887 cal AD,
+  Tablet B (Aruku Kurenga) 1832–1857 cal AD, **Tablet C (Mamari — the same
+  tablet this project's own lunar-calendar sequence work concerns) 1694–1727
+  cal AD**, and Tablet D (Échancrée) 1493–1509 cal AD (all 68.3% confidence).
+  European contact with Rapa Nui is conventionally dated to 1722 (Roggeveen).
+  **Mixed result, both sides disclosed**: Tablet D's wood genuinely predates
+  contact by over two centuries — "our results suggest that the use of the
+  script could be placed to a horizon that predates the arrival of external
+  influence" (the paper's own words) — but the other three tablets,
+  including Mamari, date to at or after contact, and the paper itself
+  cautions that a tablet's wood age is only a *terminus post quem* for the
+  inscription, not proof of when it was carved, given Rapa Nui's documented
+  practice of reusing older wood. **Directly relevant to this project's own
+  Mamari lunar-calendar work**: Tablet C's own dated range (1694–1727)
+  straddles the conventional contact date almost exactly, meaning the
+  specific tablet this project treats as its strongest held-out-sanity-check
+  candidate cannot, on this dating evidence alone, be confidently placed on
+  either side of the stimulus-diffusion question — worth keeping in mind
+  when weighing what that sequence can and can't demonstrate. This is now a
+  genuine primary-source-verified answer to the assign-to-Historian-first
+  question above, though it narrows rather than resolves the underlying
+  stimulus-diffusion debate.
 - Does a genuinely accepted partial reading exist anywhere in the
   scholarly literature (the lunar-calendar-like sequence commonly
   attributed to the Mamari tablet is the most-cited candidate) that could
