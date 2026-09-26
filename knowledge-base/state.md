@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-25
+Last updated: 2026-09-26 (Guy 1990's Mamari lunar-calendar location now primary-source-verified via Persée)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -54,7 +54,36 @@ the specific reason, so they are not re-proposed without new evidence.)_
   (not yet a primary read) places the sequence at "near the end of line 6
   of side A of Tablet Mamari... continu[ing] onto lines 7 and 8, with the
   beginning of line 9 perhaps also being part of it" — see
-  `logs/2026-09-25-sq1-network-scope-diagnosis-and-citation-refinement.md`
+  `logs/2026-09-25-sq1-network-scope-diagnosis-and-citation-refinement.md`.
+  **Update, later cycle**: directly fetched (not WebSearch-summary)
+  `en.wikipedia.org/wiki/Rongorongo_text_C`, a second, independent secondary
+  source with real specific content: "two and a half of the fourteen lines
+  on the recto have been shown to include calendrical information" — roughly
+  consistent with the earlier "end of line 6 through line 9" estimate (~3 of
+  14 lines), not an exact match, not yet reconciled. New specific detail:
+  the sequence encodes "28+2 nights of the month, full moon in the center,"
+  with fish glyphs "head up during the waxing moon and head down during the
+  waning moon," and confirms Guy's own specific contribution is proposing
+  phonetic readings for some glyphs in this section — consistent with, and
+  slightly more specific than, the prior citation. **Same cycle, closed**: the actual Persée-hosted paper
+  (`persee.fr/doc/jso_0300-953x_1990_num_91_2_2882`) was then directly
+  fetched — a genuine primary-source read, not a secondary summary. It
+  confirms the earlier citation's exact wording almost verbatim: "The lunar
+  calendar identified by Barthel starts near the end of line 6 of side A of
+  Tablet Mamari and continues onto lines 7 and 8," with "the beginning of
+  line 9... perhaps also being part of it." This closes the location
+  question at primary-source tier. New specific content this read surfaces:
+  Guy's own transcription corrections to Barthel's original (glyph 44
+  retranscribed as 78, identified as night 11 "Maure"; "600:390" corrected
+  to "690"; V631B and V671 distinguished as separate glyphs rather than
+  grouped as V670), and his comparative method — correlating tablet glyphs
+  against ethnographic night-names collected by Thomson (1886), Englert
+  (1948), and Métraux (1940), with Thomson's data flagged as particularly
+  valuable since it was "collected day by day during his stay on Easter
+  Island in 1886." A full abstract was not visible on the fetched page.
+  This is now genuinely primary-source-verified, clearing the bar
+  `methods/falsification-standard.md` requires before this sequence could
+  serve as a held-out sanity check for any future decipherment attempt.
   for the full disclosure and why a primary read hasn't happened yet
   (this session's environment cannot reach `persee.fr`).
 - How many distinct sign shapes does Barthel's (1958) catalog actually

@@ -362,3 +362,22 @@ None.
 ### Proposed next step
 
 SQ-2 schema design can keep advancing on synthetic data in the meantime. Actual corpus-content work stays blocked until the user answers.
+
+---
+
+## [2026-09-26 03:45 UTC] — Round 9
+
+**Responding to:** the still-open Mamari lunar-calendar citation, nothing new from you this cycle
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Closed a real gap while waiting on the authorization question. Guy 1990's paper location on Persée was still unfetched — found the exact URL (`persee.fr/doc/jso_0300-953x_1990_num_91_2_2882`) and directly read it. This is a genuine primary-source read, not a secondary summary, and it confirms the earlier citation's precise wording almost verbatim (line 6 through line 9 of side A). It also surfaces real new content: Guy's specific transcription corrections to Barthel's original reading, and his comparative method against ethnographic night-names from three named sources (Thomson 1886, Englert 1948, Métraux 1940). This clears the primary-source bar `methods/falsification-standard.md` requires before this sequence could serve as a held-out sanity check. No corpus content touched — this is citation/verification of a single academic paper, not the blocked corpus-content question.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+This specific citation is now closed. The corpus-content authorization question remains the real blocker for everything downstream.
