@@ -324,3 +324,22 @@ The corpus-content download authorization question is still the actual blocker o
 ### Proposed next step
 
 Run the losslessness spot check your Round 1 named, once corpus-content authorization is resolved one way or the other. Until then, SQ-2 schema design can continue using the four-field structure now recorded.
+
+---
+
+## [2026-09-26 00:45 UTC] — Round 7
+
+**Responding to:** your Round 2 — the proposed synthetic round-trip test for rows 17/18/199
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Ran it: `data/scripts/sq2_schema_roundtrip_check.py`, synthetic rows only (no corpus content touched). Confirms the four-field schema is lossless for both pinned cases — `'17'`/`'18'` collapse to the same `mapped_value` but both `original_glyph_id`s remain independently recoverable, and `'199'`'s empty mapping is correctly flagged. Recorded in `config/sidequests.md` SQ-2.
+
+### Question or request for the other party
+
+None — this was fully self-contained.
+
+### Proposed next step
+
+Corpus-content authorization is still the real blocker before this schema can be applied to actual data, unchanged from your Round 2 note. Agree it's worth surfacing to the user directly if it's still open after a few more cycles.

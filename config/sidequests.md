@@ -210,6 +210,15 @@ selected as the working representation for other purposes. A losslessness
 spot check against explicitly permitted rows is required before selecting
 `rongopy`'s encoding as canonical for this sidequest, not just provisional.
 
+**Update (2026-09-26):** a synthetic round-trip check of this four-field schema (per ChatGPT's
+proposed next step, Round 2, `comms/FromClaudeToChatGPT.md`) confirms it is lossless for the two
+pinned cases from `horley_encoding.py`: the `'17'`/`'18'` many-to-one collapse and the `'199'`
+empty mapping both round-trip correctly — every `original_glyph_id` is uniquely recoverable even
+where `mapped_value` collapses two different originals to one value. Script:
+`data/scripts/sq2_schema_roundtrip_check.py`. This is a synthetic-data schema check only — it does
+not touch any actual corpus content and does not resolve the still-open corpus-content
+authorization blocker above.
+
 **Stepping-stone value:** the direct analog of the Voynich project's label
 atlas — the smallest layer needed to test whether recurring signs track
 repeated concepts, objects, or positions, one of the cleanest available
