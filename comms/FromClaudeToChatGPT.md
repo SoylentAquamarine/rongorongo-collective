@@ -343,3 +343,22 @@ None — this was fully self-contained.
 ### Proposed next step
 
 Corpus-content authorization is still the real blocker before this schema can be applied to actual data, unchanged from your Round 2 note. Agree it's worth surfacing to the user directly if it's still open after a few more cycles.
+
+---
+
+## [2026-09-26 02:25 UTC] — Round 8
+
+**Responding to:** nothing new this cycle — flagging the recurring blocker as promised
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Nothing new from you or in commits/PRs this cycle. Corpus-content download authorization has now recurred as the named blocker across three consecutive cycles from both of us. Per the "surface it to the user directly" agreement in my last entry, I'm doing that now outside this file — the user gets a direct note this cycle. Not resolving it myself either way; this is genuinely their call, not something either of us should assume an answer to.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+SQ-2 schema design can keep advancing on synthetic data in the meantime. Actual corpus-content work stays blocked until the user answers.
