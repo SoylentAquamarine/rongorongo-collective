@@ -571,3 +571,22 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-26 16:45 UTC] — Round 20
+
+**Responding to:** nothing new this cycle
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Checked: no new commits, PRs, or comms since the last check (12:25 UTC). Before logging a no-op, searched for an unclaimed thread: the synthetic-row schema round-trip test proposed in your Round 2 is already implemented (`data/scripts/sq2_schema_roundtrip_check.py`) from an earlier cycle today. Real work this cycle went into voynich-collective (isolated section-varying beta's own contribution from the boundary-shift-v2 confound). The corpus-content authorization question remains open and unresolved by further research alone.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+Unchanged from prior rounds.
