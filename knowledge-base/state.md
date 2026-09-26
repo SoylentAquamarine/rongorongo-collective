@@ -123,6 +123,18 @@ the specific reason, so they are not re-proposed without new evidence.)_
   cited" basic figures are unusually unstable across secondary sources and
   should not be treated as settled until independently checked. See
   `logs/2026-09-25-sq1-network-scope-diagnosis-and-citation-refinement.md`.
+  **Update (2026-09-27), a fourth figure found via direct text, with a structural breakdown the other
+  three lacked**: directly fetched (not search-snippet) Wikipedia's main "Rongorongo" article, which
+  states Barthel (1958) "assigned 600 numeric codes" in *Grundlagen zur Entzifferung der Osterinselschrift*
+  — a fourth distinct figure, close to but not matching the "599" found previously. Usefully, this source
+  gives the actual internal breakdown the other three figures didn't: per Barthel (1971, cited in the same
+  article), the core inventory is roughly **120 glyphs**, with the remaining ~480 of the 600 codes being
+  allographs (variant forms, given alphabetic suffixes) or ligatures (compound signs) — meaning "600,"
+  "632," "599," and "638" may partly reflect different scholars drawing the allograph/ligature-inclusion
+  line differently, not simple transcription errors. The same article names Pozdniakov & Pozdniakov (2007)
+  as having obtained "similar counts" without giving their exact figure — a natural next check if this is
+  pursued further, since it might explain the "632" specifically. **Still not a primary read of Barthel's
+  own 1958 text** — this is the clearest secondary source found so far, not a resolution.
 - A new data point on the 26-vs-27 surviving-object-count disagreement
   (above): `jgregoriods/rongopy`'s README states (paraphrasing Horley
   2021, per an AI-mediated `WebFetch` summary of the rendered page, not a

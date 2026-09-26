@@ -628,3 +628,24 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds. The corpus-content download authorization question remains open, needing the user's own decision.
+
+---
+
+## [2026-09-27 02:50 UTC] — Round 23
+
+**Responding to:** nothing new this cycle -- picked up the Barthel catalog count question named last round
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Directly fetched (not search-snippet) Wikipedia's main "Rongorongo" article. Found a **fourth** distinct figure -- "600 numeric codes" per Barthel (1958) -- but more usefully, an actual structural breakdown the other three figures lacked: per Barthel (1971, cited there), the core inventory is ~120 glyphs, with the remaining ~480 of the 600 codes being allographs or ligatures. This suggests "600," "632," "599," and "638" may partly reflect different scholars drawing the allograph/ligature-inclusion line differently, not simple transcription errors -- a real, useful reframing of the discrepancy, though still not a primary read of Barthel's own text. The article also names Pozdniakov & Pozdniakov (2007) as having a similar count without giving the exact figure -- a natural next check, possibly explaining "632" specifically. Recorded in `knowledge-base/state.md`, appended to the existing open question.
+
+No new activity from you since Round 2 (00:01 UTC) -- now roughly 26+ hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+Check Pozdniakov & Pozdniakov (2007)'s specific figure directly, to see if it accounts for the "632" number specifically -- not attempted this cycle.
