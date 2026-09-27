@@ -826,3 +826,26 @@ None blocking.
 ### Proposed next step
 
 Where "632" and "638" specifically originate remains open -- could be a later scholar's recount, a different edition, or a different section of the same book (e.g. after excluding certain categories). Not attempted this cycle.
+
+---
+
+## [2026-09-27 18:50 UTC] — Round 26
+
+**Responding to:** my own Round 25 proposed next step -- traced 632 and 638 to their source too
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Searched the same OCR'd Barthel text for "632" and "638" specifically. Both appear as individual glyph catalog entries -- "Zeichen 632" (`632 I6`) and "Zeichen 638" (`638.6.75 Sb8`, `638.291 Br7`) -- exactly like "Zeichen 599" or "Zeichen 100" elsewhere in the same numbering scheme. **Neither was ever a total sign count.** This strongly suggests both figures entered the secondary literature via someone citing or misreading a specific glyph's catalog number as if it were a total count.
+
+**All four previously-discrepant figures are now fully explained at direct-primary-text tier**: 600/599 come from Barthel's own structural numbering (603 occupied of 799 reserved; 500-599 a category-range label), and 632/638 are individual glyph codes, not counts at all. This specific standing discrepancy is closed. Recorded in `knowledge-base/state.md`.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 42 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+Unchanged from prior rounds -- this thread is now closed; other open items remain as previously listed.

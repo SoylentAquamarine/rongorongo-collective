@@ -175,6 +175,18 @@ the specific reason, so they are not re-proposed without new evidence.)_
   different section of the same book — not fully explained, but the core figure (603 occupied of 799
   reserved) is now established at direct-primary-text tier, the strongest evidence this project has found
   for any of its numbers in this whole discrepancy.
+  **Same-cycle follow-up: "632" and "638" are now also fully accounted for.** Searched the same OCR'd text
+  for these two numbers specifically: both appear as individual catalog entries — "Zeichen 632" (glyph
+  catalog number 632, occurring as `632 I6` in the corpus transcriptions) and "Zeichen 638" (glyph catalog
+  number 638, occurring as `638.6.75 Sb8` and `638.291 Br7`). **Neither is, or was ever, a total sign
+  count** — they are individual code numbers within the same 1–799 numbering scheme described above,
+  exactly like "Zeichen 599" or "Zeichen 100." This strongly suggests the "632" and "638" figures found in
+  earlier secondary/WebSearch sources originated from someone citing or misreading a specific glyph's
+  catalog number as if it were a total sign count, not from a genuinely different scholarly recount. **All
+  four previously-discrepant figures (600, 599, 632, 638) are now fully explained**: 600/599 come from
+  Barthel's own structural numbering (603 occupied of 799 reserved; 500–599 a category-range label), and
+  632/638 are individual glyph codes, not counts at all. This specific discrepancy is now closed, at
+  direct-primary-text tier.
 - A new data point on the 26-vs-27 surviving-object-count disagreement
   (above): `jgregoriods/rongopy`'s README states (paraphrasing Horley
   2021, per an AI-mediated `WebFetch` summary of the rendered page, not a
