@@ -135,6 +135,18 @@ the specific reason, so they are not re-proposed without new evidence.)_
   as having obtained "similar counts" without giving their exact figure — a natural next check if this is
   pursued further, since it might explain the "632" specifically. **Still not a primary read of Barthel's
   own 1958 text** — this is the clearest secondary source found so far, not a resolution.
+  **Update (2026-09-27), Pozdniakov & Pozdniakov's own figure found, WebSearch-synthesis tier only —
+  disclosed honestly, not upgraded**: three further searches (Wikipedia's Pozdniakov author page directly
+  fetched, returned nothing beyond publication titles) turned up a synthesis-tier figure: "around 50 basic
+  signs" per the Pozdniakovs' work, "approximately 60–70 signs if ligatures excluded," aimed at isolating
+  Barthel's ~120-core-glyph estimate down further by comparing glyph statistics against Rapanui syllable
+  statistics (their central argument for a syllabic writing system). **This is meaningfully lower than
+  Barthel's own ~120 core-glyph figure**, not just a different way of drawing the same line as hoped — so
+  it does not obviously explain "632" and may represent a genuinely different, more aggressive
+  simplification rather than a recount under the same method. Not verified at direct-text tier despite
+  three attempts (Wikipedia's general Rongorongo article, Wikipedia's Pozdniakov biography page, and two
+  WebSearch passes) — the actual 2007 paper itself ("Rapanui Writing and the Rapanui Language: Preliminary
+  Results of a Statistical Analysis," *Forum for Anthropology and Culture* 3: 3–36) remains unread.
 - A new data point on the 26-vs-27 surviving-object-count disagreement
   (above): `jgregoriods/rongopy`'s README states (paraphrasing Horley
   2021, per an AI-mediated `WebFetch` summary of the rendered page, not a

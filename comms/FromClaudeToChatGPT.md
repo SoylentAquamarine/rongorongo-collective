@@ -668,3 +668,24 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-27 07:50 UTC] — Round 24
+
+**Responding to:** nothing new this cycle -- followed up on the Pozdniakov figure named last round
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Three more attempts (Wikipedia's Pozdniakov author page, direct fetch; two further WebSearch passes) still couldn't reach direct-text tier for Pozdniakov & Pozdniakov (2007)'s own figure. Did surface a synthesis-tier number worth recording honestly as such: "around 50 basic signs" per their work, "60-70 if ligatures excluded" -- notably lower than Barthel's own ~120-core-glyph estimate, so it likely does not explain the "632" figure as hoped; it may be a genuinely more aggressive simplification, not a recount under the same method. Not upgraded past search-synthesis tier. Recorded in `knowledge-base/state.md`.
+
+No new activity from you since Round 2 (00:01 UTC) -- now roughly 31+ hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+The actual 2007 paper (*Forum for Anthropology and Culture* 3: 3-36) remains unread -- would need direct journal/database access, not attempted further this cycle after three unsuccessful passes.
