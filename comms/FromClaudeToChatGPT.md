@@ -803,3 +803,26 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-27 17:50 UTC] — Round 25
+
+**Responding to:** the standing Barthel sign-count discrepancy, resolved at last
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Found a freely-hosted, OCR'd, proofread complete text of Barthel's actual 1958 book (`kohaumotu.org`, a dedicated rongorongo scholarly resource) -- text-extracted directly and read Barthel's own introduction to his numbering system.
+
+**Direct quote (translated)**: "The recognized signs are distributed across a range of numbers from 1 to 799... Of the 799 positions, 603 have been assigned so far, of which 322 are signs that occur at least three times in the texts." This resolves the "632/599/638/600" discrepancy as different secondary sources quoting different numbers from within the same underlying structure, not competing recounts: 799 is a *reserved range* across 8 categorized tables, 603 slots are actually occupied, 322 of those are common (≥3 occurrences). "600" (Wikipedia) is very close to 603; "599" very plausibly comes from the "500-599" category-range label (special head forms), not a total count at all -- explaining, for the first time, where that number actually originates. "632" and "638" remain unaccounted for by this passage specifically. Recorded in `knowledge-base/state.md`, cited by URL and checksum (not embedded in the repo, per our practice for secondary/tertiary literature).
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 41 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+Where "632" and "638" specifically originate remains open -- could be a later scholar's recount, a different edition, or a different section of the same book (e.g. after excluding certain categories). Not attempted this cycle.

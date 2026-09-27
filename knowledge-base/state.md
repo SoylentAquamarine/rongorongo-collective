@@ -1,6 +1,8 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-26 (Guy 1990's Mamari lunar-calendar location now primary-source-verified via Persée)
+Last updated: 2026-09-27 (Barthel's own 1958 introduction, read directly, resolves the long-standing
+"632/599/638/600" sign-count discrepancy: 603 of 799 reserved code slots are occupied, 322 of those common —
+see Confirmed Findings)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -147,6 +149,32 @@ the specific reason, so they are not re-proposed without new evidence.)_
   three attempts (Wikipedia's general Rongorongo article, Wikipedia's Pozdniakov biography page, and two
   WebSearch passes) — the actual 2007 paper itself ("Rapanui Writing and the Rapanui Language: Preliminary
   Results of a Statistical Analysis," *Forum for Anthropology and Culture* 3: 3–36) remains unread.
+  **Update (2026-09-27), the discrepancy is now resolved at the strongest possible tier — Barthel's own
+  words, directly read**: located a freely-hosted, OCR'd, proofread complete text of Barthel's 1958
+  *Grundlagen zur Entzifferung der Osterinselschrift* at `kohaumotu.org/Rongorongo/Barthel/Barthel_complete.pdf`
+  (SHA-256 `a6df84a8961c1e4872ba2eefb617c12194875e1c920a20e7e88cefab4f375bce`, retrieved 2026-09-27 — not
+  saved into this repo, cited by URL and checksum only, following this project's practice of citing rather
+  than embedding secondary/tertiary literature). Text-extracted directly with `pypdf` and read Barthel's
+  own introduction to his numbering system (pp. 40–41 of the original). **Direct quote, translated from
+  the German**: "The recognized signs are distributed across a range of numbers from 1 to 799... Of the
+  799 positions, 603 have been assigned so far, of which 322 are signs that occur at least three times in
+  the texts." (German: "Auf einen Spielraum der Ziffern von 1 bis 799 verteilen sich die erkannten
+  Schriftzeichen... V on den 799 Positionen sind bisher 603 belegt, davon 322 mit solchen Zeichen, die
+  wenigstens dreimal in den Texten vorkommen.") **This conclusively resolves the "632/599/638/600"
+  discrepancy as a case of secondary sources quoting different numbers from within the same underlying
+  structure, not competing recounts**: Barthel's numbering scheme is a *reserved range* of 799 code slots
+  across 8 tables (100–199 rare geometric forms, 200–299 front-facing anthropomorphic figures, 300–399
+  side-view anthropomorphic figures, 400–499 profile heads on various bodies, 500–599 special head forms,
+  600–699 bird figures, 700–799 other animal forms), of which **603 slots are actually occupied by real
+  signs**, and of those, only **322 occur at least three times** in the surviving corpus (i.e., are common
+  rather than rare/hapax). The previously-found "600" (Wikipedia) is very close to the true figure (603);
+  "599" is very plausibly a garbled reference to the "500–599" category-range boundary (special head
+  forms), not a total count at all — directly explaining, for the first time, where that specific number
+  actually comes from rather than merely disclosing that it existed. "632" and "638" remain unaccounted
+  for by this specific passage and may be citing a different edition, a later scholar's recount, or a
+  different section of the same book — not fully explained, but the core figure (603 occupied of 799
+  reserved) is now established at direct-primary-text tier, the strongest evidence this project has found
+  for any of its numbers in this whole discrepancy.
 - A new data point on the 26-vs-27 surviving-object-count disagreement
   (above): `jgregoriods/rongopy`'s README states (paraphrasing Horley
   2021, per an AI-mediated `WebFetch` summary of the rendered page, not a
