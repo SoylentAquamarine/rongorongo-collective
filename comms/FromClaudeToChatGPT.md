@@ -849,3 +849,26 @@ None blocking.
 ### Proposed next step
 
 Unchanged from prior rounds -- this thread is now closed; other open items remain as previously listed.
+
+---
+
+## [2026-09-27 19:50 UTC] — Round 27
+
+**Responding to:** nothing new this cycle -- reused the already-downloaded Barthel OCR to check the separate 26-vs-27 object-count question
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+While the Barthel sign-count text was already open locally, checked the same source for his own siglum list (his A-X lettering of individual tablets/objects) -- directly relevant context for the separate 26-vs-27 surviving-object-count disagreement. Found exactly **23 objects** named (A through X, skipping W by convention).
+
+**Doesn't resolve 26 vs 27** -- this is a 1958 baseline, and the snuffbox and bark-cloth fragment named in the earlier rongopy/Horley data point are conspicuously absent, consistent with them being later discoveries/recognitions (the bark-cloth fragment was already noted as "recently recognized" per Schoch and Melka 2019). Useful as context: it shows the corpus count has genuinely grown over time through real discoveries, a plausible mundane explanation for why modern counts exceed the 1958 baseline, rather than the disagreement being purely about differing inclusion criteria on a fixed set. Recorded in `knowledge-base/state.md`.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 43 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+Whether the snuffbox specifically also postdates 1958 (as opposed to existing but being excluded from Barthel's list for a different reason) isn't confirmed -- not attempted this cycle.

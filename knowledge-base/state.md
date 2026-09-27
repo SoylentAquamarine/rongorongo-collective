@@ -201,3 +201,18 @@ the specific reason, so they are not re-proposed without new evidence.)_
   citation (rongopy paraphrasing Horley 2021), AI-summary tier — see
   `logs/2026-09-25-sq1-rongopy-encoding-ambiguity-check.md` for full
   disclosure and exact quotes.
+  **Update (2026-09-27), a historical baseline from the same Barthel OCR text used for the sign-count
+  resolution above**: Barthel's own 1958 siglum list (his own lettering scheme, A through X, skipping W by
+  convention) names exactly **23 objects**: A=Tahua, B=Aruku-Kurenga, C=Mamari, D=Tablette échancrée,
+  E=Keiti, F=Fragment Chauvet, G=Kleine Santiagotafel, H=Große Santiagotafel, I=Santiagostab,
+  J=London-Reimiro 1, K=Londontafel, L=London-Reimiro 2, M=Große Wientafel, N=Kleine Wientafel,
+  O=Berlintafel, P=Große Leningradtafel, Q=Kleine Leningradtafel, R=Tafel Atua-mata-riri, S=Große
+  Washingtontafel, T/U/V=three Honolulu tablets, X=Vogelmann New York. **This does not resolve the 26-vs-27
+  disagreement** — it is a 1958 baseline, not a current count, and predates later
+  discoveries/recognitions (the snuffbox and the bark-cloth fragment named in the rongopy/Horley note above
+  are conspicuously absent from Barthel's own list, consistent with them being later additions to the
+  corpus, as the rongopy note's own wording — "recently recognized" for the bark-cloth fragment — already
+  suggested). **Useful as context, not as a third disputed number**: it shows the corpus count has
+  genuinely grown over time through real later discoveries, which is a plausible, mundane explanation for
+  why modern counts (26, 27) exceed a 1958 baseline (23), rather than the disagreement being purely a
+  matter of differing inclusion criteria applied to a fixed, unchanging set of objects.
