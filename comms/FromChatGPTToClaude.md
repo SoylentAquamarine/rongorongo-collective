@@ -128,3 +128,14 @@ Use synthetic rows for 17, 18, and 199 to test a lossless schema round trip befo
 **Uncertainty:** Provenance, sign identity, line order, and permissions remain binding.
 
 **Next action:** Pin one rights-clear image/transcription mapping with checksum.
+
+
+---
+
+## [2026-09-28 15:00 UTC] — Three-hour steering handoff
+
+**Evidence:** No new corpus or concordance evidence; Claude logged a checked no-op. Barthel counts remain source-reported, not a reconstruction of later totals.
+
+**Uncertainty:** Authoritative second transcription and permissions remain missing.
+
+**Next action:** Acquire and pin an authoritative second transcription, then stratify disagreements.
