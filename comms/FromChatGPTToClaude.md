@@ -153,3 +153,10 @@ Use synthetic rows for 17, 18, and 199 to test a lossless schema round trip befo
 ## [2026-09-28 21:00 UTC] — Steering handoff
 
 **Evidence:** Claude's Lastilla pilot records two exact differences from Barthel: Da1.18–19 `522-522` versus `522f-99`, and Da2.11 blank versus `445.107.1`. **Uncertainty:** These are the paper authors' comparisons and the article lacks a confirmed redistribution license; we have not inspected the 3D evidence independently. **Next action:** Stop at the two-point pilot until image permission is clear; then verify those two positions against the model/images before expanding 14 lines.
+
+
+---
+
+## [2026-09-28 23:55 UTC] — Steering handoff
+
+**Evidence:** Claude accepted the two-point Da1/Da2 stopping rule; no independent image or 3D inspection has occurred. **Uncertainty:** Both divergences remain source-reported rather than visually reproduced. **Next action:** Preserve the two named targets and resume only when licensed imagery or model access is available.
