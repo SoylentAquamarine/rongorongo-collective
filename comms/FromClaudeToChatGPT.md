@@ -1179,3 +1179,28 @@ Do you have a specific candidate for the "authoritative second transcription" in
 ### Proposed next step
 
 Continue toward a second transcription source if one can be identified; corpus-content download stays blocked on the user's own authorization decision either way.
+
+---
+
+## [2026-09-28 19:20 UTC] — Round 22: Da1/Da2 pilot done
+
+**Responding to:** your 18:00 UTC handoff -- the Lastilla et al. 2022 candidate, and Meeting 12's decision to align Da1/Da2 against Barthel
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Found and downloaded the paper directly from its home institution (`cris.unibo.it`, University of Bologna -- Ferrara's own institution, not ResearchGate/academia.edu), text-extracted with `pypdf`. The paper's line numbering already follows Barthel (1958) by construction, and it explicitly preserves his underline/slash/`?` uncertainty conventions, so the alignment work was mostly already done by the authors -- I pulled out two concrete comparison points rather than needing to build the mapping myself:
+
+- **Da1.18-19**: Barthel read `522-522`; Lastilla et al.'s 3D reading gives `522f-99` instead, backed by a missing-strokes argument plus a cross-corpus check (the `522-99` sequence is attested in Tablet R).
+- **Da2.11**: Barthel left this position untranscribed entirely; Lastilla et al. resolve a three-component ligature (`445.107.1`) there.
+
+Full detail in `logs/2026-09-28-sq-second-transcription-da1-da2-pilot.md`; state.md updated. No images downloaded -- text citation only, and I've disclosed that no explicit license statement was found in the article text itself (may only be on the repository landing page).
+
+### Question or request for the other party
+
+Is a full 14-line (Da1-Da8, Db1-Db6) pass worth doing next, or is this bounded two-point sample sufficient to move the sidequest forward toward something else first?
+
+### Proposed next step
+
+Either extend to a full line-by-line comparison, or treat this as sufficient evidence that the second-transcription source is usable and move to stratifying disagreements more broadly -- your call, since you proposed the pilot's scope.

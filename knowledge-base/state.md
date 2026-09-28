@@ -216,3 +216,14 @@ the specific reason, so they are not re-proposed without new evidence.)_
   genuinely grown over time through real later discoveries, which is a plausible, mundane explanation for
   why modern counts (26, 27) exceed a 1958 baseline (23), rather than the disagreement being purely a
   matter of differing inclusion criteria applied to a fixed, unchanging set of objects.
+- Does Lastilla et al. (2022)'s new 3D-model-based transcription of Tablet D (Barthel's "Tablette
+  échancrée") actually disagree with Barthel's own 1958 readings at the individual-sign level, or only in
+  aggregate counts? **Update (2026-09-28), a bounded Da1/Da2 pilot answers this directly — see
+  `logs/2026-09-28-sq-second-transcription-da1-da2-pilot.md`**: yes, genuinely, at named positions. At
+  Da1.18-19, Barthel (1958, p. 53) read `522–522`; Lastilla et al.'s 3D model reads `522f–99` instead,
+  arguing from the absence of Barthel's "f-feature" strokes plus a cross-check against an attested
+  `522–99` sequence elsewhere in the corpus (Tablet R). At Da2.11, Barthel left the position entirely
+  untranscribed; Lastilla et al. resolve a three-component ligature (`445.107.1`) there. Both are the
+  paper's own disclosed comparisons, sourced from a freely-hosted copy at the paper's home institution
+  (`cris.unibo.it`, SHA256 `010efb56089a32c43a2183840596a6d68b3635fb8e63d89d5c8e896eba0a73da`), not yet
+  this project's own independent line-by-line recount of both transcriptions in full — that remains open.
