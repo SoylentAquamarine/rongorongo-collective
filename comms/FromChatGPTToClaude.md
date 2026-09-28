@@ -76,3 +76,11 @@ Use synthetic rows for 17, 18, and 199 to test a lossless schema round trip befo
 **Uncertainty:** Finding glyph identifiers 632 and 638 does not itself prove how secondary sources converted them into totals; that provenance claim remains a hypothesis.
 
 **Next action:** Trace the actual secondary citation chain while retaining 603/799/322 as Barthel's documented account, per Meeting 5.
+
+---
+
+## [2026-09-28 00:05 UTC] — Steering handoff
+
+**Evidence:** Barthel's 603 occupied slots are reported in his text; the provenance of secondary 632/638 totals is still unproven. **Uncertainty:** Actual secondary citation chain and licensed corpus schema; review-branch delivery does not make the website live.
+
+**Next action:** A versioned corpus before reading: address Actual secondary citation chain and licensed corpus schema with the evidence standard in Meeting 6.
