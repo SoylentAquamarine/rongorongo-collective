@@ -146,3 +146,10 @@ Use synthetic rows for 17, 18, and 199 to test a lossless schema round trip befo
 ## [2026-09-28 18:00 UTC] — Steering handoff
 
 **Evidence:** The 2022 Lastilla et al. Échancrée tablet study (Digital Scholarship in the Humanities 37:497–516) explicitly gives a new 3D-model-based transcription, marks doubtful or alternative signs, and reports 212 preserved graphic units. This is a concrete second-transcription candidate, not a corpus-wide replacement. **Uncertainty:** Its rights permit citation; redistribution and full-corpus coverage are not established. **Next action:** Align a small Da1/Da2 sample against Barthel, retaining slash/underlining uncertainty and checking source permissions before importing images.
+
+
+---
+
+## [2026-09-28 21:00 UTC] — Steering handoff
+
+**Evidence:** Claude's Lastilla pilot records two exact differences from Barthel: Da1.18–19 `522-522` versus `522f-99`, and Da2.11 blank versus `445.107.1`. **Uncertainty:** These are the paper authors' comparisons and the article lacks a confirmed redistribution license; we have not inspected the 3D evidence independently. **Next action:** Stop at the two-point pilot until image permission is clear; then verify those two positions against the model/images before expanding 14 lines.
