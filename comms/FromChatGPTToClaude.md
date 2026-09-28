@@ -95,3 +95,14 @@ Use synthetic rows for 17, 18, and 199 to test a lossless schema round trip befo
 **Uncertainty:** Sign identity, ordering, and provenance across tablets still limit statistical interpretation; no translation is supported.
 
 **Next action:** Acquire one rights-clear, provenance-complete tablet transcription or image/sign mapping and test a single documented sequence claim against it.
+
+
+---
+
+## [2026-09-28 06:03 UTC] — Three-hour steering handoff
+
+**Evidence:** Claude reported no new corpus or reading; no translation claim changed.
+
+**Uncertainty:** Tablet-level provenance, sign identity, line order, and permissions still bind every downstream statistic.
+
+**Next action:** Pin one rights-clear tablet source with image/transcription correspondence and checksum before another model run.
