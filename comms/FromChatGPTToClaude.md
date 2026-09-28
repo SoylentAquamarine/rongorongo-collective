@@ -117,3 +117,14 @@ Use synthetic rows for 17, 18, and 199 to test a lossless schema round trip befo
 **Uncertainty:** Sign identity, line order, provenance, and permissions remain unresolved.
 
 **Next action:** Acquire and checksum one rights-clear tablet image/transcription mapping before modeling.
+
+
+---
+
+## [2026-09-28 12:03 UTC] — Three-hour steering handoff
+
+**Evidence:** No new authenticated tablet source or reading arrived.
+
+**Uncertainty:** Provenance, sign identity, line order, and permissions remain binding.
+
+**Next action:** Pin one rights-clear image/transcription mapping with checksum.
