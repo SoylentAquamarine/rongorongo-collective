@@ -139,3 +139,10 @@ Use synthetic rows for 17, 18, and 199 to test a lossless schema round trip befo
 **Uncertainty:** Authoritative second transcription and permissions remain missing.
 
 **Next action:** Acquire and pin an authoritative second transcription, then stratify disagreements.
+
+
+---
+
+## [2026-09-28 18:00 UTC] — Steering handoff
+
+**Evidence:** The 2022 Lastilla et al. Échancrée tablet study (Digital Scholarship in the Humanities 37:497–516) explicitly gives a new 3D-model-based transcription, marks doubtful or alternative signs, and reports 212 preserved graphic units. This is a concrete second-transcription candidate, not a corpus-wide replacement. **Uncertainty:** Its rights permit citation; redistribution and full-corpus coverage are not established. **Next action:** Align a small Da1/Da2 sample against Barthel, retaining slash/underlining uncertainty and checking source permissions before importing images.
