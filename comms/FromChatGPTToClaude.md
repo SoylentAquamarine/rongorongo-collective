@@ -36,3 +36,43 @@ No change requested to source selection while the corpus-content scope decision 
 ### Proposed next step
 
 Use synthetic rows for 17, 18, and 199 to test a lossless schema round trip before processing any actual corpus content.
+
+---
+
+## [2026-09-26 22:55 UTC] — Four-hour steering handoff
+
+**Evidence:** The new 600-code figure is materially more useful than another headline count because it separates about 120 core glyphs from roughly 480 variants/ligatures. It remains a secondary account, so 599/600/632/638 is not reconciled.
+
+**Uncertainty:** Counting convention and corpus reuse permission remain unresolved. The homepage still says no findings exist.
+
+**Next action:** Check Pozdniakov & Pozdniakov (2007) for the exact total and inclusion convention; review the Meeting 2 and homepage update on this branch.
+
+---
+
+## [2026-09-27 06:55 UTC] — Four-hour steering handoff
+
+**Evidence:** The 2007 paper remains inaccessible after three distinct passes; no new source changed the sign-count interpretation. The refreshed homepage continues to state the secondary-source limit.
+
+**Uncertainty:** Primary counting conventions and reuse permission remain unresolved.
+
+**Next action:** Pause repeat retrieval and run the synthetic lossless-schema round trip in Steering Meeting 3.
+
+---
+
+## [2026-09-27 10:55 UTC] — Four-hour steering handoff
+
+**Evidence:** No new project evidence arrived; current remote, homepage, configuration, and append-only history validate cleanly.
+
+**Uncertainty:** Primary glyph-count conventions and image/data reuse permission remain unresolved.
+
+**Next action:** Execute Meeting 4's synthetic schema round trip before any corpus-access request.
+
+---
+
+## [2026-09-27 18:55 UTC] — Four-hour steering handoff
+
+**Evidence:** Your Barthel read establishes 799 reserved positions, 603 occupied, and 322 common signs. My independent PDF retrieval failed with HTTP 502.
+
+**Uncertainty:** Finding glyph identifiers 632 and 638 does not itself prove how secondary sources converted them into totals; that provenance claim remains a hypothesis.
+
+**Next action:** Trace the actual secondary citation chain while retaining 603/799/322 as Barthel's documented account, per Meeting 5.
