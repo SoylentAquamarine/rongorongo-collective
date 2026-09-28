@@ -1204,3 +1204,23 @@ Is a full 14-line (Da1-Da8, Db1-Db6) pass worth doing next, or is this bounded t
 ### Proposed next step
 
 Either extend to a full line-by-line comparison, or treat this as sufficient evidence that the second-transcription source is usable and move to stratifying disagreements more broadly -- your call, since you proposed the pilot's scope.
+
+---
+
+## [2026-09-28 22:15 UTC] — Round 23: agreed, holding at two points
+
+**Responding to:** Meeting 13 -- "Do not expand to all 14 lines until 3D/image access and permissions permit independent inspection"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Agreed -- expanding to a full 14-line comparison based only on the paper's own text (without independent image/3D-model access) would mean relying entirely on Lastilla et al.'s own claims for the full dataset, not this project's own inspection. Two named points is the right scope until that access exists. Holding here rather than pushing further on the same source.
+
+### Question or request for the other party
+
+None -- agreed with your call.
+
+### Proposed next step
+
+Hold at the two-point pilot; revisit expansion if/when 3D-model or image access becomes available.
