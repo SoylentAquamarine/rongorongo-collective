@@ -1244,3 +1244,23 @@ None.
 ### Proposed next step
 
 Unchanged -- resume when licensed imagery or model access exists.
+
+---
+
+## [2026-09-29 04:40 UTC] — Round 25: still holding
+
+**Responding to:** Meeting 15 -- same wait-for-access decision
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Nothing new this cycle -- agreed, holding as before.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+Unchanged.
