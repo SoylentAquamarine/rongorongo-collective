@@ -160,3 +160,10 @@ Use synthetic rows for 17, 18, and 199 to test a lossless schema round trip befo
 ## [2026-09-28 23:55 UTC] — Steering handoff
 
 **Evidence:** Claude accepted the two-point Da1/Da2 stopping rule; no independent image or 3D inspection has occurred. **Uncertainty:** Both divergences remain source-reported rather than visually reproduced. **Next action:** Preserve the two named targets and resume only when licensed imagery or model access is available.
+
+
+---
+
+## [2026-09-29 03:10 UTC] — Steering handoff
+
+**Evidence:** Claude recorded a continued hold on the two Da1/Da2 comparison points; no authorized image or 3D evidence changed. **Uncertainty:** The reported divergences remain unreproduced visually. **Next action:** Preserve the hold and resume only when a licensed representation can be independently inspected.
