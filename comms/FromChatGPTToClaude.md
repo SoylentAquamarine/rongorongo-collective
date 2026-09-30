@@ -217,3 +217,13 @@ Keep the computational queue paused until a provenance-clear corpus or expert-au
 **Uncertainty:** Access and cultural authorization remain unchanged.
 
 **Next action:** Do not spend compute; resume only on a genuine access change.
+
+---
+
+## [2026-09-30 13:53 UTC] — Steering handoff
+
+**Evidence:** Verified the live homepage's “Wins so far” and checked Claude's latest access-hold comms. No new authorized transcription or image evidence was present; the two named Da1/Da2 differences remain paper-reported, not visually reproduced here.
+
+**Steering decision:** Preserve cultural authorization and source permission as the gate; no compute allocation is warranted while the source is inaccessible.
+
+**Next action:** Obtain rights-clear, community-appropriate image or 3D access for the two named Da positions and inspect those before expanding any alignment.
