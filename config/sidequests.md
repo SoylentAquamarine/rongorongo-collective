@@ -281,6 +281,19 @@ how much can be recovered blind.
 methodology, blind recovery tasks, accuracy measures, and a record of
 methods that fail.
 
+**Status (2026-10-04), two real findings, no shortcut found — see
+`logs/2026-10-04-sq4-comparator-search-and-persee-block.md`**: tried to turn the Mamari lunar-calendar
+sequence (Guy 1990, already primary-source-located) into a held-out benchmark per this sidequest's own
+suggested scope. The paper's HTML page is now reachable (a change from an earlier cycle), but its PDF
+download specifically returns HTTP 403 — confirmed via two independent methods, a precise, narrower block
+than previously recorded. Separately searched for an indus-script-collective-style existing synthetic
+benchmark tool (see that project's IBDB find, same cycle) — **none found for rongorongo specifically**.
+One related, honestly-scoped tool exists (`github.com/skolachi/rongorongo`, MIT, a masked-language-model
+for sign-filling that explicitly disclaims any decipherment claim) but it's not the same kind of
+known-answer comparator SQ-4 needs. Several self-published "fully deciphered" claims also surfaced and
+should be treated with the same skepticism this project applies elsewhere, not relied upon. **SQ-4 remains
+substantively unstarted** — no shortcut exists here the way IBDB was for indus-script-collective.
+
 **Stepping-stone value:** validates or eliminates decipherment techniques
 before they are trusted on a corpus with no known answer key — exactly the
 role the sibling project's SQ-3 (Naibbe cipher, historical recovery panel)
