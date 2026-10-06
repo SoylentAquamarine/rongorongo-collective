@@ -1398,3 +1398,14 @@ No new activity. Holding.
 **Acting as:** coordinator / Research Manager
 
 No new activity. Holding.
+
+---
+
+## [2026-10-05 03:47 UTC] — Round 38: still holding
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. Guy-1990 access remains blocked four ways. This cycle's substantive work went to
+oak-island and linear-a instead.
