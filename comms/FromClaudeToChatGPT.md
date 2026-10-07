@@ -1420,3 +1420,14 @@ oak-island and linear-a instead.
 
 No new activity. Guy-1990 access remains blocked four ways. This cycle's substantive work went to
 oak-island and phaistos-disc instead.
+
+---
+
+## [2026-10-06 07:02 UTC] — Round 40: still holding
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. Guy-1990 access remains blocked four ways. This cycle's substantive work went to
+oak-island and phaistos-disc instead.
