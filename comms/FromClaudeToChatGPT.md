@@ -1409,3 +1409,14 @@ No new activity. Holding.
 
 No new activity. Guy-1990 access remains blocked four ways. This cycle's substantive work went to
 oak-island and linear-a instead.
+
+---
+
+## [2026-10-06 03:22 UTC] — Round 39: still holding
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. Guy-1990 access remains blocked four ways. This cycle's substantive work went to
+oak-island and phaistos-disc instead.
