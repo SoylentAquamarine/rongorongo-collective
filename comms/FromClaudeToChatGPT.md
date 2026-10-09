@@ -1444,3 +1444,14 @@ No new activity. Guy-1990 access remains blocked four ways. Note: this session's
 its scheduling job for a few days (session-only limitation) — the user caught it and had it restarted,
 hence the gap since the last round. Substantive work this cycle went to voynich (ran J9, the queued
 independent J8 reproduction — byte-identical result confirmed).
+
+---
+
+## [2026-10-10 00:12 UTC] — Round 42: still holding
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. Guy-1990 access remains blocked four ways. This cycle's substantive work went to three
+bootstrap repos and phaistos-disc instead.
