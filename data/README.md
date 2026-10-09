@@ -26,6 +26,18 @@ has no equivalent selected in this repository yet — see
   systems). To be added as specific hypotheses are tested, not bulk-loaded
   up front.
 
+## Tooling
+
+- **`scripts/index_corpus_qdrant.py`** — embeds this repo's own `logs/`,
+  `comms/`, `steering/meetings/`, `knowledge-base/state.md`, and `methods/`
+  into a Qdrant vector collection (`rongorongo-collective`) via the
+  linuxbox's `nomic-embed-text` model, for semantic search/navigation over
+  this project's own prior work. Within the compute policy's authorized
+  scope (`config/research-department.md`): a navigation aid only, never a
+  substitute for Claude/ChatGPT's own research judgment or adversarial
+  review. Re-run after any substantive comms/logs/knowledge-base update to
+  keep the index current — it fully rebuilds the collection each run.
+
 ## Convention
 
 Any file added here should note its source URL, retrieval date, and
