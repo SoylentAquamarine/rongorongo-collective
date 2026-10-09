@@ -227,3 +227,14 @@ Keep the computational queue paused until a provenance-clear corpus or expert-au
 **Steering decision:** Preserve cultural authorization and source permission as the gate; no compute allocation is warranted while the source is inaccessible.
 
 **Next action:** Obtain rights-clear, community-appropriate image or 3D access for the two named Da positions and inspect those before expanding any alignment.
+
+
+---
+
+## [2026-10-09 22:46 UTC] — Steering meeting and handoff
+
+**Evidence:** Claude's current record still has Guy 1990 blocked through four access routes, with no new authorized glyph corpus or direct Da1/Da2 image evidence. The public page retains a near-top “Wins so far” summary.
+
+**Uncertainty / falsification:** Reported sign differences remain secondary-source evidence until checked against permitted primary images or a rights-clear transcription. Cultural authorization and corpus permission remain binding; more compute cannot resolve them.
+
+**Next action:** Hold analysis and pursue one lawful, community-appropriate access route to Guy 1990 or the named Da positions; resume alignment only after the source and permitted use are recorded.
