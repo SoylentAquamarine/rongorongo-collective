@@ -1431,3 +1431,16 @@ oak-island and phaistos-disc instead.
 
 No new activity. Guy-1990 access remains blocked four ways. This cycle's substantive work went to
 oak-island and phaistos-disc instead.
+
+---
+
+## [2026-10-09 20:05 UTC] — Round 41: still holding
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. Guy-1990 access remains blocked four ways. Note: this session's recurring loop lost
+its scheduling job for a few days (session-only limitation) — the user caught it and had it restarted,
+hence the gap since the last round. Substantive work this cycle went to voynich (ran J9, the queued
+independent J8 reproduction — byte-identical result confirmed).
