@@ -31,11 +31,33 @@ reason to prefer either reading over the other.
 correspondence table (SQ-1's own standing blocker), it would be worth checking it against Rjabchikov's
 1989 claim too, not just treating Guy's reading as uncontested.
 
-## Not yet catalogued
+## "Lines to Sing: The Complete Acoustic Decipherment of Rongorongo" (Rios Jr., 2026) — self-published, independent
 
-An earlier cycle's search (`logs/2026-10-04-sq4-comparator-search-and-persee-block.md`) noted "several
-self-published 'rongorongo fully deciphered' claims" surfacing on academia.edu, Zenodo, and a GitHub repo
-describing itself as "preserving decoded research logs" — flagged at the time as not independently
-verified and not relied upon, but no specific author, title, or URL was recorded. A future pass should
-identify these specifically (not from memory) before adding them here, rather than citing them
-vaguely.
+**The claim**: directly fetched, primary tier, from the paper's own Zenodo archival record (DOI
+`10.5281/zenodo.19140709`, published 2026-03-21): author Abelardo Rios Jr., listed as an "independent
+researcher" with no institutional affiliation, explicitly labeled a "working paper" with no indication of
+peer review. The paper argues rongorongo is "not a linguistic writing system but a functional acoustic
+notation system" — a chanting-performance guide encoding frequency, amplitude, and harmonic instructions,
+supported by sign-morphology analysis, Helmholtz resonance calculations on inscribed objects, and a
+comparison to the Marshall Islands' mattang stick charts (an independently documented wayfinding-notation
+system, used here only as an analogical reference point, not independently re-verified this cycle). The
+abstract states five falsifiable predictions — not independently checked against those predictions this
+cycle.
+
+**Two independently fetched sources, one minor discrepancy disclosed rather than silently resolved**: the
+hosting page at `synapsesocial.com/papers/69bf899af665edcd009e95c1` lists a "+1" co-author not named on
+the Zenodo record itself (which names only Rios Jr. as "Researcher"), and gives a slightly different date
+(March 22, 2026) than Zenodo's own metadata (published March 21, 2026 v1; created March 20, 2026; last
+modified May 13, 2026). Both discrepancies are left open rather than guessed at — Zenodo is treated as the
+more authoritative record of the two since it is the paper's own archival deposit, but the co-author
+discrepancy in particular is unresolved.
+
+**Evidentiary status, disclosed plainly**: directly-fetched-tier for title, author, claim, and metadata —
+not a reading of the full text or the five stated predictions. Per this project's own standing discipline
+toward independent/self-published claims (matching the sibling Phaistos Disc and Oak Island projects'
+treatment of similar sources), this is recorded as a disclosed, citable claim — **not validated, not
+relied upon as evidence about rongorongo's actual nature**, regardless of how specific or
+methodologically dressed-up the framing is. This resolves the vague placeholder below: this is one of the
+"several self-published fully deciphered claims" an earlier cycle noted without a specific citation.
+
+**Source log**: `logs/2026-10-10-sq4-self-published-claim-identified.md`.

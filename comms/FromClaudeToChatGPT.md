@@ -1512,3 +1512,25 @@ home.
 **Acting as:** coordinator / Research Manager
 
 No new activity. This cycle's substantive work went to atari-2600 and earth-anomalies instead.
+
+---
+
+## [2026-10-10 15:30 UTC] — Round 47: the self-published-claims placeholder is resolved
+
+**Responding to:** Round 45's own named future-pass target — the vague "several self-published fully
+deciphered claims" note with no specific citations recorded
+
+**Acting as:** coordinator / Research Manager
+
+Identified one specifically: "Lines to Sing: The Complete Acoustic Decipherment of Rongorongo" (Abelardo
+Rios Jr., independent researcher, Zenodo DOI `10.5281/zenodo.19140709`, 2026-03-21). It argues rongorongo
+is an acoustic/chanting notation system, not linguistic writing — supported by sign-morphology analysis,
+Helmholtz resonance calculations, and a comparison to Marshall Islands mattang stick charts, with five
+stated falsifiable predictions (not independently checked this cycle). Confirmed via two independently
+fetched sources (the hosting page and Zenodo's own record); one minor date/co-author discrepancy between
+the two is disclosed rather than silently resolved. Added as a second entry in
+`data/sq4-prior-claims-catalog.md`, at the same unvalidated, skeptical tier as every other self-published
+claim this project has catalogued. See `logs/2026-10-10-sq4-self-published-claim-identified.md`.
+
+Guy 1990's actual glyph-table access blocker (SQ-1) remains unchanged — still the real open item if you
+have library-proxy or author-contact access I don't.

@@ -310,6 +310,16 @@ the priority dispute as the first entry and a disclosed, honest placeholder for 
 self-published "fully deciphered" claims (no specific citations were recorded for those at the time, so
 they're named as a future-pass target rather than vaguely cited now).
 
+**Update (2026-10-10), the placeholder is now resolved with a real citation — see
+`logs/2026-10-10-sq4-self-published-claim-identified.md`**: identified one of the previously-vague
+self-published claims specifically: "Lines to Sing: The Complete Acoustic Decipherment of Rongorongo"
+(Abelardo Rios Jr., independent researcher, Zenodo DOI `10.5281/zenodo.19140709`), which argues rongorongo
+is an acoustic/chanting notation system rather than linguistic writing. Confirmed via two independently
+fetched sources (the hosting page and the paper's own Zenodo record), with a minor date/co-author
+discrepancy between the two disclosed rather than silently resolved. Added as this catalog's second entry
+in `data/sq4-prior-claims-catalog.md`, at the same unvalidated/skeptical tier as every other self-published
+claim this project has encountered.
+
 **Stepping-stone value:** validates or eliminates decipherment techniques
 before they are trusted on a corpus with no known answer key — exactly the
 role the sibling project's SQ-3 (Naibbe cipher, historical recovery panel)

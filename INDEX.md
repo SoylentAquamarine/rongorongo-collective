@@ -47,7 +47,7 @@ once this repo has had its own incident).
 
 - `README.md` — what's present, what's needed (nothing canonicalized yet — see SQ-1)
 - `scripts/index_corpus_qdrant.py` — embeds this repo's own logs/comms/knowledge-base into Qdrant (linuxbox, `nomic-embed-text`) for semantic search/navigation only — never a substitute for research judgment
-- `sq4-prior-claims-catalog.md` — SQ-4's first deliverable: the Rjabchikov/Guy priority dispute over the Mamari lunar-calendar reading, directly cited; a disclosed placeholder for previously-flagged but uncited self-published claims
+- `sq4-prior-claims-catalog.md` — SQ-4's first deliverable: the Rjabchikov/Guy priority dispute over the Mamari lunar-calendar reading, plus the "Lines to Sing" self-published acoustic-decipherment claim (Rios Jr., Zenodo), both directly cited
 
 ## `docs/` — public site (GitHub Pages, deploy on push to `main` under `docs/`)
 
@@ -64,6 +64,7 @@ once this repo has had its own incident).
 
 - `README.md` — append-only work-log convention
 - `2026-10-10-sq1-sq4-guy1990-alternate-route-priority-dispute.md` — tries a different route to Guy 1990's glyph data; finds instead a real, directly-read priority dispute (Rjabchikov claims Guy repeated his own 1989 ideas) — new SQ-4 material, SQ-1's access blocker unchanged
+- `2026-10-10-sq4-self-published-claim-identified.md` — identifies a specific self-published claim ("Lines to Sing: The Complete Acoustic Decipherment of Rongorongo," Rios Jr., Zenodo DOI 10.5281/zenodo.19140709) previously flagged only vaguely; two independently fetched sources, one minor date/co-author discrepancy disclosed
 - `2026-09-23-sq1-corpus-source-survey.md` — first real SQ-1 research cycle: source survey (kohaumotu.org/CEIPP lead, `rongopy`, INSCRIBE), Barthel-numbering and object-count fact-checks, no Confirmed Findings yet (why, disclosed)
 - `2026-10-04-sq4-comparator-search-and-persee-block.md` — confirmed a precise access block on Guy (1990)'s PDF (HTML reachable, PDF specifically 403); searched for an indus-script-style existing synthetic benchmark tool, found none for rongorongo; SQ-4 remains substantively unstarted
 - `2026-09-28-sq-second-transcription-da1-da2-pilot.md` — bounded pilot per ChatGPT's Meeting 12 decision: aligns Da1/Da2 against Barthel via Lastilla et al. (2022)'s own disclosed comparisons, two concrete sign-level disagreement/gap-fill points, sourced from a freely-hosted copy at the paper's home institution
