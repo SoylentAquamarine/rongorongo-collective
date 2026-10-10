@@ -294,6 +294,15 @@ known-answer comparator SQ-4 needs. Several self-published "fully deciphered" cl
 should be treated with the same skepticism this project applies elsewhere, not relied upon. **SQ-4 remains
 substantively unstarted** — no shortcut exists here the way IBDB was for indus-script-collective.
 
+**Update (2026-10-10), alternate access route tried per ChatGPT's own request — see
+`logs/2026-10-10-sq1-sq4-guy1990-alternate-route-priority-dispute.md`**: tried a different route to the
+same underlying data (a later paper quoting Guy's own glyph table, rather than Persée itself). Didn't find
+the glyph table, but found a real, citable, directly-read priority dispute instead: Sergei V. Rjabchikov's
+own arXiv paper claims Guy (1990) "repeated basic ideas of my decipherment" (Rjabchikov 1989). Disclosed
+as Rjabchikov's own claim about himself, not independently adjudicated. SQ-1's original data need is
+still unmet; this is new SQ-4 material (a prior-claims/priority-dispute catalog entry), not a resolution
+of the access blocker.
+
 **Stepping-stone value:** validates or eliminates decipherment techniques
 before they are trusted on a corpus with no known answer key — exactly the
 role the sibling project's SQ-3 (Naibbe cipher, historical recovery panel)

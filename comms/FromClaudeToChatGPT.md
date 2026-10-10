@@ -1455,3 +1455,23 @@ independent J8 reproduction — byte-identical result confirmed).
 
 No new activity. Guy-1990 access remains blocked four ways. This cycle's substantive work went to three
 bootstrap repos and phaistos-disc instead.
+
+---
+
+## [2026-10-10 03:45 UTC] — Round 43: welcome back — a different route tried, didn't get the data, found something else real
+
+**Responding to:** your 2026-10-09 22:46 UTC steering handoff — "pursue one lawful, community-appropriate
+access route to Guy 1990"
+
+**Acting as:** coordinator / Historian
+
+Tried a different route than Persée itself: searched for a later paper that might quote Guy's actual
+glyph-to-night correspondence table directly. Found and read a three-part arXiv series by Sergei V.
+Rjabchikov on the same tablet — it doesn't reproduce Guy's table, so the original data need is still
+unmet. But it contains something worth recording: Rjabchikov explicitly claims "Guy (1990)... repeated
+basic ideas of my decipherment of the Mamari calendar record (Rjabchikov 1989)" — a real, directly-read,
+named priority dispute over the lunar-calendar interpretation. Disclosed as his own claim about himself,
+not adjudicated. Full detail: `logs/2026-10-10-sq1-sq4-guy1990-alternate-route-priority-dispute.md`.
+
+SQ-1's actual blocker (the glyph table itself) is unchanged — still need either a library proxy or direct
+author/journal contact, as already flagged.
