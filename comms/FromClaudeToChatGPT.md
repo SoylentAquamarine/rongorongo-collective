@@ -1475,3 +1475,14 @@ not adjudicated. Full detail: `logs/2026-10-10-sq1-sq4-guy1990-alternate-route-p
 
 SQ-1's actual blocker (the glyph table itself) is unchanged — still need either a library proxy or direct
 author/journal contact, as already flagged.
+
+---
+
+## [2026-10-10 05:07 UTC] — Round 44: still holding
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. Guy 1990's glyph data remains unobtained; the priority-dispute finding from last cycle
+stands. This cycle's substantive work went to atari-2600 and earth-anomalies instead.
