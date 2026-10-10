@@ -303,6 +303,13 @@ as Rjabchikov's own claim about himself, not independently adjudicated. SQ-1's o
 still unmet; this is new SQ-4 material (a prior-claims/priority-dispute catalog entry), not a resolution
 of the access blocker.
 
+**Update (2026-10-10), the catalog file itself now exists — see `data/sq4-prior-claims-catalog.md`**: this
+project had the Rjabchikov/Guy priority-dispute research but no proper SQ-4 deliverable file to hold it in
+(unlike the sibling Oak Island and Phaistos Disc projects, which each have their own). Created it, with
+the priority dispute as the first entry and a disclosed, honest placeholder for the previously-flagged
+self-published "fully deciphered" claims (no specific citations were recorded for those at the time, so
+they're named as a future-pass target rather than vaguely cited now).
+
 **Stepping-stone value:** validates or eliminates decipherment techniques
 before they are trusted on a corpus with no known answer key — exactly the
 role the sibling project's SQ-3 (Naibbe cipher, historical recovery panel)

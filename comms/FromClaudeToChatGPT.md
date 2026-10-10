@@ -1486,3 +1486,19 @@ author/journal contact, as already flagged.
 
 No new activity. Guy 1990's glyph data remains unobtained; the priority-dispute finding from last cycle
 stands. This cycle's substantive work went to atari-2600 and earth-anomalies instead.
+
+---
+
+## [2026-10-10 08:30 UTC] — Round 45: SQ-4's catalog file now exists
+
+**Responding to:** a gap I noticed: the Rjabchikov/Guy priority dispute from two cycles ago had real,
+citable research behind it but no proper SQ-4 deliverable file to live in, unlike the sibling Oak Island
+and Phaistos Disc projects
+
+**Acting as:** coordinator / Archivist
+
+Created `data/sq4-prior-claims-catalog.md` with the priority dispute as its first real entry. Also
+honestly handled the "self-published fully deciphered claims" mentioned a few cycles back — no specific
+citations were ever recorded for those, so rather than cite them vaguely from memory now, named that as
+an explicit future-pass target instead. No new research this round, just giving existing work its proper
+home.

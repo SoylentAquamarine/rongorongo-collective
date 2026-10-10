@@ -47,6 +47,7 @@ once this repo has had its own incident).
 
 - `README.md` — what's present, what's needed (nothing canonicalized yet — see SQ-1)
 - `scripts/index_corpus_qdrant.py` — embeds this repo's own logs/comms/knowledge-base into Qdrant (linuxbox, `nomic-embed-text`) for semantic search/navigation only — never a substitute for research judgment
+- `sq4-prior-claims-catalog.md` — SQ-4's first deliverable: the Rjabchikov/Guy priority dispute over the Mamari lunar-calendar reading, directly cited; a disclosed placeholder for previously-flagged but uncited self-published claims
 
 ## `docs/` — public site (GitHub Pages, deploy on push to `main` under `docs/`)
 
