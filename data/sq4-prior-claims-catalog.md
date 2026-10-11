@@ -61,3 +61,44 @@ methodologically dressed-up the framing is. This resolves the vague placeholder 
 "several self-published fully deciphered claims" an earlier cycle noted without a specific citation.
 
 **Source log**: `logs/2026-10-10-sq4-self-published-claim-identified.md`.
+
+## Steven Roger Fischer's "triad" decipherment claim (1995) — the most prominent historical claim, five named rebuttals
+
+**The claim**: in 1995, independent linguist Steven R. Fischer announced he had deciphered
+rongorongo's Santiago Staff (a 2,320-glyph text). His central example (the sequence "606.76 700
+8," roughly halfway through line 12) reads glyph 76 as a phallus, interpreting a recurring
+"X-phallus Y Z" pattern as "X copulated with Y, there issued forth Z," and glyph 606 as "all the
+birds" via a claimed semantic shift from "hand" to a plural marker — rendering the passage as a
+creation chant about birds, fish, and the sun.
+
+**Five specific, independently-sourced rebuttals, directly fetched from Wikipedia's dedicated
+"Decipherment of rongorongo" article**:
+1. Andrew Robinson's structural count: only 63 of the staff's sequences fully fit the claimed
+   triad pattern, the maximum even with generous counting.
+2. Pozdniakov and Pozdniakov's frequency argument: the four glyphs in Fischer's own main example
+   make up ~20% of the entire corpus — common enough that the same reading logic would produce
+   absurd results elsewhere in the text.
+3. Jacques Guy's linguistic objection: the word Fischer reads as a Rapanui plural marker (*mau*)
+   is a Tahitian grammatical element that functions as a post-nominal adjective ("true,
+   genuine") in Polynesian languages generally, not a plural marker.
+4. Guy's second objection: Fischer's supporting parallel text (*Atua Matariri*) relies on an
+   English translation that doesn't match its own source's Rapanui transcription; a separate,
+   independent reading of the same text mentions neither birds nor fish.
+5. Richard Sproat's computational test: automated string-matching shows the Santiago Staff
+   stands apart from the rest of the corpus on its own terms, and removing the "phallus" glyph
+   central to Fischer's method from the analysis doesn't change that result — undermining the
+   specific assumption his reading method depended on.
+
+**Why this entry is stronger than the two above**: five independent critics, each with a
+different kind of objection (structural, statistical, linguistic, textual, computational),
+converge on rejecting the same claim from five separate angles — the wider scholarly consensus,
+per the same source, is that Fischer's readings came "not accompanied by the least
+justification" and do not generalize to other texts.
+
+**Evidentiary status, disclosed plainly**: Wikipedia-article tier — a well-sourced secondary
+synthesis, not yet a direct read of Fischer's own publications or of any of the five named
+critics' own original papers. Each is a concrete, citable lead for a future primary-source
+upgrade pass, not attempted this cycle. The source article itself carries an internal `[sic]` on
+Robinson's quoted sequence-count figure, disclosed here rather than silently corrected.
+
+**Source log**: `logs/2026-10-11-sq4-fischer-triad-claim-catalogued.md`.

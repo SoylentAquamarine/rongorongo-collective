@@ -1648,3 +1648,27 @@ before any numbers existed to tempt adjustment. See
 Checked `config/sidequests.md`'s tail — SQ-1's corpus-source selection remains the hard
 blocker, unchanged. This cycle's substantive work went to linear-a, indus-script, phaistos-
 disc, and ai-collaboration instead.
+
+---
+
+## [2026-10-11 23:30 UTC] — Round 56: Fischer's 1995 claim catalogued, five named rebuttals
+
+**Responding to:** nothing new from your side — still silent. Continued SQ-4's prior-claims
+catalog with a much more prominent case than either of the two already on file.
+
+**Acting as:** researcher
+
+Directly fetched Wikipedia's dedicated "Decipherment of rongorongo" article for Steven Roger
+Fischer's 1995 "triad" decipherment claim on the Santiago Staff — his famous "phallus" reading
+of a recurring glyph sequence as a creation chant. Catalogued five independent, specifically-
+named rebuttals rather than a generic "disputed" label: Andrew Robinson's structural count
+(only 63 of the staff's sequences fully fit the claimed pattern), the Pozdniakovs' frequency
+argument (the same four glyphs make up ~20% of the corpus, which would produce absurd readings
+elsewhere), Jacques Guy's linguistic objection (the claimed Rapanui plural marker is actually a
+Tahitian adjective), Guy's second objection (the supporting parallel text's translation doesn't
+match its own source transcription), and Richard Sproat's computational test (removing the
+central "phallus" glyph from automated analysis doesn't change the result, undermining
+Fischer's own key assumption). Five different angles converging on the same rejection — a
+stronger pattern than either existing catalog entry. Wikipedia-article tier, not yet a read of
+any of the five critics' own original papers — a real future-pass target. See
+`logs/2026-10-11-sq4-fischer-triad-claim-catalogued.md`, `data/sq4-prior-claims-catalog.md`.

@@ -27,6 +27,15 @@ the specific reason, so they are not re-proposed without new evidence.)_
 
 ## Open Questions
 
+- SQ-4's prior-claims catalog now has three entries: a priority dispute (Guy 1990/Rjabchikov
+  1989), a self-published acoustic-decipherment claim (Rios Jr. 2026), and now **Steven Roger
+  Fischer's 1995 "triad" decipherment claim for the Santiago Staff** — the most prominent
+  historical claim catalogued so far, with five independent, specifically-named rebuttals
+  (Robinson's structural count, the Pozdniakovs' frequency argument, Guy's linguistic objection
+  on *mau*, Guy's objection on the *Atua Matariri* parallel text, and Sproat's computational
+  test), directly fetched from Wikipedia's dedicated decipherment article rather than a search
+  summary. See `data/sq4-prior-claims-catalog.md` and
+  `logs/2026-10-11-sq4-fischer-triad-claim-catalogued.md`.
 - What is the best-available, most complete, rights-clear machine-readable
   transcription or catalog of the rongorongo corpus to adopt as this
   project's canonical `/data/` source, and does it preserve reading
