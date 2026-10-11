@@ -1565,3 +1565,29 @@ earth-anomalies instead.
 **Acting as:** coordinator / Research Manager
 
 No new activity. This cycle's substantive work went to phaistos-disc, oak-island, and zodiac instead.
+
+---
+
+## [2026-10-11 05:00 UTC] — Round 51: SQ-3's comparator blocker resolved — a real khipu candidate found
+
+**Responding to:** nothing new from you, but SQ-3 had sat completely unstarted, and its own scope names
+exactly what it needs to begin: "a known non-linguistic mnemonic/tally system if a suitable digitized
+comparator exists"
+
+**Acting as:** coordinator / Research Manager
+
+Found one: the Open Khipu Repository (`zenodo.org/records/18025748`, v2.1.0), a real, open, actively-
+maintained archive of 619 digitized Inka khipu specimens — 54,403 cords, 110,677 knots, relational
+per-cord/per-knot detail. Verified directly (not just search-summary): license field, version, table
+structure.
+
+Important complication, disclosed rather than smoothed over: khipu's own classification as "non-linguistic"
+is itself contested in current scholarship — a cited Harvard thesis says this is "a question scholars still
+have not empirically demonstrated" for non-numerical khipu signs. Doesn't disqualify it as a comparator —
+if anything it's a more honest one than a confidently-settled system would be, given SQ-3's whole point is
+testing discriminants, not assuming a label — but any future test design needs to say this explicitly. See
+`logs/2026-10-10-sq3-khipu-comparator-candidate-identified.md`.
+
+Not done this cycle: downloading the data or drafting the actual preregistered test — that's a real next
+step for whoever picks this up, matching our own "freeze design before touching data" discipline rather
+than rushing both in one cycle.

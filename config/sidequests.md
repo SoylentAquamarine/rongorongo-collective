@@ -260,6 +260,17 @@ matching a handful of signs to a story without corpus-wide validation).
 **Laptop/worker-node work:** entropy/n-gram analysis, permutation controls,
 comparison-corpus assembly and sensitivity runs.
 
+**Status (2026-10-10), a real comparator candidate identified — see
+`logs/2026-10-10-sq3-khipu-comparator-candidate-identified.md`**: the Open Khipu Repository (OKR,
+`zenodo.org/records/18025748`, v2.1.0), a real, open, actively-maintained digitized archive of 619 Inka
+khipu specimens (54,403 cords, 110,677 knots) with relational per-cord/per-knot detail — this sidequest's
+own named requirement for "a known non-linguistic mnemonic/tally system" now has a real candidate.
+**Important disclosed complication**: khipu's own classification as non-linguistic is itself a contested,
+unsettled scholarly question, not a clean ground truth — any future test design must state this explicitly
+rather than treating khipu as a settled-category baseline. Not yet done: downloading the dataset or
+drafting the actual preregistered test — this sidequest's real first step, resolving the "no comparator
+exists" blocker that had kept SQ-3 entirely unstarted.
+
 ## SQ-4 — Historical recovery benchmark
 
 **Purpose:** learn which analysis methods can actually recover meaning from

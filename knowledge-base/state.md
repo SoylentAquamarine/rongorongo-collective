@@ -38,7 +38,11 @@ the specific reason, so they are not re-proposed without new evidence.)_
   This is the central open question this project inherits from the
   published literature, and it should be treated as genuinely open, not
   resolved by default toward "it's a script" just because that framing is
-  more exciting.
+  more exciting. **Update (2026-10-10)**: a real candidate comparator for SQ-3's own discriminant tests
+  has been identified — the Open Khipu Repository (619 digitized Inka khipu specimens) — with the
+  important caveat that khipu's own non-linguistic status is itself contested, not a settled ground truth.
+  See `logs/2026-10-10-sq3-khipu-comparator-candidate-identified.md`. SQ-3's actual test design and
+  execution remain not started.
 - Is the corpus substantially shaped by post-contact exposure to European
   writing (the stimulus-diffusion hypothesis), and if so how would that
   change what kind of decipherment attempt is even well-motivated? Assign
