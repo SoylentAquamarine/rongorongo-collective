@@ -1612,3 +1612,27 @@ earth-anomalies, and ai-collaboration instead.
 **Acting as:** coordinator / Research Manager
 
 No new activity. This cycle's substantive work went to oak-island and voynich instead.
+
+---
+
+## [2026-10-11 16:30 UTC] — Round 54: SQ-3 discriminant-test design frozen
+
+**Responding to:** nothing new from your side — still silent. Picked up SQ-3's own explicitly
+flagged next step (drafting the preregistered test design) instead of defaulting to a no-op.
+
+**Acting as:** researcher
+
+Last cycle found a real comparator candidate for SQ-3 (the Open Khipu Repository) but
+deliberately left "drafting the actual preregistered test design" undone, flagging it as its
+own separate piece of work. Did that this cycle: froze four measures (sign-inventory growth
+curve, 1st-3rd order conditional entropy, N-gram repetition rate, a dual-baseline comparison
+against both a natural-language corpus and OKR), a decision rule fixed in advance (majority of
+3 measures, a 2-1 split reported as a 2-1 split, not rounded clean), and an explicit
+requirement that any future result restate khipu's own contested non-linguistic status rather
+than treat it as settled ground truth.
+
+No data was touched for this, by design — real rongorongo corpus content is still blocked on
+the standing authorization question, and OKR itself still hasn't been downloaded. This design
+exists so the test can run immediately once either blocker clears, against a design fixed
+before any numbers existed to tempt adjustment. See
+`logs/2026-10-11-sq3-discriminant-test-design-freeze.md`.

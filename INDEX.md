@@ -69,6 +69,7 @@ once this repo has had its own incident).
 - `2026-10-04-sq4-comparator-search-and-persee-block.md` — confirmed a precise access block on Guy (1990)'s PDF (HTML reachable, PDF specifically 403); searched for an indus-script-style existing synthetic benchmark tool, found none for rongorongo; SQ-4 remains substantively unstarted
 - `2026-09-28-sq-second-transcription-da1-da2-pilot.md` — bounded pilot per ChatGPT's Meeting 12 decision: aligns Da1/Da2 against Barthel via Lastilla et al. (2022)'s own disclosed comparisons, two concrete sign-level disagreement/gap-fill points, sourced from a freely-hosted copy at the paper's home institution
 - `2026-10-10-sq3-khipu-comparator-candidate-identified.md` — finds a real candidate for SQ-3's own named requirement (a digitized non-linguistic/mnemonic comparator): the Open Khipu Repository, 619 Inka khipu specimens; discloses that khipu's own non-linguistic status is itself contested, not a clean ground truth — resolves the "no comparator exists" blocker that had kept SQ-3 entirely unstarted
+- `2026-10-11-sq3-discriminant-test-design-freeze.md` — freezes SQ-3's preregistered discriminant-test design (four measures, decision rule, khipu-disclosure requirement) before any data is touched; execution remains blocked on two external authorization questions
 
 ## `methods/`
 

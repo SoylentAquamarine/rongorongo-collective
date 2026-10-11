@@ -231,3 +231,10 @@ the specific reason, so they are not re-proposed without new evidence.)_
   paper's own disclosed comparisons, sourced from a freely-hosted copy at the paper's home institution
   (`cris.unibo.it`, SHA256 `010efb56089a32c43a2183840596a6d68b3635fb8e63d89d5c8e896eba0a73da`), not yet
   this project's own independent line-by-line recount of both transcriptions in full — that remains open.
+- What falsifiable test could discriminate a full writing system from a mnemonic/notation system for
+  rongorongo? See SQ-3 — **design frozen (2026-10-11)**: four measures (sign-inventory growth curve,
+  1st-3rd order conditional entropy, N-gram repetition rate, dual-baseline comparison against a
+  natural-language corpus and OKR), with a decision rule and khipu-disclosure requirement both fixed
+  before any data is touched. Execution remains blocked on two external authorization questions (real
+  rongorongo corpus content, OKR's own download). See
+  `logs/2026-10-11-sq3-discriminant-test-design-freeze.md`.

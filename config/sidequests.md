@@ -271,6 +271,16 @@ rather than treating khipu as a settled-category baseline. Not yet done: downloa
 drafting the actual preregistered test — this sidequest's real first step, resolving the "no comparator
 exists" blocker that had kept SQ-3 entirely unstarted.
 
+**Update (2026-10-11), the design-freeze pass done — see
+`logs/2026-10-11-sq3-discriminant-test-design-freeze.md`**: a preregistered test design is now frozen —
+four measures (sign-inventory growth curve, 1st-3rd order conditional entropy, N-gram repetition rate,
+dual-baseline comparison against both a natural-language corpus and OKR), a stated-in-advance decision
+rule (majority of 3 measures, no rounding a split verdict to clean), and an explicit restatement
+requirement for khipu's own contested non-linguistic status in any future result. No data was touched —
+real rongorongo content is still blocked on the standing corpus-content authorization question, and OKR
+itself has still not been downloaded. This closes the design gap; the remaining blockers are the same
+two external authorization questions, not more design work.
+
 ## SQ-4 — Historical recovery benchmark
 
 **Purpose:** learn which analysis methods can actually recover meaning from
