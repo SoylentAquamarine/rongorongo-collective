@@ -78,9 +78,13 @@ creation chant about birds, fish, and the sun.
 2. Pozdniakov and Pozdniakov's frequency argument: the four glyphs in Fischer's own main example
    make up ~20% of the entire corpus — common enough that the same reading logic would produce
    absurd results elsewhere in the text.
-3. Jacques Guy's linguistic objection: the word Fischer reads as a Rapanui plural marker (*mau*)
-   is a Tahitian grammatical element that functions as a post-nominal adjective ("true,
-   genuine") in Polynesian languages generally, not a plural marker.
+3. Jacques Guy's linguistic objection (dated specifically to **Guy 1998**, per a 2026-10-12
+   enrichment pass — still search-synthesis tier, the paper itself not yet located or fetched):
+   the word Fischer reads as a Rapanui plural marker (*mau*) is a Tahitian grammatical element
+   that functions as a post-nominal adjective ("true, genuine") in Polynesian languages
+   generally, not a plural marker. Guy reportedly proposed an alternative reading for the sign
+   Fischer identified as a phallus: that it could instead be a **patronymic marker** (a family-
+   name-indicating element), not Fischer's sexual/narrative reading.
 4. Guy's second objection: Fischer's supporting parallel text (*Atua Matariri*) relies on an
    English translation that doesn't match its own source's Rapanui transcription; a separate,
    independent reading of the same text mentions neither birds nor fish.
@@ -101,4 +105,14 @@ critics' own original papers. Each is a concrete, citable lead for a future prim
 upgrade pass, not attempted this cycle. The source article itself carries an internal `[sic]` on
 Robinson's quoted sequence-count figure, disclosed here rather than silently corrected.
 
-**Source log**: `logs/2026-10-11-sq4-fischer-triad-claim-catalogued.md`.
+**Source log**: `logs/2026-10-11-sq4-fischer-triad-claim-catalogued.md`,
+`logs/2026-10-12-sq4-fischer-guy-citation-enriched.md`.
+
+**A separately-citable Guy publication, surfaced in the same enrichment pass, not merged into
+this row**: Jacques Guy, "Can one rely on Métoro's testimony to decipher the rongo-rongo?",
+*Journal de la Société des Océanistes* 108 (1999), pp. 125-132 — argues Métoro (the 19th-century
+informant underlying much of the corpus's traditional interpretation) likely "tested the
+bishop's credulity" by reading tablets backwards, and that Barthel built unfounded readings on
+that unreliable testimony. A different, methodological critique (about the corpus's own
+founding testimony, not about Fischer specifically) — a real, specific, locatable reference
+(journal/volume/pages) for a future direct-fetch pass, not yet attempted.

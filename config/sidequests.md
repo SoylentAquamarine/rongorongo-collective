@@ -341,6 +341,19 @@ discrepancy between the two disclosed rather than silently resolved. Added as th
 in `data/sq4-prior-claims-catalog.md`, at the same unvalidated/skeptical tier as every other self-published
 claim this project has encountered.
 
+**Update (2026-10-11), a third, much more prominent catalog entry — see
+`logs/2026-10-11-sq4-fischer-triad-claim-catalogued.md`**: Steven Roger Fischer's 1995 "triad" decipherment
+claim for the Santiago Staff, with five independent, specifically-named rebuttals (Robinson's structural
+count, the Pozdniakovs' frequency argument, Guy's linguistic objection, Guy's parallel-text objection,
+Sproat's computational test) — the strongest-evidenced entry in the catalog, at Wikipedia-article tier.
+
+**Update (2026-10-12), the Guy citation enriched — see
+`logs/2026-10-12-sq4-fischer-guy-citation-enriched.md`**: Guy's critique now dated specifically to Guy
+(1998), with a new detail (he proposed the "phallus" sign could instead be a patronymic marker) — still
+search-synthesis tier, the 1998 paper itself not located. Also surfaces a separately-citable, specific
+Guy publication (1999, *Journal de la Société des Océanistes* 108, pp. 125-132, on Métoro's testimony
+reliability) as a future direct-fetch target, not merged into the Fischer row.
+
 **Stepping-stone value:** validates or eliminates decipherment techniques
 before they are trusted on a corpus with no known answer key — exactly the
 role the sibling project's SQ-3 (Naibbe cipher, historical recovery panel)

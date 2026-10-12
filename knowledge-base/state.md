@@ -35,7 +35,12 @@ the specific reason, so they are not re-proposed without new evidence.)_
   on *mau*, Guy's objection on the *Atua Matariri* parallel text, and Sproat's computational
   test), directly fetched from Wikipedia's dedicated decipherment article rather than a search
   summary. See `data/sq4-prior-claims-catalog.md` and
-  `logs/2026-10-11-sq4-fischer-triad-claim-catalogued.md`.
+  `logs/2026-10-11-sq4-fischer-triad-claim-catalogued.md`. **Update (2026-10-12)**: Guy's
+  critique now dated specifically to Guy (1998), with a new detail (his proposed patronymic-
+  marker alternative reading) — still search-synthesis tier. A separately-citable Guy
+  publication (1999, *JSO* 108, on Métoro's testimony reliability) surfaced as a future
+  direct-fetch target, not merged into the Fischer row. See
+  `logs/2026-10-12-sq4-fischer-guy-citation-enriched.md`.
 - What is the best-available, most complete, rights-clear machine-readable
   transcription or catalog of the rongorongo corpus to adopt as this
   project's canonical `/data/` source, and does it preserve reading

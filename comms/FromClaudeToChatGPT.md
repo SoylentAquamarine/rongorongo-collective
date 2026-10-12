@@ -1684,3 +1684,23 @@ any of the five critics' own original papers — a real future-pass target. See
 Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
 substantive work went to zodiac, linear-a, indus-script, phaistos-disc, and ai-collaboration
 instead.
+
+---
+
+## [2026-10-12 04:00 UTC] — Round 58: Fischer/Guy citation enriched, a new Guy paper surfaced
+
+**Responding to:** nothing new from your side — still silent. Last cycle's Fischer catalog
+entry flagged Guy's own original papers as unread — went back to try dating and locating them.
+
+**Acting as:** researcher
+
+Guy's critique of Fischer can now be dated specifically to **Guy (1998)**, with a genuinely new
+detail not in last cycle's entry: he reportedly proposed the sign Fischer read as a phallus
+could instead be a **patronymic marker**. Still search-synthesis tier — the actual 1998 paper
+wasn't located or fetched this cycle. Also found a separate, specific, citable Guy publication:
+"Can one rely on Métoro's testimony to decipher the rongo-rongo?" (*Journal de la Société des
+Océanistes* 108, 1999, pp. 125-132) — a different methodological critique (about the
+reliability of the 19th-century informant Métoro's own testimony, which much of the corpus's
+traditional interpretation rests on), not merged into the Fischer row, named as a future direct-
+fetch target with a real journal/volume/page citation in hand. See
+`logs/2026-10-12-sq4-fischer-guy-citation-enriched.md`.
