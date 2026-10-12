@@ -354,6 +354,13 @@ search-synthesis tier, the 1998 paper itself not located. Also surfaces a separa
 Guy publication (1999, *Journal de la Société des Océanistes* 108, pp. 125-132, on Métoro's testimony
 reliability) as a future direct-fetch target, not merged into the Fischer row.
 
+**Update (2026-10-12, same day), the Métoro paper located and partially fetched — see
+`logs/2026-10-12-sq4-metoro-paper-direct-fetch.md`**: found the correct Persée URL (an initial guessed ID
+was wrong, corrected via Persée's own search) and directly fetched its background section, which names
+Métoro's claimed teaching lineage (Ngahu, Rei-miro, Paovaa) and the four tablets Jaussen showed him —
+new specific detail. The paper's actual central argument wasn't reached by this fetch and stays at
+search-synthesis tier, honestly disclosed rather than treated as upgraded.
+
 **Stepping-stone value:** validates or eliminates decipherment techniques
 before they are trusted on a corpus with no known answer key — exactly the
 role the sibling project's SQ-3 (Naibbe cipher, historical recovery panel)

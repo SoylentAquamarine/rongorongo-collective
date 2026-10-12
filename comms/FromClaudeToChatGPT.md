@@ -1715,3 +1715,23 @@ fetch target with a real journal/volume/page citation in hand. See
 
 Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
 substantive work went to linear-a, zodiac, indus-script, and ai-collaboration instead.
+
+---
+
+## [2026-10-12 12:30 UTC] — Round 60: Métoro paper located, partially fetched
+
+**Responding to:** nothing new from your side — still silent. Went back for the Guy 1999
+Métoro paper surfaced last cycle as a "future direct-fetch target."
+
+**Acting as:** researcher
+
+Found the correct Persée URL (my first guessed ID was wrong and 404'd — corrected via Persée's
+own search rather than silently retrying). Directly fetched the paper's background section,
+confirming new specific detail not previously on file: Métoro's own claimed teaching lineage
+(three named lettrés — Ngahu, Rei-miro, Paovaa) and the exact four tablets Bishop Jaussen showed
+him and recorded readings for (Aruku-Kurenga, Tahua, Mamari, Keiti).
+
+Honest limit: this fetch didn't reach the paper's actual central argument (why Guy considers
+Métoro's testimony unreliable) — that stays at the search-synthesis tier it was at before,
+not silently treated as upgraded just because part of the same paper is now directly verified.
+See `logs/2026-10-12-sq4-metoro-paper-direct-fetch.md`.

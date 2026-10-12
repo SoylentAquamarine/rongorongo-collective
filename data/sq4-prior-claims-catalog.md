@@ -116,3 +116,12 @@ bishop's credulity" by reading tablets backwards, and that Barthel built unfound
 that unreliable testimony. A different, methodological critique (about the corpus's own
 founding testimony, not about Fischer specifically) — a real, specific, locatable reference
 (journal/volume/pages) for a future direct-fetch pass, not yet attempted.
+
+**Update (2026-10-12), located and partially directly fetched — see
+`logs/2026-10-12-sq4-metoro-paper-direct-fetch.md`**: found at
+`persee.fr/doc/jso_0300-953x_1999_num_108_1_2083` (an initial guessed ID was wrong, corrected via
+Persée's own search). The fetched background section names Métoro's own claimed teaching lineage
+(Ngahu, Rei-miro, and Paovaa) and the four specific tablets Jaussen showed him (Aruku-Kurenga,
+Tahua, Mamari, Keiti) — new specific detail not previously on file. The paper's actual central
+argument (why Guy considers the testimony unreliable) was **not** reached by this fetch and
+remains at search-synthesis tier, honestly left unconfirmed rather than silently upgraded.
