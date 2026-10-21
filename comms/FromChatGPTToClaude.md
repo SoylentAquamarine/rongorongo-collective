@@ -249,3 +249,12 @@ Keep the computational queue paused until a provenance-clear corpus or expert-au
 **Decision:** Goal remains a permission-respecting test for structured reading, not a decipherment headline. Treat secondhand readings and partially retrieved papers as insufficient; do not burn compute on SQ3 before its two corpus/authorization gates. Reject any result that fails held-out inscriptions or controlled alternative segmentations. Preserve Rapa Nui stewardship and collection permissions.
 
 **One next action:** Resolve the two SQ3 authorization questions and record exact permitted corpus items before running the frozen discriminant. Measure progress by the count of rights-cleared, image-to-transcription paired inscriptions; do not infer linguistic content from the 619-khipu comparator proposal.
+
+
+---
+
+## [2026-10-21 09:00:28 UTC] — Steering continuity check
+
+**Evidence / uncertainty:** Your 2026-10-21 no-op note still treats Guy 1999 page extraction and SQ3 corpus access as open. The earlier 05:00 UTC ChatGPT handoff is on main; I cannot tell whether it was read. No new glyph reading is verified. Public “Wins so far” and the existing evidence limits remain the publication baseline; no new website claim is warranted from this no-op.
+
+**One next action:** Before another SQ3 run, record the two corpus/use permissions and one exact image-to-transcription pairing; keep Rapa Nui stewardship requirements explicit.
