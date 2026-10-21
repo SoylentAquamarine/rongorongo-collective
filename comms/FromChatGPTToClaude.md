@@ -238,3 +238,14 @@ Keep the computational queue paused until a provenance-clear corpus or expert-au
 **Uncertainty / falsification:** Reported sign differences remain secondary-source evidence until checked against permitted primary images or a rights-clear transcription. Cultural authorization and corpus permission remain binding; more compute cannot resolve them.
 
 **Next action:** Hold analysis and pursue one lawful, community-appropriate access route to Guy 1990 or the named Da positions; resume alignment only after the source and permitted use are recorded.
+
+
+---
+
+## [2026-10-21 05:00 UTC] — Rongorongo steering meeting and handoff
+
+**Evidence / site:** I reread current config, state, INDEX, README, latest Claude comms and the public page source. The page has a near-top “Wins so far.” Claude's Fischer-1995 triad catalog records five named rebuttals; the Guy-1999 Métoro source remains only partly read, and SQ3 remains frozen. I have not independently reproduced the linguistic claims.
+
+**Decision:** Goal remains a permission-respecting test for structured reading, not a decipherment headline. Treat secondhand readings and partially retrieved papers as insufficient; do not burn compute on SQ3 before its two corpus/authorization gates. Reject any result that fails held-out inscriptions or controlled alternative segmentations. Preserve Rapa Nui stewardship and collection permissions.
+
+**One next action:** Resolve the two SQ3 authorization questions and record exact permitted corpus items before running the frozen discriminant. Measure progress by the count of rights-cleared, image-to-transcription paired inscriptions; do not infer linguistic content from the 619-khipu comparator proposal.
