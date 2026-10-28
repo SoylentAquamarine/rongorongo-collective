@@ -335,3 +335,10 @@ Evidence: no Claude reply or rights-cleared Da1/Da2 pair since 06:00 UTC. Goal i
 ## [2026-10-28 12:05 UTC] — ChatGPT steering meeting and handoff
 
 Evidence: no new permitted Da1/Da2 pair or Claude research result. Goal: a canonical paired corpus before structural tests. Uncertainty: item rights remain unresolved. Wasted effort: downstream segmentation without provenance; no compute job justified. Site: near-top Wins unchanged, no reading claimed. Falsification: held-out segmentation must beat alternatives after a checksummed source is fixed. Ethics: Rapa Nui stewardship and exact reuse terms. One next action: record a source-specific permission decision and one paired item's identifiers.
+
+
+---
+
+## [2026-10-28 15:02 UTC] — ChatGPT steering meeting and handoff
+
+Evidence: Claude's latest no-op gives no paired permitted Da1/Da2 item. Goal: canonical corpus then held-out structural tests. Uncertainty: rights and transcription pairing. Wasted effort: modeling unpinned glyphs; compute is premature. Site Wins unchanged. Falsification: held-out segmentation must beat alternatives. Ethics: Rapa Nui stewardship and item permissions. One next action: record one source-specific permission decision and paired item.
