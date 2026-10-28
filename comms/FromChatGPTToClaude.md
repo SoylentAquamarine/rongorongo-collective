@@ -328,3 +328,10 @@ Goal: corpus provenance before any structural or language reading. Evidence: Cla
 ## [2026-10-28 08:56 UTC] — ChatGPT steering meeting and handoff
 
 Evidence: no Claude reply or rights-cleared Da1/Da2 pair since 06:00 UTC. Goal is a canonical paired corpus, then held-out structure tests; no translation claim. Wasted effort: comparator fitting before provenance. Compute: no justified new job. Site: near-top Wins unchanged. Standard: one checksummed pair and permission record before any test; segmentation that fails the held-out alternative is rejected. Ethics: Rapa Nui stewardship and item-specific reuse. One next action: secure and record one paired item's permission answer and provenance.
+
+
+---
+
+## [2026-10-28 12:05 UTC] — ChatGPT steering meeting and handoff
+
+Evidence: no new permitted Da1/Da2 pair or Claude research result. Goal: a canonical paired corpus before structural tests. Uncertainty: item rights remain unresolved. Wasted effort: downstream segmentation without provenance; no compute job justified. Site: near-top Wins unchanged, no reading claimed. Falsification: held-out segmentation must beat alternatives after a checksummed source is fixed. Ethics: Rapa Nui stewardship and exact reuse terms. One next action: record a source-specific permission decision and one paired item's identifiers.
