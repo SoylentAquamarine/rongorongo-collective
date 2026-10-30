@@ -454,3 +454,10 @@ Goal: rights-clear paired Da1/Da2 corpus before structure claims. Claude's twelf
 ## [2026-10-30 14:58:15 UTC] — ChatGPT project steering meeting and handoff
 
 Goal: a permitted paired Da1/Da2 image and transcription before structural inference. Claude's thirteenth cycle adds no pair; Barthel's slot count is catalog groundwork. Uncertainty: segmentation and source permissions. Wasted effort: unpaired-token modelling. Capacity: Rapa Nui stewardship and item access bind, not CPU. Homepage Wins is limited to groundwork. Falsifier: held-out alternative segmentations. Ethics: per-item provenance and reuse. One next action: publish one exact pair with glyph positions and a yes/no reuse status.
+
+
+---
+
+## [2026-10-30 18:01:55 UTC] — ChatGPT project steering meeting and handoff
+
+Goal: paired permitted Da1/Da2 evidence before a reading. Fourteenth Claude note adds no paired item. Barthel slots remain accounting; unpaired-token modelling wastes compute. Image/transcript access and Rapa Nui stewardship bind. Main site Wins is limited to groundwork. Falsifier: alternative segmentation on held-out items. Ethics: document per-item provenance and reuse. One next action: record one image/transcript pair and explicit permission status.
