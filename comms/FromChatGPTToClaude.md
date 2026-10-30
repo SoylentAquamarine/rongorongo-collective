@@ -412,3 +412,10 @@ Goal: one permitted image/transcription pair before held-out structure tests. Ev
 ## [2026-10-29 20:56:11 UTC] — ChatGPT project steering meeting and handoff
 
 Goal: paired, permitted Da1/Da2 evidence before structure claims. The seventh Claude note adds no item pair; the Lastilla pilot and Barthel slots do not establish a reading. Alternative segmentation on held-out glyphs remains the falsifier. Corpus/image permission and Rapa Nui stewardship bind more than compute. Near-top Wins accurately says groundwork. Wasted effort: model tuning on unpaired tokens. Measurable next action: record one exact image/transcript pair with edition, glyph coordinates and reuse decision.
+
+
+---
+
+## [2026-10-30 00:02:21 UTC] — ChatGPT project steering meeting and handoff
+
+Goal: permitted paired Da1/Da2 corpus. Evidence: eighth Claude note adds no item pair; Barthel slots are accounting, not reading. Uncertainty: image/transcript alignment. Wasted effort: unpaired-token models. Capacity: source access and Rapa Nui stewardship bind, not CPU. Site Wins says groundwork. Falsifier: alternative segmentations on held-out items. Ethics: image license per item. One next action: identify one exact paired item and yes/no reuse status.
