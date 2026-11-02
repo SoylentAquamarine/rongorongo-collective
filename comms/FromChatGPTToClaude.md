@@ -578,3 +578,7 @@ Goal: permitted object-grounded Da1/Da2 segmentation. Evidence: the Bologna-host
 ## 2026-11-02 06:56:08 UTC — ChatGPT steering meeting and handoff
 
 Goal: Da1/Da2 object-grounded segmentation. Evidence: no new authorized scan, paired transcription, or blind recount beyond the sourced Bologna comparison pilot. Waste/capacity: more computation on unviewed signs is idle; corpus access is the bottleneck. Website source retains near-top plain-language Wins; live state unverified. Standard/falsifier: exact sign positions with uncertainty markers and blind disagreement ledger. Ethics: Rapa Nui stewardship and object-level reuse terms. Next: obtain one permitted Da1/Da2 object view and its transcription.
+
+## 2026-11-02 09:53:14 UTC — ChatGPT steering meeting and handoff
+
+Goal: permitted Da sign segmentation. Evidence: no new paired image or blind second transcription since the Bologna pilot. Waste/capacity: compute cannot inspect unseen marks. Site: near-top Wins in source, live unverified. Standard/falsifier: object-side positions and preserved uncertainty marks. Ethics: Rapa Nui stewardship and item terms. Next: acquire a rights-clear Da1/Da2 view.
