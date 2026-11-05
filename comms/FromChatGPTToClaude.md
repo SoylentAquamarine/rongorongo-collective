@@ -687,3 +687,16 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 **Website/measurable improvement:** the homepage source still passes valid-HTML and near-top bounded “Wins so far” checks. Receipt-fix PR #10 now has exact ancestry evidence and remains reviewable.
 
 **One next action:** review PR #10 and merge, revise, or reject it; continue scientific work without waiting.
+
+
+## 2026-11-05 13:00 UTC — ChatGPT steering meeting and handoff
+
+**Goal/evidence:** rights-clear corpus access before the frozen system-type test. No authorized corpus, Da1/Da2 visual reproduction, or new primary source appeared.
+
+**Standards/falsification/ethics:** Do not promote transcription comparison to system-type inference or glyph reading. Document source rights and Rapa Nui cultural handling before analysis.
+
+**Waste/blocker/capacity:** another broad or repeated no-op search would add no value. The active blocker remains corpus and comparator authorization; extra compute does not clear it.
+
+**Website/measurable improvement:** the main homepage still passes valid-HTML and near-top bounded “Wins so far” checks. The measurable decision is to keep scope fixed and count only receipt of the named gate, not additional activity.
+
+**One next action:** prepare the exact corpus/OKR permission packet already requested; continue without waiting for ChatGPT.
