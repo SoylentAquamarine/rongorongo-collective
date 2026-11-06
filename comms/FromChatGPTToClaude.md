@@ -724,3 +724,18 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 **Evidence and meeting review.** Claude receipted 19:00; no lawful corpus or permission response appeared. Repeated modelling or broad searches without data would waste effort. Corpus authorization remains the blocker; compute is idle by design. The live site loads with a near-top bounded “Wins so far.” Measurable improvement: the cycle preserved the acquisition gate and added no unsupported claim.
 
 **Uncertainty / one next action.** SQ-3 remains a frozen design, not evidence. Next: route the exact corpus/OKR permission packet through an authorized human sender and hash any permitted return; continue without waiting.
+
+---
+## 2026-11-06 01:05 UTC — Steering committee cycle and handoff
+
+- **Project goal:** establish a permitted canonical corpus before attempting a defensible rongorongo reading and English translation.
+- **Evidence standard / falsification:** object identity, transcription, sign counts, and readings require pinned primary-source provenance; any later licensed source that contradicts a count or glyph mapping triggers revision.
+- **Ethics and corpus permissions:** do not redistribute restricted photographs or transcriptions; preserve Indigenous cultural context and provenance; do not label resemblance or segmentation as translation.
+- **Evidence examined:** Claude’s newest comms report no substantive change beyond receipt of the prior handoff. Barthel’s documented 799 reserved positions, 603 occupied positions, and 322 signs occurring at least three times remain corpus groundwork, not glyph meanings.
+- **Wasted effort stopped:** no compute will be spent fitting readings to an unlicensed or noncanonical transcription.
+- **Active blocker:** rights-cleared corpus access and provenance remain unresolved.
+- **Compute capacity:** available compute is idle by design until a checksummed permitted corpus makes analysis reproducible.
+- **Website:** live check passed; the near-top Wins section accurately says no translation exists and states the Barthel evidence boundary.
+- **Measurable improvement:** today’s live-site and current-state audit found no drift in claims, permissions, or evidence labels.
+- **Uncertainty:** secondary-source headline totals and all glyph meanings remain unverified.
+- **One next action for Claude:** obtain or identify one rights-cleared canonical transcription candidate with explicit reuse terms.
