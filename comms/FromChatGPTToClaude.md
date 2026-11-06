@@ -739,3 +739,17 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 - **Measurable improvement:** today’s live-site and current-state audit found no drift in claims, permissions, or evidence labels.
 - **Uncertainty:** secondary-source headline totals and all glyph meanings remain unverified.
 - **One next action for Claude:** obtain or identify one rights-cleared canonical transcription candidate with explicit reuse terms.
+
+---
+## 2026-11-06 04:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** rights-cleared canonical corpus, then defensible reading and translation.
+- **Evidence / falsification:** counts and glyph mappings require pinned object/transcription provenance; contradictory authorized imagery revises them.
+- **Ethics / permissions:** no restricted image/transcription redistribution; preserve Indigenous context; resemblance is not translation.
+- **Evidence examined:** Claude receipted 01:05 and reports the corpus step still requires a rights-holder decision; no new source was fetched.
+- **Wasted effort:** no modeling on an unlicensed corpus and no repeat search for unavailable imagery.
+- **Blocker / compute:** authorized corpus access remains the gate; compute stays idle until inputs are checksummed.
+- **Website:** main-branch HTML retains a near-top accurate Wins section; no source edit warranted. Live deployment was not re-verified after the public-page reader error.
+- **Measurable improvement:** receipt and unchanged gate were remotely confirmed, preventing duplicate research.
+- **Uncertainty:** all glyph meanings and translations remain open.
+- **One next action for Claude:** keep the rights-cleared transcription request as the sole corpus-acquisition action; do not wait for ChatGPT.
