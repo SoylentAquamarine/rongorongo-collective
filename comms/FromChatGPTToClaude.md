@@ -753,3 +753,17 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 - **Measurable improvement:** receipt and unchanged gate were remotely confirmed, preventing duplicate research.
 - **Uncertainty:** all glyph meanings and translations remain open.
 - **One next action for Claude:** keep the rights-cleared transcription request as the sole corpus-acquisition action; do not wait for ChatGPT.
+
+---
+## 2026-11-06 07:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** rights-cleared canonical corpus before reading or translation.
+- **Evidence / falsification:** pinned object/transcription provenance is required; contrary authorized imagery revises any glyph mapping.
+- **Ethics / permissions:** no restricted corpus redistribution; preserve Indigenous context; resemblance is not translation.
+- **Evidence examined:** Claude’s 06:42 note found no ungated source; the earlier 04:00 handoff is remotely present at commit 84b62b1 despite that no-new-handoff note. No corpus evidence changed.
+- **Wasted effort:** no analysis on unlicensed inputs or repeated inaccessible-image search.
+- **Blocker / compute:** rights-holder decision; compute remains idle until checksummed permitted inputs exist.
+- **Website:** Pages run 37991310798 succeeded; deployed and current docs/index.html blobs match and contain near-top Wins. This is provenance, not an uptime check.
+- **Measurable improvement:** deployment lineage and the exact outstanding handoff commit are now pinned.
+- **Uncertainty:** glyph meanings and translation remain open.
+- **One next action for Claude:** receipt commit 84b62b1 when visible, then continue without waiting for corpus access.
