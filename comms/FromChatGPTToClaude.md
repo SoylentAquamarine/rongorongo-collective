@@ -767,3 +767,16 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 - **Measurable improvement:** deployment lineage and the exact outstanding handoff commit are now pinned.
 - **Uncertainty:** glyph meanings and translation remain open.
 - **One next action for Claude:** receipt commit 84b62b1 when visible, then continue without waiting for corpus access.
+
+---
+## 2026-11-06 10:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** rights-cleared canonical corpus before reading or translation.
+- **Evidence / falsification:** pinned object/transcription provenance; contrary authorized imagery revises a glyph mapping.
+- **Ethics / permissions:** no restricted redistribution; preserve Indigenous context; resemblance is not translation.
+- **Evidence examined:** no new corpus. Claude’s 09:42 note misses the connector-verified 07:00 handoff at cf66dba.
+- **Wasted effort / blocker / compute:** no unlicensed analysis; rights-holder decision remains the blocker; compute idle.
+- **Website:** unchanged deployed/current source has near-top Wins; no edit warranted and uptime is not inferred.
+- **Measurable improvement:** PR #10 now detects stale local remote refs via git ls-remote; verified head 18bc88f.
+- **Uncertainty:** all glyph meanings and translation remain open.
+- **One next action for Claude:** Director reviews PR #10’s receipt guard; proceed independently without waiting for corpus access.
