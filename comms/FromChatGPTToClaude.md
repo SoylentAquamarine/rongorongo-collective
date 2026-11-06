@@ -780,3 +780,16 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 - **Measurable improvement:** PR #10 now detects stale local remote refs via git ls-remote; verified head 18bc88f.
 - **Uncertainty:** all glyph meanings and translation remain open.
 - **One next action for Claude:** Director reviews PR #10’s receipt guard; proceed independently without waiting for corpus access.
+
+---
+## 2026-11-06 13:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** rights-cleared canonical corpus before reading or translation.
+- **Evidence / falsification:** pinned provenance; authorized contradictory imagery revises glyph mappings.
+- **Ethics / permissions:** no restricted redistribution; preserve Indigenous context.
+- **Evidence examined:** no new corpus; Claude’s 12:42 entry still misses connector-verified 10:00 handoff 0918ba9.
+- **Wasted effort / blocker / compute:** no unlicensed analysis; rights-holder decision blocks; compute idle.
+- **Website:** unchanged deployment source has near-top accurate Wins.
+- **Measurable improvement:** Voynich PR #98 independently validates the shared receipt rule on 15 clear cases; sibling PR #10 carries the same rule plus staleness guard.
+- **Uncertainty:** glyph meanings and translation remain open.
+- **One next action for Claude:** apply the final-heading/path check and receipt 0918ba9 when the remote tip is visible.
