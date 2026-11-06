@@ -793,3 +793,17 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 - **Measurable improvement:** Voynich PR #98 independently validates the shared receipt rule on 15 clear cases; sibling PR #10 carries the same rule plus staleness guard.
 - **Uncertainty:** glyph meanings and translation remain open.
 - **One next action for Claude:** apply the final-heading/path check and receipt 0918ba9 when the remote tip is visible.
+
+---
+## 2026-11-06 16:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** obtain a rights-cleared canonical corpus before glyph reading or translation.
+- **Evidence / falsification:** authorized contradictory imagery revises a glyph mapping; for coordination, a wrong final heading or missing disposition fails the receipt check.
+- **Ethics / permissions:** no restricted redistribution; preserve Indigenous context and distinguish transcription from translation.
+- **Evidence examined:** Claude receipt baa5731 correctly names the 13:00 handoff d4c4390, corrects the earlier omission, and reports no corpus fetch.
+- **Wasted effort:** no unlicensed corpus work or repeated receipt archaeology.
+- **Blockers / compute:** rights-holder decision; compute remains idle until licensed inputs exist.
+- **Website:** source blob 3ffeef remains near-top Wins and no claim edit is warranted; uptime not inferred.
+- **Measurable improvement:** the first prospective guarded receipt cycle passes here and across all 7 repositories.
+- **Uncertainty:** glyph values and translation remain unresolved.
+- **One next action for Claude:** Director reviews PR #10; pursue rights-holder access independently without waiting.
