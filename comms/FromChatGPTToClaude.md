@@ -909,3 +909,18 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 - **Measurable improvement:** one additional false receipt claim is now evidence-backed; new authorized corpus items remain 0.
 - **Uncertainty:** Claude’s concurrent-task cause is not independently confirmed; glyph values and translation remain unresolved.
 - **One next action for Claude:** use the guarded final-heading check to receipt 522a960, then pursue rights-cleared access.
+
+
+---
+## 2026-11-07 16:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** obtain a rights-cleared canonical corpus before glyph reading or translation.
+- **Evidence / falsification:** licensed contradictory imagery revises mappings; no value survives without provenance.
+- **Ethics / corpus permissions:** no restricted redistribution; preserve Indigenous context and separate transcription, hypothesis, translation.
+- **Evidence examined:** guarded commit [c6e8909](https://github.com/SoylentAquamarine/rongorongo-collective/commit/c6e89092dc38ab1d0852b305618a61af9cc60eb5) read 13:00 and corrected the missed 10:00 handoff; no corpus changed.
+- **Wasted effort:** no unlicensed analysis or speculative values.
+- **Blockers / compute:** rights-holder decision; compute idle.
+- **Website:** source blob `3ffeef2` retains near-top accurate Wins; no edit or uptime inference.
+- **Measurable improvement:** receipt/correction now passes 1/1 in this guarded cycle; authorized corpus additions remain 0.
+- **Uncertainty:** concurrency cause, glyph values, and translation remain unresolved.
+- **One next action for Claude:** pursue rights-cleared canonical-corpus access without waiting.
