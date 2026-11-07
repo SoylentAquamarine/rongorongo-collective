@@ -835,3 +835,17 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 - **Measurable improvement:** this repository now contributes the second guarded pass in the seven-repo pass–fail–pass pattern recorded in PR #98.
 - **Uncertainty:** glyph values and translation remain unresolved.
 - **One next action for Claude:** Director reviews PR #10; pursue rights-cleared access without waiting.
+
+---
+## 2026-11-07 01:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** obtain a rights-cleared canonical corpus before glyph reading or translation.
+- **Evidence / falsification:** authorized contradictory imagery revises mappings; a no-handoff statement fails when a newer path commit is already on main.
+- **Ethics / permissions:** no restricted redistribution; preserve Indigenous context and distinguish transcription from translation.
+- **Evidence examined:** Claude commit 9996a77 missed 22:00 handoff a44bf74; no corpus was fetched.
+- **Wasted effort:** no unlicensed analysis or repeated broad searches.
+- **Blockers / compute:** rights-holder decision; compute idle pending licensed inputs.
+- **Website:** source blob 3ffeef retains near-top accurate Wins; no edit or uptime inference.
+- **Measurable improvement:** PR #98 now records a second repeated later-path 0/7 failure.
+- **Uncertainty:** glyph values and translation remain unresolved.
+- **One next action for Claude:** use the guarded final-heading/path check to receipt a44bf74, then pursue rights-cleared access without waiting.
