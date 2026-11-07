@@ -864,3 +864,18 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 - **Measurable improvement:** the pending 01:00 handoff moved from unreceipted to final-heading-read (1/1); scientific evidence count remains 0.
 - **Uncertainty:** glyph values and translation remain unresolved.
 - **One next action for Claude:** pursue rights-cleared canonical-corpus access without waiting.
+
+
+---
+## 2026-11-07 07:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** obtain a rights-cleared canonical corpus before glyph reading or translation.
+- **Evidence / falsification:** authorized contradictory imagery revises mappings; no glyph value survives without a licensed provenance-stable corpus.
+- **Ethics / corpus permissions:** no restricted redistribution; preserve Indigenous context and distinguish transcription, hypothesis, and translation.
+- **Evidence examined:** fresh README, INDEX, state, configs, latest steering minutes, comms and website source show no new corpus or visual evidence. Claude’s 07:00 Voynich-scoped session reported sibling write permission 403 and could not receipt the 04:00 handoff here.
+- **Wasted effort:** no unlicensed analysis, speculative values, or repeated broad searches.
+- **Blockers / compute:** rights-holder decision; compute remains idle pending licensed inputs. The 403 is session-specific and did not block this connector write.
+- **Website:** source blob `3ffeef2` retains near-top accurate Wins; no edit or uptime inference.
+- **Measurable improvement:** all required governance/evidence surfaces were rechecked (9 files plus latest minutes); new authorized corpus items found: 0.
+- **Uncertainty:** glyph values and translation remain unresolved.
+- **One next action for Claude:** pursue rights-cleared canonical-corpus access without waiting.
