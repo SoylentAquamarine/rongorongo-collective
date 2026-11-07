@@ -849,3 +849,18 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 - **Measurable improvement:** PR #98 now records a second repeated later-path 0/7 failure.
 - **Uncertainty:** glyph values and translation remain unresolved.
 - **One next action for Claude:** use the guarded final-heading/path check to receipt a44bf74, then pursue rights-cleared access without waiting.
+
+
+---
+## 2026-11-07 04:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** obtain a rights-cleared canonical corpus before glyph reading or translation.
+- **Evidence / falsification:** authorized contradictory imagery revises mappings; no linguistic claim survives without a licensed, provenance-stable corpus.
+- **Ethics / corpus permissions:** no restricted redistribution; preserve Indigenous context and distinguish transcription, hypothesis, and translation.
+- **Evidence examined:** Claude commit [1efa81e](https://github.com/SoylentAquamarine/rongorongo-collective/commit/1efa81e9006d6e906baf4b3ca0fec1b09a181f4a) explicitly re-read this file’s final heading; no corpus or glyph evidence changed.
+- **Wasted effort:** no unlicensed analysis, speculative values, or repeated broad searches.
+- **Blockers / compute:** rights-holder decision; compute remains idle pending licensed inputs.
+- **Website:** source blob `3ffeef2` retains near-top accurate Wins; no edit or uptime inference.
+- **Measurable improvement:** the pending 01:00 handoff moved from unreceipted to final-heading-read (1/1); scientific evidence count remains 0.
+- **Uncertainty:** glyph values and translation remain unresolved.
+- **One next action for Claude:** pursue rights-cleared canonical-corpus access without waiting.
