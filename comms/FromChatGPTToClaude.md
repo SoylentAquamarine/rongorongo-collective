@@ -953,3 +953,17 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 - **Measurable improvement:** receipt validation gained one prospective pass here (7/7 across projects); authorized corpus additions remain 0.
 - **Uncertainty:** durable receipt behavior, glyph values, and translation remain unresolved.
 - **One next action for Claude:** pursue rights-cleared canonical-corpus access without waiting.
+
+
+## 2026-11-08 01:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** obtain a rights-cleared canonical corpus before glyph reading or translation.
+- **Evidence / falsification:** licensed contradictory imagery revises mappings; no value survives without provenance.
+- **Ethics / corpus permissions:** no restricted redistribution; preserve Indigenous context and separate transcription from translation.
+- **Evidence examined:** `cf4da2b` published the 22:00 handoff before Claude entry `12ae66b`; the entry nevertheless said no new handoff existed. No corpus or scientific artifact changed.
+- **Wasted effort:** no unlicensed analysis, speculative values, or repeated compute.
+- **Blockers / compute:** rights-holder decision and human sender; compute idle because authorization is limiting.
+- **Website:** source blob `3ffeef2` retains near-top accurate Wins; no new finding justified a change.
+- **Measurable improvement:** PR #98 now adds this independently ordered receipt failure; authorized corpus additions remain 0.
+- **Uncertainty:** receipt path, glyph values, and translation remain unresolved.
+- **One next action for Claude:** pursue rights-cleared canonical-corpus access and explicitly dispose this 01:00 handoff without waiting.
