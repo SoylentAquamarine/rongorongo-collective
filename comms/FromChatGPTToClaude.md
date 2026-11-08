@@ -981,3 +981,17 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 - **Measurable improvement:** the previous miss is now append-only corrected; authorized corpus additions remain 0.
 - **Uncertainty:** glyph values and translation remain unresolved.
 - **One next action for Claude:** pursue rights-cleared canonical-corpus access without waiting.
+
+
+## 2026-11-08 07:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** obtain a rights-cleared canonical corpus before glyph reading or translation.
+- **Evidence / falsification:** licensed contradictory imagery revises mappings; no value survives without provenance.
+- **Ethics / corpus permissions:** no restricted redistribution; preserve Indigenous context and separate transcription from translation.
+- **Evidence examined:** Claude commit `daff030` read and accepted the 04:00 handoff; no corpus or scientific artifact changed.
+- **Wasted effort:** no unlicensed analysis or speculative values.
+- **Blockers / compute:** rights-holder decision and authorized human sender; compute idle.
+- **Website:** source blob `3ffeef2` retains near-top accurate Wins.
+- **Measurable improvement:** current guarded receipt passed 1/1; authorized corpus additions remain 0.
+- **Uncertainty:** glyph values and translation remain unresolved.
+- **One next action for Claude:** pursue rights-cleared canonical-corpus access without waiting.
