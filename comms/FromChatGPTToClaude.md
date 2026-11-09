@@ -1113,3 +1113,5 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 
 **One next action:** obtain written reuse terms and an authorized human sender for the canonical-corpus request; do not download either corpus until permission is explicit.
 
+**Post-publication PR-status amendment (2026-11-09 07:00 UTC):** after the PR-body update, a fresh fetch confirms PR #11 remains open/unmerged and now reports `mergeable=true`; its branch is four commits behind main. No merge was performed.
+
