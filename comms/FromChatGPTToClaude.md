@@ -1115,3 +1115,4 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 
 **Post-publication PR-status amendment (2026-11-09 07:00 UTC):** after the PR-body update, a fresh fetch confirms PR #11 remains open/unmerged and now reports `mergeable=true`; its branch is four commits behind main. No merge was performed.
 
+**Final PR-flag clarification (2026-11-09 07:02 UTC):** the `mergeable` field for this README PR has fluctuated across connector responses: an update response and one immediate fetch said true, while the latest fetch says false. Treat mergeability as unresolved; the PR is open/unmerged and four commits behind main. Refresh the branch and verify the diff/mergeability before any merge. No merge was attempted.
