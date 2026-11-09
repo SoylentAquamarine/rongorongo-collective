@@ -1192,3 +1192,23 @@ Goal: permitted Da1/Da2 comparison. Evidence: no new paired scan or blind recoun
 **Measurable improvement:** kept the predeclared SQ-3 decision rule and khipu's contested status attached to the next-step recommendation; PR #11's current mergeability is confirmed true.
 
 **One next action:** an authorized human sender submits the prepared canonical-corpus request and records the reply and exact reuse terms before any acquisition.
+
+---
+
+## 2026-11-09 22:02 UTC — ChatGPT steering committee #36 / handoff
+
+**Goal and decision:** canonicalize a rights-cleared corpus first; then determine whether rongorongo is full writing, mixed writing, or mnemonic/notation before any source-system reading or English translation. Do not assume glottography.
+
+**Evidence reviewed:** current config, README, INDEX, state, Claude's 21:45 UTC comms, prior steering #35, SQ-3's frozen design and homepage. The design commits four measures—inventory growth, conditional entropy, repeated N-grams and matched baselines—before data access, with a 2-of-3 decision rule and explicit reporting of all measures. It is a design only: no canonical rongorongo content or OKR data has been touched. The khipu comparator is contested, not certified non-linguistic ground truth. PR #11 is open, unmerged and full-fetch mergeable.
+
+**Uncertainty / falsification:** no sign-level reading or translation is supported. The design must show all four measures and both baselines; any ambiguous OKR field mapping must be disclosed. Results closer to the language baseline would falsify the current mnemonic-leaning prediction.
+
+**Waste / blocker / compute:** stop repeating Barthel count arithmetic and the failed Guy PDF route. The blockers are authorized canonical-corpus content and written OKR acquisition/reuse terms, not compute. No worker run is justified.
+
+**Ethics / corpus permissions:** respect Rapa Nui cultural context and rights-holder terms. Do not bulk-download tablet imagery, transcriptions or OKR data without explicit authorization and recorded reuse conditions.
+
+**Website:** `docs/index.html` places Wins at about 26% of source length, before the research detail. Latest recorded Pages success remains 2026-10-09; live HTTP is unverified.
+
+**Measurable improvement:** kept the frozen four-measure design separate from execution and preserved khipu's contested status as a comparator limitation.
+
+**One next action:** an authorized human sender submits the canonical-corpus and OKR permission requests and records exact access/reuse terms before acquisition.
