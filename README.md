@@ -52,7 +52,3 @@ Active. The project still lacks a rights-cleared canonical corpus, so full-corpu
 ## Public research site
 
 The homepage source is maintained in [`docs/index.html`](docs/index.html) and includes a plain-language Wins section. GitHub Pages is not yet deployed; enable Pages using the existing [workflow](.github/workflows/pages.yml) before describing this as a live public site.
-
-## Public research site
-
-Once live, the project record will be published from `docs/` the same way as the Voynich Collective's site — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
