@@ -51,4 +51,4 @@ Active. The project still lacks a rights-cleared canonical corpus, so full-corpu
 
 ## Public research site
 
-The homepage source is maintained in [`docs/index.html`](docs/index.html) and includes a plain-language Wins section. GitHub Pages is not yet deployed; enable Pages using the existing [workflow](.github/workflows/pages.yml) before describing this as a live public site.
+The homepage source is maintained in [`docs/index.html`](docs/index.html) and includes a plain-language Wins section. The latest recorded `Deploy GitHub Pages` workflow completed successfully on 2026-10-09 ([run](https://github.com/SoylentAquamarine/rongorongo-collective/actions/runs/37991310798)); direct HTTP availability was not verified in this audit, so do not infer that the live URL is reachable from the workflow result alone.
