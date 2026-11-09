@@ -125,3 +125,14 @@ Persée's own search). The fetched background section names Métoro's own claime
 Tahua, Mamari, Keiti) — new specific detail not previously on file. The paper's actual central
 argument (why Guy considers the testimony unreliable) was **not** reached by this fetch and
 remains at search-synthesis tier, honestly left unconfirmed rather than silently upgraded.
+
+
+## Jacques Guy's 1999 critique of Métoro's testimony — abstract directly read, article body still pending
+
+**Bibliographic record:** Jacques B. M. Guy, "Peut-on se fonder sur le témoignage de Métoro pour déchiffrer les rongo-rongo ?", Journal de la Société des Océanistes 108 (1999), pp. 125–132, DOI 10.3406/jso.1999.2083. Persée's article record and the scanned first page are linked below.
+
+**Direct source reading (2026-11-09):** the scanned page 125 contains the article's English and French abstracts. Guy's abstract argues that Métoro's recorded readings do not provide a reliable decipherment key. It says the Mamari lunar-calendar reading begins with the last line and misses the full-moon pictogram; on the reverse of the last two tablets, the recorded reading order is incompatible with the content, and the first six signs are skipped and reinserted after the second line. The abstract further says Barthel knew of these contradictions but continued to treat Métoro as a competent reader, and that Barthel's phallus interpretation of glyph 76 is not supported by Métoro's other readings of that sign.
+
+**Evidentiary status and limits:** this directly verifies what Guy's **abstract** argues; it does not independently verify Guy's account of Jaussen's notes, establish Métoro's intentions or competence, prove that rongorongo is or is not glottographic, or supply any glyph reading or translation. The article body on pp. 126–132 was not accessible in this pass. Do not describe the full paper as read. This is a source-reading upgrade from search-synthesis to abstract-level direct reading only.
+
+**Sources:** [Persée article record](https://www.persee.fr/doc/jso_0300-953x_1999_num_108_1_2083); [scanned page 125 containing the abstracts](https://www.persee.fr/renderPage/jso_0300-953x_1999_num_108_1_2083/jso_0300-953X_1999_num_108_1_T1_0125_0000_710.jpg). See logs/2026-11-09-chatgpt-guy-metoro-abstract-direct-read.md for access method and limitations.
