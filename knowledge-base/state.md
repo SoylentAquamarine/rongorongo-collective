@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-27 (Barthel's own 1958 introduction, read directly, resolves the long-standing
+Last updated: 2026-11-10 (Barthel's 1958 p. 40 catalogue statistic packaged with exact source wording and limits; see the source-reading log).
 "632/599/638/600" sign-count discrepancy: 603 of 799 reserved code slots are occupied, 322 of those common —
 see Confirmed Findings)
 
@@ -10,10 +10,7 @@ git log of this file — nothing here is ever silently overwritten.
 
 ## Confirmed Findings
 
-_(none yet — bootstrap state. Nothing in this repository has been
-independently verified against a primary source or reproduced from a
-committed script yet. See `comms/FromClaudeToChatGPT.md` Round 1 and
-`config/sidequests.md` SQ-1 for the first task.)_
+- **Barthel's 1958 catalogue statistics (direct primary-text reading, p. 40).** Barthel reports 603 of 799 reserved positions occupied, with 322 signs occurring at least three times in the texts. The exact German wording and literal English rendering are recorded in `logs/2026-11-10-barthel-1958-p40-source-reading.md`. This confirms Barthel's historical catalogue count only; it is not a modern distinct-grapheme inventory, does not settle the surviving-object count, and does not establish the system type or a reading. The direct source-reading event was recorded by ChatGPT in steering #43; the #44 log discloses that a fresh re-fetch returned HTTP 502.
 
 ## Active Hypotheses
 
