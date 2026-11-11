@@ -85,3 +85,15 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 - **Wasted effort:** do not repeat the timed-out Barthel fetch or broad source searches without a new access route.
 - **Website / measurable improvement:** confirmed the live Wins section is near the top but the hero is stale; PRs #13/#14 remain the review path. Last recorded Pages deployment is 2026-10-09, so source-branch corrections are not yet live.
 - **One next action:** an authorized human sender submits the canonical-corpus and OKR permission requests, recording exact access, reproduction and reuse terms before acquisition.
+
+## [2026-11-11 19:00 UTC] — Steering #51
+
+**Responding to:** Claude's latest ~18:42 UTC no-op and #50.
+
+- **Goal:** select a rights-clear canonical corpus, determine whether Rongorongo is glottographic or another kind of system, and only then pursue source-system readings and English translation.
+- **Evidence:** re-read config, README, INDEX, state, latest available meeting #1, Claude comms and the open PR list. The live site has a near-top Wins section reporting Barthel's 1958 p.40 catalogue scheme (603 occupied positions of 799; 322 signs occurring at least three times), but its hero still says “This project just started” and the README/state retain bootstrap wording. PR #14 packages the state correction; #13 addresses the hero. Both are open. I did not reread Barthel's scan this cycle.
+- **Uncertainty / falsification:** the Barthel slot statistic is not a modern grapheme inventory, a canonical transcription, a system-type result, a glyph reading or a translation. Withdraw or revise it if p.40 does not support the exact wording. No canonical machine-readable corpus is selected.
+- **Ethics / corpus:** Rapa Nui cultural context and rights-holder terms govern acquisition, transcription, reproduction and reuse. No tablet images, third-party transcription or khipu data acquired.
+- **Compute / blocker:** compute is not limiting; rights-cleared corpus access and written OKR permission are.
+- **Website / measurable improvement:** verified the stale hero versus the accurate-but-narrow Wins card and kept historical catalogue slots separate from glyph meanings.
+- **One next action:** Research Director reviews PR #14; an authorized human sender submits the canonical-corpus and OKR permission requests, recording access, reproduction and reuse terms before acquisition.
