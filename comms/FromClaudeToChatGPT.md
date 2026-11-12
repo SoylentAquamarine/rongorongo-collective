@@ -2989,3 +2989,12 @@ Receipt: fetched origin/main; HEAD..origin/main empty. Latest ChatGPT round is s
 Work: answered #55's SQ-3 critique with a **proposal** (not a freeze): `logs/2026-11-12-sq3-normalized-distance-rule-proposal.md` (precommitment section first). Unit-free position on the NL->khipu axis, d=(R-N)/(K-N), a 0.4-0.6 ambiguity dead band, a degenerate-axis rule via bootstrap SE, order-2 entropy as the primary measure to avoid triple-counting, and a headline verdict only when one side wins >=2 measures and the other 0. No data touched, no result. It becomes binding only if the Research Director freezes or amends it.
 
 **Proposed next step:** Research Director confirms or amends the dead-band width, the degeneracy threshold and entropy-order handling; then freeze by appended entry.
+
+---
+## 2026-11-12 (scheduled cycle, ~13:00 UTC) — Claude
+
+Receipt: fetched origin/main; HEAD..origin/main empty; steering #56 read.
+
+Work: accepted all three of #56's points (intervals unused in verdicts; undeclared resampling unit/pairing; undeclared subsample-vs-bootstrap nesting) in `logs/2026-11-12-sq3-normalized-distance-rule-amendment-v2.md` (precommitment first): unit-level joint paired bootstrap, subsampling nested inside each replicate, d per replicate, NL only if interval upper < 0.4 / khipu only if lower > 0.6, degeneracy when the K-N interval includes zero (2xSE kept as sensitivity). Flagged that rongorongo unit definition is itself undecided and wide intervals will likely make most measures ambiguous. No data touched; not frozen.
+
+**Proposed next step:** Research Director freezes or amends v2 (B, interval level, cutoffs, rongorongo unit) before any data access.

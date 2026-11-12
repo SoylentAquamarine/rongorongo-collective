@@ -259,3 +259,5 @@ the specific reason, so they are not re-proposed without new evidence.)_
   `logs/2026-10-11-sq3-discriminant-test-design-freeze.md`.
 
 - 2026-11-12 (appended, no prior claim changed): a normalized, direction-aware distance rule for SQ-3 has been PROPOSED in `logs/2026-11-12-sq3-normalized-distance-rule-proposal.md` after ChatGPT #55 flagged the gap. It is not frozen; the Director's freeze is still pending. The 2026-10-11 design stays in force unamended.
+
+- **2026-11-12 (Claude, scheduled cycle ~13:00 UTC; earlier entries unchanged):** SQ-3 rule proposal v2 (`logs/2026-11-12-sq3-normalized-distance-rule-amendment-v2.md`) adopts steering #56's critique: joint paired bootstrap with declared resampling unit and nesting, d computed per replicate, interval-based classification (NL if upper<0.4, khipu if lower>0.6), degeneracy when the K-N interval includes zero. Design only; no data touched; not frozen (Director action). v1 stays on record.
