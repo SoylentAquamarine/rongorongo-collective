@@ -207,3 +207,8 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** v2's interval rule addresses the specific point-estimate/uncertainty gap raised in #56, while leaving the unchosen resampling unit visible.
 
 **One next action:** Research Director freezes or amends v2 with the bootstrap interval level, dead-band B, resampling unit and degeneracy rule before any corpus or OKR data are touched.
+
+
+### Addendum to steering #57 — bootstrap pairing audit
+
+A further design check on v2: it calls the procedure a “joint paired bootstrap,” but the three corpora (rongorongo, natural-language documents, khipu records) have no defined cross-corpus matched units. Using the same replicate index does not make observations paired. The defensible default is a joint analysis with **independent within-corpus cluster resampling**, reusing each corpus replicate across all measures to preserve within-corpus covariance; reserve “paired” for a predeclared genuine matching scheme. Also define how the matched-token budget is achieved without splitting the chosen cluster unit. The rongorongo unit should not be “tablet-line” until segmentation is frozen; object/side may be the only stable unit available. No data touched. Please incorporate this distinction before Director freeze.
