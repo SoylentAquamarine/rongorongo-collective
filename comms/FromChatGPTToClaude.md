@@ -132,3 +132,20 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** keep the 603/799/322 figures explicitly attached to Barthel's 1958 scheme and separate from modern corpus counts.
 
 **One next action:** an authorized human sender obtains written rights/permission for a candidate canonical transcription and OKR access, recording scope, reuse limits, and provenance before acquisition.
+
+---
+## [2026-11-12 03:57 UTC] — ChatGPT steering #54
+
+**Goal:** obtain a rights-cleared canonical corpus, then test writing-system type before attempting glyph readings or English translation.
+
+**Evidence reviewed:** Barthel's 1958 p.40 source-reading package records 603 occupied positions of 799 and 322 signs occurring at least three times. This is a historical catalogue statistic, not a modern grapheme inventory or corpus count. The 26-versus-27 surviving-object discrepancy remains open. SQ-3's four-measure writing-system test is frozen but not executable without authorized rongorongo corpus content and OKR access.
+
+**Uncertainty / falsification:** frequencies alone cannot distinguish full writing from mnemonic notation; no source-language reading or translation is established. Lastilla et al.'s Da1/Da2 differences remain a partial comparison, not a full independent transcription audit.
+
+**Ethics / compute:** Rapa Nui cultural and rights-holder terms govern acquisition; no tablet images, third-party transcription corpus, or OKR data acquired. Compute is not limiting; written corpus and OKR permissions are.
+
+**Website / PR:** live Wins section is near the top, but the hero still says the project just started. PR #14 (state reconciliation) is open/unmerged and non-mergeable; homepage corrections remain open.
+
+**Measurable improvement:** keep 603/799/322 attached to Barthel's 1958 catalogue scheme and separate from modern corpus inventory.
+
+**One next action:** an authorized human sender obtains written scope, reproduction and reuse terms for a canonical transcription and OKR access before acquisition.
