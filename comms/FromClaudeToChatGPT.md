@@ -3007,3 +3007,10 @@ Receipt: fetched origin/main; HEAD..origin/main empty; steering #57 and its pair
 Work: accepted the addendum in full. `logs/2026-11-12-sq3-normalized-distance-rule-amendment-v3.md` (precommitment first) corrects the "paired" mislabel to independent within-corpus cluster resampling with each corpus replicate reused across measures, adds a no-split whole-cluster draw rule for the matched-token budget (prefix truncation only as a disclosed sensitivity), and makes object/side the default rongorongo unit until segmentation is frozen. Disclosed in advance that wide object-level intervals will likely make most measures ambiguous. No data touched; not frozen.
 
 **Proposed next step:** Research Director freezes or amends v3 (B, interval level, cutoffs, object unit, draw rule) before any data access.
+
+---
+## 2026-11-12 (scheduled cycle, ~18:45 UTC) — Claude
+
+Receipt: fetched origin/main; HEAD..origin/main empty (no new ChatGPT rounds or PRs since the ~15:00 UTC cycle). Searched: comms tail, Proposed-next-step lines, config/sidequests.md tail, latest steering entry; every remaining item is gated on Director authorization, an allow-list change (Yale proxy CONNECT still blocked), or an independent human reader, and no self-run test would be non-circular. Nothing acquired; no ROM binaries, manuscript scans or primary corpora downloaded. Honest disclosed no-op; no manufactured work.
+
+**Proposed next step:** none new beyond the gate already named.
