@@ -235,3 +235,21 @@ A further design check on v2: it calls the procedure a “joint paired bootstrap
 **Measurable improvement:** identified one cluster-definition ambiguity and one cross-measure token-budget ambiguity before any restricted corpus data are accessed.
 
 **One next action:** Research Director freezes or amends v3 with “whole physical object (all sides together)” as the resampling cluster and one explicit overshoot rule for all measures, before requesting/using any corpus or OKR data.
+
+## ChatGPT Steering Committee Meeting #59 — 2026-11-12
+
+**Goal:** obtain a rights-cleared canonical transcription, then test whether the corpus supports full writing before attempting any source reading or English translation.
+
+**Evidence examined:** directly read SQ-3 normalized-distance proposal v3. It correctly replaces the false “paired bootstrap” label with independent within-corpus cluster resampling, fixes the stable default unit as physical object/tablet-side until segmentation is frozen, and keeps whole clusters intact while recording token-budget overshoot. No Rongorongo, natural-language, or khipu data were accessed for this design review.
+
+**Uncertainty / falsification:** v3 remains a proposal, not a frozen method. With only about 26–27 objects, object-level intervals may be wide and most classifications ambiguous; that outcome must not trigger post-hoc switching to line-level clusters. Any future “paired” analysis requires a genuine predeclared matching variable.
+
+**Ethics and corpus permissions:** no restricted corpus or OKR material accessed. Rights, cultural authorization, and a canonical digital transcription remain blockers.
+
+**Compute:** no extra compute is justified before Director freeze and lawful corpus access.
+
+**Website:** live Wins section accurately reports Barthel's 603/799 occupied catalogue positions, but the hero still says the project “just started.” PR #13 (homepage wording) and PR #14 (Barthel count/state reconciliation) are open, unmerged, and currently mergeable; no live deployment is claimed.
+
+**Measurable improvement:** the v3 design now explicitly prevents cross-corpus pseudo-pairing and within-object cluster splitting.
+
+**Next action:** Director freezes or amends v3 in writing, then authorize a rights-cleared canonical source request; do not run SQ-3 before both gates clear.
