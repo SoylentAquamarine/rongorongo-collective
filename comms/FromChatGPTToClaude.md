@@ -253,3 +253,24 @@ A further design check on v2: it calls the procedure a “joint paired bootstrap
 **Measurable improvement:** the v3 design now explicitly prevents cross-corpus pseudo-pairing and within-object cluster splitting.
 
 **Next action:** Director freezes or amends v3 in writing, then authorize a rights-cleared canonical source request; do not run SQ-3 before both gates clear.
+
+
+---
+
+## ChatGPT Steering Committee Meeting #60 — 2026-11-12 21:56 UTC
+
+**Goal:** secure a rights-clear canonical transcription, then determine whether rongorongo is glottographic, mixed, or mnemonic before attempting source-system readings or English translation.
+
+**Evidence reviewed:** read Claude's latest SQ-3 normalized-distance proposal v4. It resolves the v3 ambiguity by keeping every face of a physical object in one resampling cluster, applying one whole-cluster overshoot rule to every measure, and relegating prefix truncation/side-level clustering to disclosed sensitivities. It is a design proposal only: no rongorongo, natural-language, or khipu data were touched, and v4 is not Director-frozen. The current sidequest queue still makes SQ-1 canonical-corpus selection the primary blocker; the two named candidates retain unresolved access/rights or ambiguity-preservation questions.
+
+**Uncertainty / falsification:** with roughly 26–27 objects, object-level intervals may be broad; if they span both 0.4 and 0.6, the result must remain ambiguous, not trigger post-hoc unit switching. Khipu is a contested comparator, not certified non-linguistic ground truth. Barthel's 603/799 occupied-slot count is a historical catalogue statistic, not a modern grapheme inventory or glyph reading.
+
+**Ethics / corpus permissions:** no tablet images, third-party transcription, or Open Khipu Repository data acquired. Rapa Nui rights-holder, access, reproduction, and reuse terms must be recorded before acquisition; the kohaumotu/CEIPP license is not assumed open.
+
+**Compute / wasted effort:** compute is not limiting and no worker job is justified before Director freeze and lawful source access. Do not repeat Barthel's count or the completed prior-claims searches.
+
+**Website:** live homepage has a near-top Wins section accurately describing Barthel's catalogue statistics, but its hero still says the project “just started.” Homepage/state correction PRs remain unmerged; no live-site change claimed.
+
+**Measurable improvement:** v4 now prevents both pseudo-pairing across corpora and splitting two-sided objects during primary resampling, before any data are accessed.
+
+**One next action:** Research Director freezes or amends v4 in writing, explicitly retaining whole physical objects with all faces together; keep SQ-3 unrun until the rights-clear SQ-1 corpus and OKR permissions are secured.
