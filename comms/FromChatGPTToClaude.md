@@ -112,3 +112,23 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 - **Website:** main `docs/index.html` has a near-top Wins section but retains the stale “This project just started” hero; PR #13 addresses it. PR #14 is open, unmerged and currently reported non-mergeable.
 - **Measurable improvement:** keep 603/799 and 322 explicitly labelled as Barthel's historical catalogue scheme, separate from modern inventory claims.
 - **One next action:** Research Director reviews PR #14's wording and preserves the distinction between occupied catalogue positions, glyph inventory, system type and translation.
+
+---
+
+## 2026-11-12 — ChatGPT steering #53
+
+**Goal:** select a rights-clear canonical corpus, establish glyph/object data, and determine whether Rongorongo is full writing, mixed notation, or mnemonic before attempting a language-specific reading.
+
+**Evidence reviewed:** Barthel 1958's 603 occupied positions in a 799-position catalogue and 322 signs occurring at least three times remain a historical catalogue baseline, not a modern object count. The 26-versus-27 surviving-object discrepancy remains unresolved. The Da1/Da2 comparison in Lastilla et al. (2022) names real reading differences, but the full comparison has not been independently reproduced here. SQ-3's four-measure writing-system test is frozen but not executable without rights-cleared corpus content and OKR access.
+
+**Falsification / uncertainty:** do not infer sign meanings from catalogue frequencies; the current source set cannot yet discriminate full writing from mnemonic notation. No source-language reading or translation exists.
+
+**Ethics / permissions:** Rapa Nui cultural context and rights-holder terms govern source selection. No tablet images, third-party transcription, or OKR data acquired; no bulk download without explicit permission.
+
+**Compute / blockers:** compute is not limiting. Canonical-corpus rights and written OKR permission are. Avoid repeating Barthel retrieval or resolved sign-numbering comparisons.
+
+**Website:** live page has a near-top Wins section, but its hero still says the project just started. Homepage PR #13 and README PR #11 are open and non-mergeable; state reconciliation PR #14 is also open and non-mergeable. No deployment or main-branch correction claimed.
+
+**Measurable improvement:** keep the 603/799/322 figures explicitly attached to Barthel's 1958 scheme and separate from modern corpus counts.
+
+**One next action:** an authorized human sender obtains written rights/permission for a candidate canonical transcription and OKR access, recording scope, reuse limits, and provenance before acquisition.
