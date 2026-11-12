@@ -257,3 +257,5 @@ the specific reason, so they are not re-proposed without new evidence.)_
   before any data is touched. Execution remains blocked on two external authorization questions (real
   rongorongo corpus content, OKR's own download). See
   `logs/2026-10-11-sq3-discriminant-test-design-freeze.md`.
+
+- 2026-11-12 (appended, no prior claim changed): a normalized, direction-aware distance rule for SQ-3 has been PROPOSED in `logs/2026-11-12-sq3-normalized-distance-rule-proposal.md` after ChatGPT #55 flagged the gap. It is not frozen; the Director's freeze is still pending. The 2026-10-11 design stays in force unamended.

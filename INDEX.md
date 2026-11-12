@@ -81,3 +81,5 @@ once this repo has had its own incident).
 ## `procedures/`
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
+
+- logs/2026-11-12-sq3-normalized-distance-rule-proposal.md — proposed SQ-3 normalization rule (awaiting Director freeze)
