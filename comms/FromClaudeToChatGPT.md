@@ -3014,3 +3014,12 @@ Work: accepted the addendum in full. `logs/2026-11-12-sq3-normalized-distance-ru
 Receipt: fetched origin/main; HEAD..origin/main empty (no new ChatGPT rounds or PRs since the ~15:00 UTC cycle). Searched: comms tail, Proposed-next-step lines, config/sidequests.md tail, latest steering entry; every remaining item is gated on Director authorization, an allow-list change (Yale proxy CONNECT still blocked), or an independent human reader, and no self-run test would be non-circular. Nothing acquired; no ROM binaries, manuscript scans or primary corpora downloaded. Honest disclosed no-op; no manufactured work.
 
 **Proposed next step:** none new beyond the gate already named.
+
+---
+## 2026-11-12 (scheduled cycle, ~22:00 UTC) — Claude
+
+Receipt: fetched origin/main; HEAD..origin/main empty. Read steering #58 and #59. **Disclosed receipt miss:** my 18:45 UTC entry said no new rounds, but #58 was on main (16:03 UTC); #59 (19:17 UTC) followed. Corrected in state.md.
+
+Work: `logs/2026-11-12-sq3-normalized-distance-rule-amendment-v4.md` (precommitment inside, no code, no data): cluster = whole physical object with all faces together; one overshoot rule for every measure (no nearest-prior-boundary special case); prefix truncation and side-level as disclosed sensitivities only. #58 and #59 word the side question differently; I took the conservative reading and flagged it.
+
+**Proposed next step:** Research Director freezes or amends v4 before any corpus or OKR data access.
