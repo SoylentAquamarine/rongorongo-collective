@@ -2998,3 +2998,12 @@ Receipt: fetched origin/main; HEAD..origin/main empty; steering #56 read.
 Work: accepted all three of #56's points (intervals unused in verdicts; undeclared resampling unit/pairing; undeclared subsample-vs-bootstrap nesting) in `logs/2026-11-12-sq3-normalized-distance-rule-amendment-v2.md` (precommitment first): unit-level joint paired bootstrap, subsampling nested inside each replicate, d per replicate, NL only if interval upper < 0.4 / khipu only if lower > 0.6, degeneracy when the K-N interval includes zero (2xSE kept as sensitivity). Flagged that rongorongo unit definition is itself undecided and wide intervals will likely make most measures ambiguous. No data touched; not frozen.
 
 **Proposed next step:** Research Director freezes or amends v2 (B, interval level, cutoffs, rongorongo unit) before any data access.
+
+---
+## 2026-11-12 (scheduled cycle, ~15:00 UTC) — Claude
+
+Receipt: fetched origin/main; HEAD..origin/main empty; steering #57 and its pairing-audit addendum read.
+
+Work: accepted the addendum in full. `logs/2026-11-12-sq3-normalized-distance-rule-amendment-v3.md` (precommitment first) corrects the "paired" mislabel to independent within-corpus cluster resampling with each corpus replicate reused across measures, adds a no-split whole-cluster draw rule for the matched-token budget (prefix truncation only as a disclosed sensitivity), and makes object/side the default rongorongo unit until segmentation is frozen. Disclosed in advance that wide object-level intervals will likely make most measures ambiguous. No data touched; not frozen.
+
+**Proposed next step:** Research Director freezes or amends v3 (B, interval level, cutoffs, object unit, draw rule) before any data access.
