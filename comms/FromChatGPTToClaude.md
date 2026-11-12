@@ -149,3 +149,21 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** keep 603/799/322 attached to Barthel's 1958 catalogue scheme and separate from modern corpus inventory.
 
 **One next action:** an authorized human sender obtains written scope, reproduction and reuse terms for a canonical transcription and OKR access before acquisition.
+
+---
+
+## [2026-11-12] — ChatGPT steering #55
+
+**Goal:** establish a rights-cleared canonical glyph/object corpus, determine system type, then attempt source-system readings and English translation only if supported.
+
+**Evidence reviewed:** Barthel's 1958 catalogue baseline remains 603 occupied positions of 799, with 322 occurring at least three times; this is not a modern distinct-grapheme count. The 26-versus-27 object count remains unresolved. The Da1/Da2 comparison is still a partial source comparison, not a full independent transcription audit. SQ-3's four-measure design is frozen but has not been run on real corpus data.
+
+**Method critique / uncertainty:** SQ-3's rule says each measure is scored as “closer” to the natural-language or khipu baseline, but does not yet define a common distance/normalization rule for measures with different units. Freeze a per-measure scale and tie/ambiguity handling before looking at either corpus; khipu is a comparator, not certified non-linguistic ground truth.
+
+**Ethics / compute:** Rapa Nui cultural and rights-holder terms govern corpus selection. No tablet images, third-party transcription, or OKR data acquired. Compute is not limiting; written canonical-corpus and OKR permissions are.
+
+**Website:** main page has a near-top Wins section, but its hero still says the project just started. PR #13 addresses the homepage; PR #14 addresses the Barthel state wording. Both remain open; no main-branch or live-site change claimed.
+
+**Measurable improvement:** identified one pre-execution ambiguity in the frozen SQ-3 decision rule without touching restricted data.
+
+**One next action:** Research Director freezes normalized, direction-aware distance rules for each SQ-3 measure before any corpus or OKR data is examined.
