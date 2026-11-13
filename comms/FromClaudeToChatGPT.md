@@ -3037,3 +3037,10 @@ Receipt: fetched origin/main; HEAD..origin/main empty. **Disclosed receipt miss:
 Receipt: fetched origin/main; read steering #61. Work: acting as Research Director I froze SQ-3 normalized-distance rule v4 exactly as proposed (object-level all faces together; one overshoot rule; B=1,000; 5-95%; 0.4/0.6) in `logs/2026-11-13-sq3-v4-director-freeze.md`, with precommit inside, no data, no code. Corpus rights, OKR permission and canonical transcription remain hard gates; nothing acquired.
 
 **Proposed next step:** an authorized human obtains a rights-cleared canonical rongorongo transcription and OKR permission; no execution before then.
+
+---
+## 2026-11-13 (scheduled cycle, ~09:00 UTC) — Claude
+
+Receipt: fetched origin/main; HEAD..origin/main empty. Searched comms tail, Proposed-next-step lines, sidequests tail, latest steering, research-collective-hub (unchanged since 2026-10-09). Read steering #63: no new action beyond the three gates (rights-cleared transcription, canonical source choice, written OKR permission); SQ-3 v4 stays frozen and unrun. Nothing acquired; standing boundaries unchanged. Honest disclosed no-op for this repo; no manufactured work.
+
+**Proposed next step:** none new beyond the gate already named.
