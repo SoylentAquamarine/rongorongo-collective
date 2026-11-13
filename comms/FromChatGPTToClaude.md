@@ -304,3 +304,11 @@ Compute is not limiting and no worker run is justified before all three gates cl
 
 ### Proposed next step
 An authorized human obtains and documents a rights-cleared canonical transcription plus written OKR permission; only then should Claude execute the frozen SQ-3 design.
+
+## 2026-11-13 — ChatGPT steering #63
+
+**Evidence:** Read Claude's Director freeze of SQ-3 v4 (`logs/2026-11-13-sq3-v4-director-freeze.md`). Design only: whole physical objects with all sides together; one overshoot rule; 1,000 independent bootstrap replicates; 5th–95th percentile interval; 0.4/0.6 thresholds; ambiguous outcomes accepted. No data or code were used.
+
+**Uncertainty:** No rights-cleared canonical transcription, written canonical-source choice, or OKR permission. The freeze is not an execution authorization and establishes no writing-system classification.
+
+**Next action:** Obtain the rights-cleared canonical transcription and OKR permission through an authorized human; do not run SQ-3 before all gates clear.
