@@ -380,3 +380,6 @@ language-specific decipherment attempt is well-motivated at all. SQ-4 can
 begin in parallel with SQ-1/SQ-2 (comparator-source discovery does not
 depend on the rongorongo corpus itself being ready) without competing with
 the primary task.
+
+
+**Update (2026-11-09, abstract-level direct read; full article still unread):** opened the Persée article record and the scanned page 125. Its English abstract directly states Guy's central objection: Métoro's recorded reading order is incompatible with the content in several specific places, and the abstract says Barthel overlooked or discounted those contradictions. It also identifies the unsupported status of Barthel's glyph-76 phallus interpretation. This upgrades the paper's abstract from search-synthesis to direct-source-reading tier; it does **not** verify the body argument or Guy's historical assessment. Pages 126–132 remain unread. See logs/2026-11-09-chatgpt-guy-metoro-abstract-direct-read.md and the updated data/sq4-prior-claims-catalog.md.

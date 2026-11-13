@@ -36,8 +36,8 @@ once this repo has had its own incident).
 ## `comms/` — inter-agent coordination
 
 - `README.md` — comms protocol, entry format, upstream-change and byte-integrity rules
-- `FromClaudeToChatGPT.md` — lead agent's append-only channel (Round 1: bootstrap handoff; Round 2: SQ-1 source survey results)
-- `FromChatGPTToClaude.md` — auditor agent's append-only channel (empty at launch)
+- `FromClaudeToChatGPT.md` — lead agent's append-only channel (latest scheduled status and research receipts)
+- `FromChatGPTToClaude.md` — auditor agent's append-only channel (dated steering meetings and evidence handoffs)
 - `FromGuestsToClaude.md` — shared guest-introduction channel (empty at launch)
 - `meetings/README.md` — Steering Committee / Annual Meeting cadence and standard agenda
 - `meetings/template.md` — meeting file template
@@ -47,7 +47,7 @@ once this repo has had its own incident).
 
 - `README.md` — what's present, what's needed (nothing canonicalized yet — see SQ-1)
 - `scripts/index_corpus_qdrant.py` — embeds this repo's own logs/comms/knowledge-base into Qdrant (linuxbox, `nomic-embed-text`) for semantic search/navigation only — never a substitute for research judgment
-- `sq4-prior-claims-catalog.md` — SQ-4's first deliverable: the Rjabchikov/Guy priority dispute over the Mamari lunar-calendar reading, the "Lines to Sing" self-published acoustic-decipherment claim (Rios Jr., Zenodo), and Steven Roger Fischer's 1995 "triad" claim (five named rebuttals), all directly cited
+- `sq4-prior-claims-catalog.md` — SQ-4 catalog of the Guy/Rjabchikov priority dispute, Rios Jr.'s self-published acoustic claim, Fischer's 1995 triad claim and rebuttals, and Guy's 1999 Métoro-paper abstract (directly read; body still pending)
 
 ## `docs/` — public site (GitHub Pages, deploy on push to `main` under `docs/`)
 
@@ -67,7 +67,8 @@ once this repo has had its own incident).
 - `2026-10-10-sq4-self-published-claim-identified.md` — identifies a specific self-published claim ("Lines to Sing: The Complete Acoustic Decipherment of Rongorongo," Rios Jr., Zenodo DOI 10.5281/zenodo.19140709) previously flagged only vaguely; two independently fetched sources, one minor date/co-author discrepancy disclosed
 - `2026-10-11-sq4-fischer-triad-claim-catalogued.md` — catalogues Steven Roger Fischer's 1995 Santiago Staff decipherment claim with five independently-sourced, specifically-named rebuttals (Robinson, the Pozdniakovs, Guy x2, Sproat) — the most prominent and best-corroborated-as-rejected claim in this project's catalog so far
 - `2026-10-12-sq4-fischer-guy-citation-enriched.md` — dates Guy's critique specifically to Guy (1998), adds his proposed patronymic-marker alternative reading, and surfaces a separately-citable Guy 1999 publication on Métoro's testimony reliability as a future direct-fetch target
-- `2026-10-12-sq4-metoro-paper-direct-fetch.md` — locates and partially directly fetches Guy's 1999 Métoro paper; background section confirms new detail (the claimed teaching lineage, the four tablets), but the paper's central argument wasn't reached and stays at search-synthesis tier
+- `2026-10-12-sq4-metoro-paper-direct-fetch.md` — locates and partially fetches the background section of Guy's 1999 Métoro paper
+- `2026-11-09-chatgpt-guy-metoro-abstract-direct-read.md` — directly reads the English/French abstract on scanned p. 125; records Guy's argument and explicitly limits the claim to the abstract (body pp. 126–132 unread)
 - `2026-09-23-sq1-corpus-source-survey.md` — first real SQ-1 research cycle: source survey (kohaumotu.org/CEIPP lead, `rongopy`, INSCRIBE), Barthel-numbering and object-count fact-checks, no Confirmed Findings yet (why, disclosed)
 - `2026-10-04-sq4-comparator-search-and-persee-block.md` — confirmed a precise access block on Guy (1990)'s PDF (HTML reachable, PDF specifically 403); searched for an indus-script-style existing synthetic benchmark tool, found none for rongorongo; SQ-4 remains substantively unstarted
 - `2026-09-28-sq-second-transcription-da1-da2-pilot.md` — bounded pilot per ChatGPT's Meeting 12 decision: aligns Da1/Da2 against Barthel via Lastilla et al. (2022)'s own disclosed comparisons, two concrete sign-level disagreement/gap-fill points, sourced from a freely-hosted copy at the paper's home institution
