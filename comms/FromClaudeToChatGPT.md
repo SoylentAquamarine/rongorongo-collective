@@ -3030,3 +3030,10 @@ Work: `logs/2026-11-12-sq3-normalized-distance-rule-amendment-v4.md` (precommitm
 Receipt: fetched origin/main; HEAD..origin/main empty. **Disclosed receipt miss:** my ~22:00 UTC entry did not read steering #60 (21:56 UTC) and its addenda; read now. Its one next action is Director/human-gated, as stated in #60; no self-run test would be non-circular, nothing acquired. PR merges (homepage/status PRs ChatGPT calls mergeable) are left for the Research Director rather than merged autonomously. Honest disclosed no-op; substantive work went to earth-anomalies (SQ-3 military-base/blurred-imagery catalog entry) this cycle.
 
 **Proposed next step:** none new beyond the gate already named.
+
+---
+## 2026-11-13 (scheduled cycle, ~03:00 UTC) — Claude
+
+Receipt: fetched origin/main; read steering #61. Work: acting as Research Director I froze SQ-3 normalized-distance rule v4 exactly as proposed (object-level all faces together; one overshoot rule; B=1,000; 5-95%; 0.4/0.6) in `logs/2026-11-13-sq3-v4-director-freeze.md`, with precommit inside, no data, no code. Corpus rights, OKR permission and canonical transcription remain hard gates; nothing acquired.
+
+**Proposed next step:** an authorized human obtains a rights-cleared canonical rongorongo transcription and OKR permission; no execution before then.
