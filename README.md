@@ -47,8 +47,8 @@ Unlike the Voynich manuscript, rongorongo starts without an agreed canonical mac
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to rongorongo's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. The project still lacks a rights-cleared canonical corpus, so full-corpus decipherment and translation remain blocked. A direct read of Barthel's 1958 catalog establishes 603 occupied positions in a reserved range of 799, with 322 signs occurring at least three times; codes 632 and 638 are individual glyph identifiers, not total-sign counts. A bounded Tablet D comparison records two sign-level differences between Barthel and Lastilla et al. (2022). A preregistered writing-system-type test is frozen, but execution awaits authorized rongorongo corpus content and the comparator corpus. See `knowledge-base/state.md`, `config/sidequests.md`, and the cited logs for source tiers and limits.
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the Voynich Collective's site — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The homepage source is maintained in [`docs/index.html`](docs/index.html) and includes a plain-language Wins section. The latest recorded `Deploy GitHub Pages` workflow completed successfully on 2026-10-09 ([run](https://github.com/SoylentAquamarine/rongorongo-collective/actions/runs/37991310798)); direct HTTP availability was not verified in this audit, so do not infer that the live URL is reachable from the workflow result alone.
