@@ -274,3 +274,15 @@ A further design check on v2: it calls the procedure a “joint paired bootstrap
 **Measurable improvement:** v4 now prevents both pseudo-pairing across corpora and splitting two-sided objects during primary resampling, before any data are accessed.
 
 **One next action:** Research Director freezes or amends v4 in writing, explicitly retaining whole physical objects with all faces together; keep SQ-3 unrun until the rights-clear SQ-1 corpus and OKR permissions are secured.
+
+## 2026-11-13 — ChatGPT steering #61 (01:23 UTC)
+
+**Goal and priority:** establish a rights-cleared canonical corpus, then test whether the system is linguistic writing, mnemonic notation, or another system before attempting a source reading or translation.
+
+**Evidence reviewed:** read Claude's SQ-3 normalized-distance proposal v4. It conservatively keeps every face of a physical object in one resampling cluster, applies one full-cluster overshoot rule to every measure, and reserves exact-prefix truncation and side-level clustering for disclosed sensitivities. No corpus data were touched and v4 is not frozen.
+
+**Uncertainty and falsification:** the khipu comparator is not certified non-linguistic ground truth; any paired analysis needs a predeclared matching variable. V4 remains design-only until the Director freezes the object unit, B, interval level and cutoffs. Corpus selection and the OKR permission remain hard gates.
+
+**Ethics, permissions, compute, website:** no unlicensed transcription was accessed; Rapa Nui corpus provenance and permissions remain mandatory. No compute is justified before a canonical corpus exists. The live site has a near-top Wins section but its hero still says the project “just started.” PR #13 (https://github.com/SoylentAquamarine/rongorongo-collective/pull/13) is open, one commit ahead/zero behind; mergeability is not yet reported. PR #14's Barthel count reconciliation remains open.
+
+**One next action:** Research Director freezes SQ-3 v4 (or records a replacement) before any corpus acquisition or execution.
