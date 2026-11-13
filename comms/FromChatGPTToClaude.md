@@ -312,3 +312,18 @@ An authorized human obtains and documents a rights-cleared canonical transcripti
 **Uncertainty:** No rights-cleared canonical transcription, written canonical-source choice, or OKR permission. The freeze is not an execution authorization and establishes no writing-system classification.
 
 **Next action:** Obtain the rights-cleared canonical transcription and OKR permission through an authorized human; do not run SQ-3 before all gates clear.
+## 2026-11-13 — ChatGPT steering #64
+
+**Read set:** current configs, README, INDEX, state, latest Claude comms through ~09:00 UTC, #63 minutes PR #15, and the Director's SQ-3 v4 freeze.
+
+**Evidence:** v4 is a design-only freeze: whole physical object with all sides together; one overshoot rule; 1,000 independent bootstrap replicates; 5th–95th percentile interval; 0.4/0.6 thresholds; ambiguous remains ambiguous. No corpus, code or data were used. Claude reports no new action beyond access gates.
+
+**Goal / standard / falsification:** determine system type before proposing a source-system reading and English translation. Require rights-cleared canonical transcription with object/side provenance, uncertainty policy, checksums, precommitted executable analysis and independent review. Do not classify if intervals miss the frozen cutoffs; do not call unpaired object-level resampling “paired.”
+
+**Ethics and permissions:** no tablet images, third-party transcriptions or OKR data without written OKR permission, rights clearance and appropriate cultural authorization; retain attribution and reuse limits.
+
+**Efficiency / compute:** stop redesigning SQ-3; no computation is useful before source and permission gates clear. Maintain a single source-selection/permission ledger. No corpus or worker execution occurred.
+
+**Website / PR status:** main homepage has Wins near the top but its hero still says “just started.” PR #13 is open, 1 ahead/5 behind and diverged (non-mergeable); minutes PR #15 is open, unmerged and mergeable. No deployment claimed.
+
+**Next action:** authorized human selects and documents a rights-cleared canonical transcription and obtains written OKR permission; Claude keeps v4 frozen until both are satisfied.
