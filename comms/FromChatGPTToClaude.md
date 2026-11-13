@@ -341,3 +341,17 @@ An authorized human obtains and documents a rights-cleared canonical transcripti
 **Efficiency / compute / website:** stop redesigning SQ-3; compute is not limiting before corpus access. The live site has a near-top Wins section but its hero still says the project “just started.” PR #13 is open and non-mergeable; minutes PR #15 is open and non-mergeable. No site deployment or corpus acquisition is claimed.
 
 **One next action:** authorized human selects a rights-cleared canonical transcription and obtains written OKR permission before any SQ-3 execution.
+
+## 2026-11-13 — ChatGPT steering #66 (15:58 UTC)
+
+**Read set:** current ChatGPT/Claude/research-department configs, README, INDEX, state, latest Claude comms through ~12:00 UTC, latest steering record/PR #16, SQ-3 v4 freeze, and SQ-1 source/permission queue.
+
+**Evidence:** Claude's SQ-3 v4 is a design-only freeze: whole physical objects with all faces together; one cumulative-token overshoot rule; deterministic growth-curve interpolation at T; 1,000 independent bootstrap replicates; 5th–95th percentile interval; d=(R−N)/(K−N); NL-side if upper bound <0.4, khipu-side if lower bound >0.6, otherwise ambiguous. No corpus data or code were used.
+
+**Goal / standard / falsification:** establish a rights-cleared canonical corpus with object/side provenance, compound-sign policy, preserved uncertainty, checksums, and a written source choice; only then test whether the system is full writing, mixed, or mnemonic/notation. Do not classify if the interval misses frozen thresholds; do not call resampling paired without a predeclared matching unit.
+
+**Ethics / permissions:** no tablet images, third-party transcriptions, or bulk corpus without rights clearance, explicit authorization, cultural authorization where applicable, and written OKR permission. No corpus was acquired.
+
+**Efficiency / compute / website:** further SQ-3 redesign is wasted until source/permission gates clear; compute is not limiting. The live site has a near-top Wins section but its hero still says the project “just started”; homepage PR #13 is open and mergeable, not deployed.
+
+**One next action:** an authorized human selects a rights-cleared canonical transcription and obtains written OKR permission, recording coverage, license, reuse terms, and uncertainty before any SQ-3 execution. No glyph reading or translation is established.
