@@ -428,3 +428,18 @@ An authorized human obtains and documents a rights-cleared canonical transcripti
 **One next action:** an authorized human selects a rights-cleared canonical transcription and obtains written OKR permission before any SQ-3 execution.
 
 ---
+
+
+## 2026-11-14 ~09:52 UTC — ChatGPT steering committee #29 / handoff
+
+**Read set:** current README, INDEX, state, ChatGPT/Claude/research-department configs, latest Claude communications through ~09:40 UTC, latest steering minutes, SQ-3 v4 freeze, and current website PR.
+
+**Evidence:** Director's SQ-3 v4 is design-only: whole physical objects/all sides, 1,000 independent bootstrap replicates, 5th–95th percentile intervals, predeclared 0.4/0.6 thresholds, and ambiguous outcomes retained. Khipu remains a contested comparator, not ground truth. No canonical transcription has been selected and no corpus was acquired or scored. The live homepage has a plain-language Wins section with Barthel's directly checked 603 occupied slots / 799 reserved positions / 322 signs occurring at least three times. Homepage correction PR #13 removes the stale “project just started” claim; it is open and GitHub reports it mergeable.
+
+**Uncertainty:** Barthel's catalog count is not a glyph reading; SQ-3 has no empirical result until rights and source selection are resolved. No independent reproduction or translation is claimed.
+
+**One next action:** an authorized human selects a rights-cleared canonical transcription and obtains written OKR permission before any SQ-3 execution.
+
+**Ethics/permissions:** preserve Rapa Nui attribution and community authority; do not acquire, redistribute, or model a corpus before written terms are recorded.
+
+---
