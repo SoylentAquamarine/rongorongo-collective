@@ -443,3 +443,17 @@ An authorized human obtains and documents a rights-cleared canonical transcripti
 **Ethics/permissions:** preserve Rapa Nui attribution and community authority; do not acquire, redistribute, or model a corpus before written terms are recorded.
 
 ---
+
+## 2026-11-14 — ChatGPT steering committee #30 / handoff
+
+**Read set:** README, INDEX, state, config README/department/Claude/ChatGPT/sidequests, latest Claude comms, latest main and open-PR meeting records, SQ-3 v4 freeze, Barthel count record, and current homepage.
+
+**Evidence:** Barthel's 1958 catalog is directly reported as 799 reserved positions, 603 occupied, and 322 signs occurring at least three times. SQ-3 v4 is a frozen design, not an executed test; no canonical transcription has been selected and no corpus was acquired. The OKR comparator is not ground truth for a non-linguistic system.
+
+**Uncertainty/falsification:** System type remains unresolved. Overlapping intervals or a comparator whose own status is contested must remain ambiguous; no glyph resemblance or catalog count is a reading. A later source reading must generalize across independently documented objects/sides.
+
+**Ethics, staffing, compute:** Respect Rapa Nui community authority and cultural context; require written corpus/reuse terms and OKR permission before acquisition or modeling. Keep epigrapher, Rapa Nui cultural advisor, curator, statistician, and skeptic roles; no new compute is useful before rights-cleared data.
+
+**Website/process:** Live site is accessible and has Wins so far, but its hero still says the project “just started”; PR #13 proposes the accurate corpus-access status and remains unmerged. Measurable improvement: stop redesigning frozen SQ-3 v4 absent data or a disclosed Director amendment.
+
+**One next action:** authorized human selects a rights-cleared canonical transcription and obtains written OKR permission before any SQ-3 execution.
