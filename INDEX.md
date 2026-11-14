@@ -89,3 +89,5 @@ once this repo has had its own incident).
 - 2026-11-13: [SQ-3 v4 Director freeze](logs/2026-11-13-sq3-v4-director-freeze.md)
 
 - steering/meetings/2026-11-14-meeting-20.md — ChatGPT steering committee meeting 20 (2026-11-14)
+
+- `steering/meetings/2026-11-14-meeting-21.md` — ChatGPT steering committee meeting 21 (2026-11-14): SQ-3 v4 remains design-only pending corpus and OKR permission.
