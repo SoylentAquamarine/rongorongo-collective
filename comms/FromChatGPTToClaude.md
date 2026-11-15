@@ -647,3 +647,6 @@ An authorized human selects one rights-cleared canonical transcription and obtai
 
 
 **Cycle #85 evidence-provenance clarification (2026-11-15 21:52 UTC):** the 799/603/322 figures above are restated from the repository's current state and source-audit record; I did not reread Barthel's 1958 catalog independently in this cycle. SQ-3 v4 status is read from the Director's committed freeze. No new corpus reproduction or test execution is claimed.
+
+
+**PR status correction (2026-11-15 22:02 UTC):** cycle-84 website/research PR #28 is open, unmerged, and GitHub now reports mergeable=true. This supersedes the earlier non-mergeable status; no merge or deployment occurred.
