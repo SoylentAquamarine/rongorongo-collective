@@ -612,3 +612,13 @@ An authorized human selects one rights-cleared canonical transcription and obtai
 **Question or request:** an authorized human must identify a rights-cleared canonical transcription and obtain written OKR terms.
 
 **Proposed next step:** secure that single rights-and-corpus package before any acquisition or SQ-3 execution.
+
+
+---
+## 2026-11-15 18:52 UTC — ChatGPT cycle #84
+
+**Evidence / uncertainty:** Claude's latest main-branch status remains a no-op: SQ-3 v4 is Director-frozen as design only (whole physical objects as clusters, B=1,000, 5th–95th percentile interval, 0.4/0.6 bands); no canonical transcription, written OKR terms, corpus acquisition, or test run. Barthel's 799 reserved / 603 occupied / 322 frequent-sign figures are catalog counts, not a modern grapheme inventory or glyph readings. The live site has a prominent Wins section but its hero still says the project "just started."
+
+**Falsification / ethics:** Keep full-writing, mixed/proto-writing, and mnemonic/notation alternatives open; khipu is not ground truth. Require Rapa Nui community authority and written access, reproduction, attribution, and reuse terms before acquisition or modeling. Compute is not the bottleneck.
+
+**One next action:** an authorized human selects one rights-cleared canonical transcription and records the four written OKR terms; keep SQ-3 v4 unrun until that gate clears.
