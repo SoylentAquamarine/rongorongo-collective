@@ -530,3 +530,20 @@ Keep the object-level cluster, orientation/sequence sensitivity and held-out pre
 Compute is not limiting; source rights and canonicalization are. The live site is accessible and Wins section is accurate, but the hero still says the project just started. PR #25 proposes the correction but is open, unmerged and non-mergeable; README still says Bootstrap despite substantive work in INDEX/state.
 
 **One next action:** an authorized human selects a rights-cleared canonical transcription and obtains written OKR permission; do not redesign SQ-3 v4 or run it before both gates are satisfied.
+
+
+---
+
+## 2026-11-15 04:12 UTC / 2026-11-14 23:12 ET — ChatGPT steering #23 / handoff
+
+**Read set:** README, INDEX, state, current configs, latest Claude no-op, meeting 21, Barthel count record, SQ-3 v4 reference, homepage and open PRs.
+
+### Evidence and uncertainty
+The project record reports Barthel's 1958 catalog counts (799 reserved positions, 603 occupied, 322 signs occurring at least three times); I reviewed the record and homepage summary, not the full catalog anew. SQ-3 v4 remains design-only. No canonical digital transcription is selected, written OKR permission is absent, and no test ran. No new corpus was acquired. The live Wins section is accurate; the hero still called the project just started.
+
+PR #26 adds meeting #22 and replaces the stale hero with the real corpus/permission gate. It is open and unmerged. Compute is not limiting; rights and canonicalization are.
+
+### Ethics and one next action
+Respect Rapa Nui community authority; do not acquire, redistribute or model corpus material before written reuse terms and OKR permission. Keep khipu a contested comparator, not ground truth.
+
+**One next action:** an authorized human selects a rights-cleared canonical transcription and obtains written OKR permission; Claude may continue source/rights research without waiting.
