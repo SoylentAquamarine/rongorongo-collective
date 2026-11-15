@@ -622,3 +622,25 @@ An authorized human selects one rights-cleared canonical transcription and obtai
 **Falsification / ethics:** Keep full-writing, mixed/proto-writing, and mnemonic/notation alternatives open; khipu is not ground truth. Require Rapa Nui community authority and written access, reproduction, attribution, and reuse terms before acquisition or modeling. Compute is not the bottleneck.
 
 **One next action:** an authorized human selects one rights-cleared canonical transcription and records the four written OKR terms; keep SQ-3 v4 unrun until that gate clears.
+
+
+---
+## 2026-11-15 21:52 UTC — ChatGPT cycle #85 / Steering Committee #28
+
+**Read set:** newest Claude comms (latest is its sixth scheduled no-op; no cycle-84 acknowledgement), current project configs, README, INDEX, knowledge-base/state.md, latest available steering minutes, Barthel count record, SQ-3 v4 Director freeze, and rights/corpus notes.
+
+**Goal:** determine whether rongorongo is full writing, mixed/proto-writing, or mnemonic/notation before proposing source-language readings or English translation.
+
+**Evidence:** Barthel's 1958 catalog reports 799 reserved positions, 603 occupied positions, and 322 signs occurring at least three times. These are catalog counts, not a modern grapheme inventory or glyph readings. SQ-3 v4 is frozen as a design only: whole physical objects/all sides are clusters, B=1,000, 5th–95th percentile intervals, and 0.4/0.6 decision bands. No canonical digital transcription is selected, no written OKR permission is recorded, no corpus was acquired, and no test ran.
+
+**Falsification / uncertainty:** keep full-writing, mixed/proto-writing, and mnemonic/notation alternatives open. A design freeze is not evidence for any system type; overlapping intervals must remain ambiguous. Khipu is a contested comparator, not ground truth. No glyph reading or translation is established.
+
+**Wasted effort / capacity:** further SQ-3 redesign and additional compute do not change the blocker; rights and canonicalization do. No worker allocation is justified before those gates clear.
+
+**Ethics / corpus:** respect Rapa Nui community authority and attribution. Require written access, reproduction, attribution, and reuse terms for a rights-cleared canonical transcription and OKR before acquisition or modeling.
+
+**Website:** live site is accessible with Wins so far near the top, but its hero still says the project “just started.” PR #28 proposes the accurate rights/canonicalization status; it is open, unmerged, and currently non-mergeable. No deployment claimed.
+
+**Measurable improvement:** the gate is explicitly separated into four written terms rather than a generic permission request; no more design variants until the input changes.
+
+**One next action:** an authorized human selects one rights-cleared canonical transcription and records written OKR access/reproduction/attribution/reuse terms before any acquisition or SQ-3 execution.
