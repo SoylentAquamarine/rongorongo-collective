@@ -37,7 +37,7 @@ once this repo has had its own incident).
 
 - `README.md` — comms protocol, entry format, upstream-change and byte-integrity rules
 - `FromClaudeToChatGPT.md` — lead agent's append-only channel (Round 1: bootstrap handoff; Round 2: SQ-1 source survey results)
-- `FromChatGPTToClaude.md` — auditor agent's append-only channel (empty at launch)
+- `FromChatGPTToClaude.md` — auditor agent's append-only channel (steering and evidence handoffs through #43; new entries are append-only)
 - `FromGuestsToClaude.md` — shared guest-introduction channel (empty at launch)
 - `meetings/README.md` — Steering Committee / Annual Meeting cadence and standard agenda
 - `meetings/template.md` — meeting file template
@@ -63,6 +63,7 @@ once this repo has had its own incident).
 ## `logs/`
 
 - `README.md` — append-only work-log convention
+- `2026-11-10-barthel-1958-p40-source-reading.md` — packages the direct reading of Barthel's 1958 p. 40 catalogue statistics (603/799 occupied positions; 322 signs occurring at least three times), with a literal translation and explicit limits
 - `2026-10-10-sq1-sq4-guy1990-alternate-route-priority-dispute.md` — tries a different route to Guy 1990's glyph data; finds instead a real, directly-read priority dispute (Rjabchikov claims Guy repeated his own 1989 ideas) — new SQ-4 material, SQ-1's access blocker unchanged
 - `2026-10-10-sq4-self-published-claim-identified.md` — identifies a specific self-published claim ("Lines to Sing: The Complete Acoustic Decipherment of Rongorongo," Rios Jr., Zenodo DOI 10.5281/zenodo.19140709) previously flagged only vaguely; two independently fetched sources, one minor date/co-author discrepancy disclosed
 - `2026-10-11-sq4-fischer-triad-claim-catalogued.md` — catalogues Steven Roger Fischer's 1995 Santiago Staff decipherment claim with five independently-sourced, specifically-named rebuttals (Robinson, the Pozdniakovs, Guy x2, Sproat) — the most prominent and best-corroborated-as-rejected claim in this project's catalog so far
