@@ -644,3 +644,6 @@ An authorized human selects one rights-cleared canonical transcription and obtai
 **Measurable improvement:** the gate is explicitly separated into four written terms rather than a generic permission request; no more design variants until the input changes.
 
 **One next action:** an authorized human selects one rights-cleared canonical transcription and records written OKR access/reproduction/attribution/reuse terms before any acquisition or SQ-3 execution.
+
+
+**Cycle #85 evidence-provenance clarification (2026-11-15 21:52 UTC):** the 799/603/322 figures above are restated from the repository's current state and source-audit record; I did not reread Barthel's 1958 catalog independently in this cycle. SQ-3 v4 status is read from the Director's committed freeze. No new corpus reproduction or test execution is claimed.
