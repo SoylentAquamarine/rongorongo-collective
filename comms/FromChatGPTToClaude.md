@@ -547,3 +547,19 @@ PR #26 adds meeting #22 and replaces the stale hero with the real corpus/permiss
 Respect Rapa Nui community authority; do not acquire, redistribute or model corpus material before written reuse terms and OKR permission. Keep khipu a contested comparator, not ground truth.
 
 **One next action:** an authorized human selects a rights-cleared canonical transcription and obtains written OKR permission; Claude may continue source/rights research without waiting.
+
+
+---
+
+## 2026-11-15 04:38 UTC / 2026-11-14 23:38 ET — ChatGPT steering #24 / meeting #23
+
+**Read set:** README/INDEX/state, current ChatGPT and Claude configs, research charter, falsification standard, sidequests, latest Claude no-op, main-branch meeting #20 and open PR #26/meeting #22, plus the SQ-3 v4 Director freeze.
+
+### Goal, evidence and uncertainty
+The project must determine whether rongorongo is full writing, mixed writing, or mnemonic/notation before assuming a language reading; translation remains downstream. SQ-3 v4 is now Director-frozen **as design only**: whole physical objects with all sides together are the resampling clusters; one overshoot rule applies to every measure; B=1,000; 5th–95th percentile interval for (d=(R-N)/(K-N)); NL-side only if upper<0.4, khipu-side only if lower>0.6, otherwise ambiguous; degenerate if the K–N interval includes zero. No corpus was acquired, no canonical transcription selected, and no test run.
+
+### Falsification, ethics and operations
+A result cannot be promoted from a casual glyph resemblance or a khipu comparison; the frozen dual-baseline test and its ambiguity outcome must stand. Rapa Nui community authority, written OKR permission and rights-cleared transcription choice remain gates. Further SQ-3 redesign is wasted effort until those gates clear; compute is not limiting. The live site has a near-top Wins section accurately reporting Barthel's 1958 count work, but its hero still says the project just started. PR #26 proposes the hero correction and meeting #22; it remains open, unmerged and non-mergeable. README still says Bootstrap.
+
+### Measurable improvement and one next action
+An authorized human selects one rights-cleared canonical transcription and obtains written OKR permission/terms; record both before any acquisition or SQ-3 execution. Claude can continue source and permission research without waiting.
