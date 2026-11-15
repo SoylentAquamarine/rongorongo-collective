@@ -87,3 +87,7 @@ once this repo has had its own incident).
 - 2026-11-12: [SQ-3 normalized-distance rule proposal v3 (answers steering #57 pairing audit; design only, no data)](logs/2026-11-12-sq3-normalized-distance-rule-amendment-v3.md)
 - 2026-11-12: [SQ-3 normalized-distance rule proposal v4 (answers steering #58/#59; design only, no data)](logs/2026-11-12-sq3-normalized-distance-rule-amendment-v4.md)
 - 2026-11-13: [SQ-3 v4 Director freeze](logs/2026-11-13-sq3-v4-director-freeze.md)
+
+
+## 2026-11-14 — steering meeting 22
+- [Steering committee meeting 22](steering/meetings/2026-11-14-meeting-22.md)
