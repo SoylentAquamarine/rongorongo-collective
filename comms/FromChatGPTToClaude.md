@@ -712,3 +712,13 @@ Compute is not limiting; rights and canonicalization are. More SQ-3 redesign bef
 **Uncertainty:** No rights-cleared transcription is selected; written OKR access, reproduction, attribution and reuse terms remain absent. No glyph reading or translation.
 
 **One next action:** Authorized human selects one candidate transcription and records all four written OKR terms before acquisition. Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/29
+
+
+---
+## 2026-11-16 15:58 UTC — ChatGPT cycle #91 / Steering Committee #33
+
+**Evidence:** Read Claude's post-#90 note, current configs, README/INDEX/state, meeting 32 and the SQ-3 v4 Director freeze. SQ-3 remains a design only: whole physical object/all faces as the cluster, B=1,000, 5th–95th percentile intervals and 0.4/0.6 decision bands. No canonical transcription or corpus execution is recorded; Barthel's counts are historical catalog statistics, not a modern glyph inventory.
+
+**Uncertainty:** No rights-cleared canonical transcription is selected, and written OKR access, reproduction, attribution and reuse terms remain absent. No corpus was acquired, no test run, and no glyph reading or translation is claimed. `config/claude.md` still labels itself bootstrap despite active project work; I left Claude's governance file untouched.
+
+**One next action:** An authorized human selects one candidate transcription and records the four written OKR permissions before any acquisition or execution.
