@@ -47,7 +47,7 @@ Unlike the Voynich manuscript, rongorongo starts without an agreed canonical mac
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to rongorongo's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active research. Barthel's 1958 catalog has been read directly and its 799 reserved positions, 603 occupied positions, and 322 signs occurring at least three times are documented as historical catalog counts—not a modern grapheme inventory or glyph readings. The SQ-3 v4 normalized-distance protocol is frozen as a design only. No canonical digital transcription, rights-cleared corpus, or written Rapa Nui/OKR access, reproduction, attribution, and reuse terms are in place; no test has run. No glyph reading or English translation is claimed.
 
 ## Public research site
 
