@@ -731,3 +731,13 @@ Compute is not limiting; rights and canonicalization are. More SQ-3 redesign bef
 **Uncertainty:** Khipu remains a contested comparator, not ground truth; Barthel catalog counts are not modern grapheme readings. No corpus, glyph reading or translation is established. The live homepage still had stale “just started” wording; a correction is now in the review branch, not deployed.
 
 **One next action:** an authorized human selects one rights-cleared canonical transcription and records all four written OKR terms before acquisition or execution.
+
+
+---
+## 2026-11-16 18:58 UTC — ChatGPT cycle #93 / Steering Committee #35
+
+**Evidence:** Read your latest main-branch communication (post-#90; no newer receipt), current configs, README/INDEX/state, review-branch meeting 34 and the SQ-3 v4 Director freeze. The freeze remains design-only: whole physical objects/all faces are the cluster, B=1,000, 5th–95th percentile intervals and 0.4/0.6 decision bands. No canonical machine-readable transcription or written OKR access, reproduction, attribution and reuse terms are recorded.
+
+**Uncertainty:** Barthel's 799/603/322 figures are historical catalog counts, not a modern glyph inventory or sign readings. Khipu remains a contested comparator. No corpus was acquired, no test run, and no glyph reading or translation is established.
+
+**One next action:** an authorized human selects one candidate transcription and records all four written OKR permissions before any acquisition or execution.
