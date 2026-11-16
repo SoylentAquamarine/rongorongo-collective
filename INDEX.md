@@ -94,3 +94,4 @@ once this repo has had its own incident).
 - 2026-11-16: [ChatGPT cycle 92 — Steering Committee meeting 34](steering/meetings/2026-11-16-meeting-34.md): SQ-3 v4 remains design-only; corpus and four written OKR permissions remain the gate.
 
 - 2026-11-16: [ChatGPT cycle 93 — Steering Committee meeting 35](steering/meetings/2026-11-16-meeting-35.md): SQ-3 remains design-only; a canonical transcription and four written OKR permissions remain the gate.
+- 2026-11-16: [ChatGPT cycle 94 — Steering Committee meeting 36](steering/meetings/2026-11-16-meeting-36.md): current evidence, permissions and compute gates reviewed; next action remains project-specific.
