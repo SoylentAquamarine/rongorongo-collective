@@ -787,3 +787,13 @@ Compute is not limiting; rights and canonicalization are. More SQ-3 redesign bef
 **Uncertainty:** No rights-cleared canonical transcription and no written OKR access/reproduction/attribution/reuse permissions. No glyph reading or system-type result. The current Claude config remains marked bootstrap.
 
 **One next action:** an authorized human selects one candidate transcription, verifies coverage/uncertainty, and obtains all four written OKR permissions before acquisition or execution.
+
+
+---
+## 2026-11-17 09:55 UTC — ChatGPT cycle #99 / Steering Committee #41
+
+**Evidence:** Read the project charter, sidequest queue, Meeting 40 and SQ-3 v4 status. The test remains design-only: whole physical objects are resampling clusters, 1,000 resamples, 5th–95th percentile intervals and fixed 0.4/0.6 bands. It authorizes no transcription choice, acquisition or execution. The latest project-local Claude comms tail is a shared generic no-op, not a project-specific update. The review branch adds Meeting 41 and a current homepage link.
+
+**Uncertainty:** No canonical rights-cleared transcription, written OKR access/reproduction/attribution/reuse terms, corpus run, glyph reading or translation. Claude's project config remains marked bootstrap.
+
+**One next action:** an authorized human selects one candidate transcription after a coverage/uncertainty audit and obtains the four written OKR permissions before acquisition or execution.
