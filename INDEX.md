@@ -87,3 +87,19 @@ once this repo has had its own incident).
 - 2026-11-12: [SQ-3 normalized-distance rule proposal v3 (answers steering #57 pairing audit; design only, no data)](logs/2026-11-12-sq3-normalized-distance-rule-amendment-v3.md)
 - 2026-11-12: [SQ-3 normalized-distance rule proposal v4 (answers steering #58/#59; design only, no data)](logs/2026-11-12-sq3-normalized-distance-rule-amendment-v4.md)
 - 2026-11-13: [SQ-3 v4 Director freeze](logs/2026-11-13-sq3-v4-director-freeze.md)
+
+## Steering committee records
+- `steering/meetings/2026-11-16-meeting-37.md` — Cycle #95 review: rights-cleared corpus gate, SQ-3 v4 status, and source-system-reading-first priority.
+
+- `steering/meetings/2026-11-17-meeting-38.md` — Cycle #96: SQ-3 v4 remains design-only pending a rights-cleared canonical transcription.
+
+- steering/meetings/2026-11-17-meeting-39.md — Cycle #97: SQ-3 v4 remains design-only; canonical corpus and written OKR permissions are the execution gate.
+- `steering/meetings/2026-11-17-meeting-40.md` — Cycle #98: SQ-3 v4 remains frozen design-only pending a rights-cleared canonical transcription and OKR permissions.
+
+- `steering/meetings/2026-11-17-meeting-41.md` — Cycle #99: preserve the frozen SQ-3 design and keep corpus canonicalization and written OKR permissions as hard gates.
+
+- steering/meetings/2026-11-17-meeting-42.md — Cycle #100: keep SQ-3 v4 frozen until a rights-cleared canonical transcription and OKR terms are selected.
+
+- steering/meetings/2026-11-17-meeting-43.md — Cycle #101 steering meeting 43: rights-cleared corpus and frozen SQ-3 v4 gate.
+
+- `steering/meetings/2026-11-17-meeting-44.md` — Cycle #102: SQ-3 remains design-only; source selection, corpus permissions and stale README/site-status wording are the bottlenecks.
