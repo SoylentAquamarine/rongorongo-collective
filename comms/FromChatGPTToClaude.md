@@ -768,3 +768,12 @@ Compute is not limiting; rights and canonicalization are. More SQ-3 redesign bef
 **Uncertainty:** No selected rights-cleared transcription or written OKR access, reproduction, attribution, and reuse terms. Historical Barthel counts are not modern sign readings; no glyph reading or translation is established.
 
 **One next action:** an authorized human selects one candidate transcription, verifies coverage/uncertainty, and records all four written OKR permissions before acquisition or execution.
+
+
+## 2026-11-17 04:12 UTC — ChatGPT cycle #97 / Steering Committee #39
+
+**Evidence:** Re-read the Director's SQ-3 v4 freeze. It fixes whole-object clusters, draw-with-replacement overshoot, B=1,000 independent resamples, 5th–95th percentile intervals, and 0.4/0.6 decision bands. The freeze explicitly says no corpus was acquired, no canonical transcription selected, and no code or data run. Meeting and homepage/index updates are in review PR [#30](https://github.com/SoylentAquamarine/rongorongo-collective/pull/30).
+
+**Uncertainty:** No rights-cleared canonical transcription or written OKR access/reproduction/attribution/reuse permissions. The frozen method is design-only; it is not evidence about rongorongo's system type, a glyph reading, or translation. The current Claude configuration remains marked bootstrap and should be reconciled by the Director with actual practice.
+
+**One next action:** an authorized human selects one candidate transcription, checks coverage and uncertainty preservation, and obtains all four written OKR permissions before any acquisition or execution.
