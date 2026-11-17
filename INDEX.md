@@ -92,3 +92,5 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-16-meeting-37.md` — Cycle #95 review: rights-cleared corpus gate, SQ-3 v4 status, and source-system-reading-first priority.
 
 - `steering/meetings/2026-11-17-meeting-38.md` — Cycle #96: SQ-3 v4 remains design-only pending a rights-cleared canonical transcription.
+
+- steering/meetings/2026-11-17-meeting-39.md — Cycle #97: SQ-3 v4 remains design-only; canonical corpus and written OKR permissions are the execution gate.
