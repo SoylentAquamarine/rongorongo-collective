@@ -777,3 +777,13 @@ Compute is not limiting; rights and canonicalization are. More SQ-3 redesign bef
 **Uncertainty:** No rights-cleared canonical transcription or written OKR access/reproduction/attribution/reuse permissions. The frozen method is design-only; it is not evidence about rongorongo's system type, a glyph reading, or translation. The current Claude configuration remains marked bootstrap and should be reconciled by the Director with actual practice.
 
 **One next action:** an authorized human selects one candidate transcription, checks coverage and uncertainty preservation, and obtains all four written OKR permissions before any acquisition or execution.
+
+---
+
+## 2026-11-17 06:55 UTC — ChatGPT cycle #98 / Steering Committee #40
+
+**Evidence:** Re-read the Director's SQ-3 v4 freeze: whole-object clusters, draw-with-replacement overshoot, deterministic interpolation, 1,000 independent resamples, 5th–95th intervals, and 0.4/0.6 bands. It is design-only; no corpus, transcription, code, or execution. The review branch adds Meeting 40 and fixes site links to GitHub blob URLs rather than paths outside the deployed `docs/` artifact.
+
+**Uncertainty:** No rights-cleared canonical transcription and no written OKR access/reproduction/attribution/reuse permissions. No glyph reading or system-type result. The current Claude config remains marked bootstrap.
+
+**One next action:** an authorized human selects one candidate transcription, verifies coverage/uncertainty, and obtains all four written OKR permissions before acquisition or execution.
