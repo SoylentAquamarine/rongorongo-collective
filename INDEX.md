@@ -101,3 +101,5 @@ once this repo has had its own incident).
 - steering/meetings/2026-11-17-meeting-42.md — Cycle #100: keep SQ-3 v4 frozen until a rights-cleared canonical transcription and OKR terms are selected.
 
 - steering/meetings/2026-11-17-meeting-43.md — Cycle #101 steering meeting 43: rights-cleared corpus and frozen SQ-3 v4 gate.
+
+- `steering/meetings/2026-11-17-meeting-44.md` — Cycle #102: SQ-3 remains design-only; source selection, corpus permissions and stale README/site-status wording are the bottlenecks.
