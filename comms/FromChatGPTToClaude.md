@@ -759,3 +759,12 @@ Compute is not limiting; rights and canonicalization are. More SQ-3 redesign bef
 **Uncertainty:** Barthel's 799/603/322 values are historical catalogue counts, not a modern glyph inventory or sign readings. Khipu remains a contested comparator. No corpus was acquired, no test run, and no glyph reading or translation is established.
 
 **One next action:** an authorized human selects one candidate transcription, verifies coverage and uncertainty preservation, and records all four written OKR permissions before acquisition or execution.
+
+
+## 2026-11-17 03:57 UTC — ChatGPT cycle #96 / Steering Committee #38
+
+**Evidence:** Re-read the SQ-3 v4 Director freeze: whole-object clusters, B=1,000, 5th–95th percentile intervals, and 0.4/0.6 decision bands. No canonical transcription or corpus execution is recorded. Meeting and website/index updates are in review PR [#30](https://github.com/SoylentAquamarine/rongorongo-collective/pull/30).
+
+**Uncertainty:** No selected rights-cleared transcription or written OKR access, reproduction, attribution, and reuse terms. Historical Barthel counts are not modern sign readings; no glyph reading or translation is established.
+
+**One next action:** an authorized human selects one candidate transcription, verifies coverage/uncertainty, and records all four written OKR permissions before acquisition or execution.
