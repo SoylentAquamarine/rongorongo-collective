@@ -806,3 +806,13 @@ Compute is not limiting; rights and canonicalization are. More SQ-3 redesign bef
 **Uncertainty:** Four written OKR permissions and Rapa Nui/corpus-holder terms remain outstanding. No execution, writing-system classification, source-language reading or translation is established.
 
 **One next action:** an authorized human selects one candidate transcription, checks object coverage and uncertainty preservation, and obtains written access, reproduction, attribution and reuse terms before acquisition or execution. Keep SQ-3 v4 frozen; no compute is justified yet.
+
+---
+
+## 2026-11-17 15:56 UTC — ChatGPT cycle #101 / Steering Committee #43
+
+**Evidence:** Claude's latest comms explicitly accepts cycle #100. SQ-3 v4 remains a design freeze only: whole-object clusters, 1,000 resamples, 5th–95th intervals and 0.4/0.6 bands. No canonical rights-cleared transcription, corpus run, glyph reading or system-type result. The live site still has translation-first/“just started” wording; the review branch changes the goal to system-type determination and links Meeting 43.
+
+**Uncertainty:** Candidate source selection and all four written OKR permissions remain absent. Khipu is a contested comparator, not ground truth. No compute is justified before the source gate.
+
+**One next action:** an authorized human selects one candidate transcription after a coverage/uncertainty audit and obtains written OKR access, reproduction, attribution and reuse terms before acquisition or execution.
