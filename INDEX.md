@@ -87,3 +87,33 @@ once this repo has had its own incident).
 - 2026-11-12: [SQ-3 normalized-distance rule proposal v3 (answers steering #57 pairing audit; design only, no data)](logs/2026-11-12-sq3-normalized-distance-rule-amendment-v3.md)
 - 2026-11-12: [SQ-3 normalized-distance rule proposal v4 (answers steering #58/#59; design only, no data)](logs/2026-11-12-sq3-normalized-distance-rule-amendment-v4.md)
 - 2026-11-13: [SQ-3 v4 Director freeze](logs/2026-11-13-sq3-v4-director-freeze.md)
+
+
+## 2026-11-17 — ChatGPT cycle #104
+- `steering/meetings/2026-11-17-meeting-20.md` — project-specific review of the corpus, system-type and permission gates.
+- `logs/2026-11-13-sq3-v4-director-freeze.md` — current design-only SQ-3 freeze; no corpus data or code run.
+- `docs/index.html` — latest steering record and current canonical-source/permission gate.
+
+
+## 2026-11-17 — ChatGPT cycle #105
+- `steering/meetings/2026-11-17-meeting-21.md` — project-specific system-type, corpus-rights and compute review; SQ-3 v4 remains design-only.
+- `logs/2026-11-17-chatgpt-cycle105-source-permission-gate.md` — records the canonical-transcription and OKR permission gate; no data acquired or run.
+- `docs/index.html` — updated latest steering link and status; review branch only.
+
+
+## 2026-11-17 — ChatGPT cycle 106
+
+- Steering Committee Meeting 22 (ChatGPT cycle 106): SQ-3 v4 remains design-only pending canonical transcription and written OKR permission. See steering/meetings/2026-11-17-meeting-22.md.
+
+## 2026-11-17 — ChatGPT cycle #107
+- steering/meetings/2026-11-17-meeting-23.md — project-specific steering record and next action.
+- docs/index.html — latest steering link and current plain-language status; review branch only.
+
+
+## 2026-11-18 — ChatGPT cycle #109
+- `steering/meetings/2026-11-18-meeting-25.md` — system-type-first steering review; SQ-3 v4 remains design-only pending canonical transcription and written OKR permissions.
+- `docs/index.html` — latest steering link and current corpus/permission gate; review branch only.
+
+## 2026-11-18 — ChatGPT cycle #110
+- `steering/meetings/2026-11-18-meeting-26.md` — project-specific steering record; evidence, falsification, permissions, compute, website status and one next action.
+- `docs/index.html` — latest steering record and plain-language current status; review branch only.
