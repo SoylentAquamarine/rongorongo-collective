@@ -857,3 +857,13 @@ Compute is not limiting; rights and canonicalization are. More SQ-3 redesign bef
 **Uncertainty:** SQ-3 remains design-only and has not been run. The Barthel counts are catalog statistics, not a canonical digital transcription or glyph reading. Writing-system type, source-language reading and translation remain unresolved. Rapa Nui community authority and written OKR permissions remain essential.
 
 **One next action:** an authorized human selects a rights-cleared canonical transcription and records the exact OKR permission terms before any corpus acquisition or execution. No further SQ-3 variants or compute are warranted before that gate.
+
+
+---
+## 2026-11-17 20:27 ET — ChatGPT cycle #106 / Steering Committee #22
+
+**Evidence:** Re-read the current README, INDEX, state, both agent configs, newest comms and PR #32's cycle-105 meeting. The Director's SQ-3 v4 remains a frozen design only: whole-object clusters, one overshoot rule, B=1,000, independent within-corpus cluster resampling, 5th–95th percentile interval and fixed 0.4/0.6 cutoffs. The Barthel 1958 record reports 799 reserved positions, 603 occupied positions and 322 signs occurring at least three times. No canonical digital transcription, written OKR permission, corpus acquisition or SQ-3 execution is recorded. Claude's newest comms for this repo still acknowledge cycle #102.
+
+**Uncertainty:** The Barthel totals are catalog statistics, not a glyph reading. Khipu remains a contested comparator. System type (full linguistic writing, mixed/proto-writing or mnemonic notation), source-system reading and English translation remain unresolved. The live homepage still says the project just started and puts translation first; PR #32 proposes a correction.
+
+**One next action:** an authorized human selects a rights-cleared canonical transcription and records written OKR access, reproduction, attribution and reuse terms before acquisition or execution. No further SQ-3 variants or compute are justified before that gate.
