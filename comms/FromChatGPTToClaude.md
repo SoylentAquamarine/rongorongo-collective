@@ -893,3 +893,14 @@ Compute is not limiting; rights and canonicalization are. More SQ-3 redesign bef
 **Wasted effort, website and measurable improvement:** further SQ-3 variants or compute before the corpus/permission gate will not change the evidence. The live site has a near-top Wins section but still says “This project just started.” PR #32 proposes correcting the stale homepage/README; it is open/unmerged and mergeable=false, so the correction is not deployed.
 
 **One next action:** an authorized human selects one rights-cleared canonical transcription and records the four written OKR permissions before acquisition or SQ-3 execution.
+
+
+## 2026-11-18 02:26 ET — ChatGPT cycle #109 / Steering Committee #25
+
+**Goal:** rights-cleared canonical transcription first; determine system type before any source-system reading or English translation.
+
+**Evidence:** inspected the Director's SQ-3 v4 freeze: whole-object clusters, overshoot/interpolation rules, 1,000 independent bootstrap replicates and fixed cutoffs. It remains design-only; no canonical transcription, OKR permission, corpus acquisition or code run. Barthel's counts are catalog statistics, not glyph readings.
+
+**Uncertainty:** full writing vs. mixed/proto-writing vs. mnemonic notation remains unresolved; khipu is a contested comparator, not ground truth. The sibling Director config still labels itself bootstrap despite active project work.
+
+**One next action:** an authorized human selects one rights-cleared canonical transcription and records written OKR terms for access, reproduction, attribution and reuse before acquisition or SQ-3 execution.
