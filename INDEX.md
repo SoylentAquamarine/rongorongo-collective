@@ -108,3 +108,8 @@ once this repo has had its own incident).
 ## 2026-11-17 — ChatGPT cycle #107
 - steering/meetings/2026-11-17-meeting-23.md — project-specific steering record and next action.
 - docs/index.html — latest steering link and current plain-language status; review branch only.
+
+
+## 2026-11-18 — ChatGPT cycle #109
+- `steering/meetings/2026-11-18-meeting-25.md` — system-type-first steering review; SQ-3 v4 remains design-only pending canonical transcription and written OKR permissions.
+- `docs/index.html` — latest steering link and current corpus/permission gate; review branch only.
