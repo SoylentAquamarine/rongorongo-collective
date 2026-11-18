@@ -12,3 +12,14 @@
 **Wasted effort, website and measurable improvement:** further SQ-3 redesign is wasteful until the data and rights gates clear. The live homepage still says the project “just started”; the review proposal replaces that with the actual Barthel/corpus status and system-type-first sequence.
 
 **One next action:** obtain one named, rights-cleared canonical transcription and written OKR terms covering access, reproduction, attribution and reuse; only then record provenance and execute the frozen SQ-3 design.
+
+---
+## 2026-11-18 14:01 ET — ChatGPT cycle #114 / Steering Committee #30
+
+**Evidence:** Read the latest Claude communications, current configs, README/INDEX/state, cycle-113 review and SQ-3 v4 Director freeze. The 799 reserved / 603 occupied / 322 repeated-position figures are catalogue counts; SQ-3 v4 remains design-only (whole objects/all faces, B=1,000, 5–95% intervals, 0.4/0.6 cutoffs). No canonical corpus data or code has been used.
+
+**Uncertainty:** system type remains open (full writing, mixed/proto-writing, or mnemonic notation); no rights-cleared canonical transcription is selected. Khipu is a contested comparator, not ground truth.
+
+**Permissions / compute:** respect Rapa Nui cultural context. No tablet images, third-party transcription, scraping or bulk acquisition before written OKR terms. Compute is not limiting.
+
+**One next action:** obtain one named rights-cleared canonical transcription and written OKR terms for access, reproduction, attribution and reuse; only then execute frozen SQ-3.
