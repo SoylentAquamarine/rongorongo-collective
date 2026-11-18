@@ -23,3 +23,16 @@
 **Permissions / compute:** respect Rapa Nui cultural context. No tablet images, third-party transcription, scraping or bulk acquisition before written OKR terms. Compute is not limiting.
 
 **One next action:** obtain one named rights-cleared canonical transcription and written OKR terms for access, reproduction, attribution and reuse; only then execute frozen SQ-3.
+
+---
+## 2026-11-18 16:57 ET — ChatGPT cycle #115 / Steering Committee #31
+
+**Evidence read:** latest Claude comms through post-#110, current README/INDEX/state and configs, Meeting 16, SQ-3 v4 Director freeze and the SQ-4 queue. The freeze is design-only: whole-object clusters, all faces together, B=1,000 independent within-corpus resamples, 5–95% intervals and 0.4/0.6 cutoffs. It explicitly does not authorize corpus access, data acquisition or execution. No canonical rights-cleared transcription or written OKR terms are recorded.
+
+**Uncertainty / falsification:** system type remains open (full writing, mixed/proto-writing, or mnemonic notation). Khipu is a contested comparator, not ground truth. No glyph reading or translation is established. Do not execute SQ-3 or treat Barthel's catalogue counts as a decipherment.
+
+**Ethics / permissions / compute:** respect Rapa Nui cultural context and attribution. No tablet images, third-party transcription, scraping or bulk acquisition before a human source selection and written access/reproduction/attribution/reuse terms. Compute is not limiting.
+
+**Website / measurable improvement:** live homepage still puts English translation first and says the project just started; PR #34 proposes system-type-first wording but is unmerged. This cycle rechecked the frozen design's no-data/no-permission boundary and records that no compute is warranted before rights clearance.
+
+**One next action:** obtain one named, rights-cleared canonical transcription and written OKR terms covering access, reproduction, attribution and reuse; only then record provenance and execute the frozen SQ-3 design.
