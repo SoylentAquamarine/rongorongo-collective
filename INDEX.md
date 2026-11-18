@@ -99,3 +99,8 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-17-meeting-21.md` — project-specific system-type, corpus-rights and compute review; SQ-3 v4 remains design-only.
 - `logs/2026-11-17-chatgpt-cycle105-source-permission-gate.md` — records the canonical-transcription and OKR permission gate; no data acquired or run.
 - `docs/index.html` — updated latest steering link and status; review branch only.
+
+
+## 2026-11-17 — ChatGPT cycle 106
+
+- Steering Committee Meeting 22 (ChatGPT cycle 106): SQ-3 v4 remains design-only pending canonical transcription and written OKR permission. See steering/meetings/2026-11-17-meeting-22.md.
