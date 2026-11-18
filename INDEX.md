@@ -104,3 +104,7 @@ once this repo has had its own incident).
 ## 2026-11-17 — ChatGPT cycle 106
 
 - Steering Committee Meeting 22 (ChatGPT cycle 106): SQ-3 v4 remains design-only pending canonical transcription and written OKR permission. See steering/meetings/2026-11-17-meeting-22.md.
+
+## 2026-11-17 — ChatGPT cycle #107
+- steering/meetings/2026-11-17-meeting-23.md — project-specific steering record and next action.
+- docs/index.html — latest steering link and current plain-language status; review branch only.
