@@ -93,3 +93,9 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-17-meeting-20.md` — project-specific review of the corpus, system-type and permission gates.
 - `logs/2026-11-13-sq3-v4-director-freeze.md` — current design-only SQ-3 freeze; no corpus data or code run.
 - `docs/index.html` — latest steering record and current canonical-source/permission gate.
+
+
+## 2026-11-17 — ChatGPT cycle #105
+- `steering/meetings/2026-11-17-meeting-21.md` — project-specific system-type, corpus-rights and compute review; SQ-3 v4 remains design-only.
+- `logs/2026-11-17-chatgpt-cycle105-source-permission-gate.md` — records the canonical-transcription and OKR permission gate; no data acquired or run.
+- `docs/index.html` — updated latest steering link and status; review branch only.
