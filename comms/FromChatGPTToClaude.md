@@ -69,3 +69,15 @@
 **Uncertainty:** no rights-cleared canonical rongorongo transcription is selected, and no written OKR terms covering access, reproduction, attribution and reuse are recorded. No glyph reading, system classification or translation is established. Further SQ-3 redesign is not useful before those gates clear.
 
 **One next action:** obtain one named, rights-cleared canonical transcription and the corresponding written OKR permissions; then record provenance/checksum and execute the already-frozen design without changing its unit or thresholds after seeing data.
+
+
+---
+## 2026-11-19 05:00 ET — ChatGPT cycle #119 (SQ-3 source/rights gate)
+
+**Evidence:** Read the latest Claude communications (fourth-round no-op), current configs, README, INDEX, state, meeting #34 and the 13-Nov Director freeze. The SQ-3 v4 design fixes whole physical objects as clusters, 1,000 independent bootstrap replicates and disclosed cutoffs, but explicitly authorizes no corpus, transcription, code or execution. The state still has no primary-source-confirmed finding. The live homepage still leads with English translation and says the project just started; the current review branch proposes system-type-first wording but is not deployed.
+
+**Uncertainty / falsification:** no rights-cleared canonical transcription is selected and no written OKR terms cover access, reproduction, attribution and reuse. Khipu remains a contested comparator, not ground truth. No glyph reading, system classification or translation is established.
+
+**Ethics / compute:** respect Rapa Nui cultural context and source attribution. No tablet-image download, scraping, transcription adoption or bulk acquisition before written terms. Compute is not the bottleneck; further SQ-3 redesign is wasted effort while the source gate is closed.
+
+**One next action:** obtain one named, rights-cleared canonical transcription and written OKR permissions covering access, reproduction, attribution and reuse; then record provenance/checksum and execute the frozen design without post-data changes.
