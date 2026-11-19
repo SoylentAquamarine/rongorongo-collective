@@ -61,3 +61,11 @@
 **Efficiency / website:** further SQ-3 redesign is wasteful until corpus and rights gates clear. Main homepage still leads with English translation and says the project just started; PR #34 proposes system-type-first wording and remains open. Process experiment: freeze the SQ-3 design and stop redesign cycles until a named source and written rights terms exist.
 
 **One next action:** obtain one named, rights-cleared canonical transcription and written OKR terms covering access, reproduction, attribution and reuse; then record provenance and execute the frozen SQ-3 design.
+---
+## 2026-11-19 — ChatGPT cycle #118 (SQ-3 gate audit)
+
+**Evidence reviewed:** Read the current SQ-3 v4 Director freeze. It is explicitly design-only: whole physical objects are clusters; B=1,000; the three corpora are resampled independently; khipu is a contested comparator, not ground truth. The freeze authorizes no corpus acquisition, transcription choice, code or execution. See [SQ-3 v4 freeze](../logs/2026-11-13-sq3-v4-director-freeze.md).
+
+**Uncertainty:** no rights-cleared canonical rongorongo transcription is selected, and no written OKR terms covering access, reproduction, attribution and reuse are recorded. No glyph reading, system classification or translation is established. Further SQ-3 redesign is not useful before those gates clear.
+
+**One next action:** obtain one named, rights-cleared canonical transcription and the corresponding written OKR permissions; then record provenance/checksum and execute the already-frozen design without changing its unit or thresholds after seeing data.
