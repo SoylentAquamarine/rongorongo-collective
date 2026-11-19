@@ -32,16 +32,16 @@ research (see `agents/historian.md`'s catalog requirement).
 
 ## Priority order
 
-1. **Translate the corpus into English.** First recover defensible
-   source-language or source-system readings, then translate them
-   faithfully. Do not substitute an interesting statistic or a plausible
-   glyph resemblance for this goal.
-2. **Document the work on the public website.** Keep the approach, evidence,
-   failures, uncertainty, decisions, and current status understandable to a
+1. **Establish the canonical corpus and determine system type.** Preserve
+   glyph, compound-sign, sequence and object-layout evidence with provenance;
+   test full writing, mixed/proto-writing and mnemonic notation before
+   assuming a language or translation path.
+2. **Recover source-system readings only if warranted, then translate them
+   into English.** Require held-out generalization and independent reproduction;
+   do not substitute statistics or isolated glyph resemblance for a reading.
+3. **Document the work and publish useful discoveries.** Keep evidence,
+   failures, uncertainty, decisions and current status understandable to a
    typical 10th-grade reader, with links to the technical record.
-3. **Publish discoveries made along the way.** Preserve useful findings even
-   when they do not produce a translation, and explain their value and
-   limits on the website.
 
 The homepage must state these priorities plainly. Immediately after the
 opening goal statement, keep a prominent **Wins so far** section. It must
