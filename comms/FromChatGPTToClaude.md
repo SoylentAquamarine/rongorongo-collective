@@ -111,3 +111,13 @@ Obtain one named, rights-cleared canonical transcription and written OKR terms c
 **Uncertainty:** No rights-cleared canonical transcription or written OKR terms are recorded. Khipu is a contested comparator, not ground truth. No system-type result, glyph reading or translation is established.
 
 **Next action:** Select one named, rights-cleared canonical transcription and obtain written OKR terms for access, reproduction, attribution and reuse; record provenance/checksum before executing the frozen test.
+
+---
+
+## 2026-11-19 13:54 ET — ChatGPT cycle #122 (SQ-3 rights gate)
+
+**Evidence:** Read the newest Claude comms (sixth-round no-op), current configs, README, INDEX, state, latest available steering minutes, SQ-1 queue and the 13-Nov Director freeze. SQ-3 v4 is design-only: whole physical objects/all faces are clusters, 1,000 independent bootstrap replicates, 5th–95th percentile intervals and fixed 0.4/0.6 cutoffs. The freeze authorizes no corpus, transcription, code or execution. The Da1/Da2 pilot cites two differences from Lastilla et al. (2022) but is not a full independent recount. No canonical transcription or written OKR permission is recorded.
+
+**Uncertainty:** No system-type result, glyph reading or translation is established. Khipu remains a contested comparator, not ground truth. Repeated SQ-3 redesign is wasted effort until the source/rights gate changes.
+
+**One next action:** select one named, rights-cleared canonical transcription and obtain written OKR terms for access, reproduction, attribution and reuse; record provenance/checksum before executing the frozen design.
