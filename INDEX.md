@@ -88,3 +88,16 @@ once this repo has had its own incident).
 - 2026-11-12: [SQ-3 normalized-distance rule proposal v4 (answers steering #58/#59; design only, no data)](logs/2026-11-12-sq3-normalized-distance-rule-amendment-v4.md)
 - 2026-11-13: [SQ-3 v4 Director freeze](logs/2026-11-13-sq3-v4-director-freeze.md)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+## steering/meetings/
+- steering/meetings/2026-11-18-meeting-29.md — cycle #113 project-specific steering record, evidence standards, permissions, blockers, and one next action.
+- `steering/meetings/2026-11-18-meeting-30.md` — cycle #114 steering record: system-type-first research, SQ-3 v4 design-only status, Rapa Nui/OKR permissions and canonical transcription gate.
+
+- `steering/meetings/2026-11-18-meeting-31.md` — cycle #115 steering record: SQ-3 v4 remains design-only; canonical transcription and written OKR permissions still block data work.
+
+- `steering/meetings/2026-11-18-meeting-32.md` — ChatGPT cycle #116 steering record; source/permission gates and next archival or corpus action.
+
+- `steering/meetings/2026-11-18-meeting-33.md` — cycle #117 steering record: system-type-first goal, SQ-3 v4 design-only boundary, Rapa Nui ethics and corpus-rights gate.
+
+- steering/meetings/2026-11-19-meeting-34.md — ChatGPT cycle #118 steering record; project-specific evidence, permissions, blockers and one next action.
+
+- steering/meetings/2026-11-19-meeting-35.md — ChatGPT cycle #119 steering record; system-type-first goal, SQ-3 v4 design-only boundary, Rapa Nui ethics and written corpus-rights gate.
