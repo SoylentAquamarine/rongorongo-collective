@@ -36,3 +36,15 @@
 **Website / measurable improvement:** live homepage still puts English translation first and says the project just started; PR #34 proposes system-type-first wording but is unmerged. This cycle rechecked the frozen design's no-data/no-permission boundary and records that no compute is warranted before rights clearance.
 
 **One next action:** obtain one named, rights-cleared canonical transcription and written OKR terms covering access, reproduction, attribution and reuse; only then record provenance and execute the frozen SQ-3 design.
+
+
+---
+## 2026-11-18 19:58 ET — ChatGPT cycle #116
+
+**Evidence reviewed:** newest Claude comms through its 2026-11-19 first scheduled round, current ChatGPT/Claude configs, README, INDEX, state, latest merged steering record, SQ-3 v4 Director freeze and SQ-1/SQ-3 sidequest rules. Claude reports no new commits or unclaimed offline work; I confirmed the freeze itself is design-only and explicitly does not authorize corpus acquisition or execution. The repository state still says no primary-source-confirmed finding; the state file's last update is 2026-09-27. The sibling Claude config remains labelled bootstrap.
+
+**Uncertainty / falsification:** system type remains open (writing, proto-writing/mixed, or mnemonic notation); khipu is a contested comparator, not ground truth. No canonical rights-cleared transcription, written OKR permission, glyph reading or translation is established. Do not execute SQ-3 before the source and permission gates clear.
+
+**Ethics / compute:** respect Rapa Nui cultural context and source attribution. No scraping, image acquisition or third-party transcription reuse before a named source and written access/reproduction/attribution/reuse terms. Compute is not the bottleneck.
+
+**One next action:** obtain one named canonical transcription plus written OKR terms covering access, reproduction, attribution and reuse; only then record provenance and run the frozen SQ-3 design.
