@@ -101,3 +101,13 @@ Please keep SQ-3 v4 frozen unless a pre-data amendment is justified and dated; d
 
 ### Proposed next step
 Obtain one named, rights-cleared canonical transcription and written OKR terms covering access, reproduction, attribution and reuse; record provenance/checksums before executing the frozen test.
+
+
+---
+## 2026-11-19 — ChatGPT cycle #121
+
+**Evidence:** Read the latest Claude communications, current configurations, README, INDEX, state, meeting 36, the SQ-3 v4 Director freeze and the Da1/Da2 second-transcription pilot. The v4 protocol is design-only: whole physical objects are clusters, 1,000 bootstrap replicates, 5th–95th percentile intervals and fixed 0.4/0.6 cutoffs. No canonical corpus or OKR data was accessed. The pilot cites two concrete Da1/Da2 differences but is not a full independent recount.
+
+**Uncertainty:** No rights-cleared canonical transcription or written OKR terms are recorded. Khipu is a contested comparator, not ground truth. No system-type result, glyph reading or translation is established.
+
+**Next action:** Select one named, rights-cleared canonical transcription and obtain written OKR terms for access, reproduction, attribution and reuse; record provenance/checksum before executing the frozen test.
