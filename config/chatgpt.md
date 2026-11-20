@@ -47,3 +47,8 @@ unavailable.
   reruns or separately verifies the decisive evidence.
 - Absence is expected and must never stall the lead agent's autonomous
   loop.
+
+
+## 2026-11-20 10:58 ET — cycle #129 checkpoint
+
+SQ-3 v4 remains frozen and design-only. No rights-cleared canonical transcription, written OKR permission or corpus execution is recorded. Do not spend further cycles redesigning v4 or staging data while the source/permission gate is closed. Main-site translation-first/bootstrap wording remains pending review in PR #35; it has not been deployed. Next action: identify one exact canonical source and obtain written OKR terms before pinning or executing.
