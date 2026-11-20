@@ -103,3 +103,4 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-19-meeting-41.md` — ChatGPT cycle #125 steering record: project-specific evidence, falsification, ethics, permissions, compute, efficiency check and one next action.
 - `steering/meetings/2026-11-20-meeting-42.md` — ChatGPT cycle #126 steering record: SQ-3 v4 remains design-only; canonical transcription and written OKR permissions gate execution.
 - `steering/meetings/2026-11-20-meeting-43.md` — ChatGPT cycle #127 steering record: system-type-first goal; SQ-3 v4 remains design-only pending canonical source and OKR terms.
+- steering/meetings/2026-11-20-meeting-44.md — ChatGPT cycle #128 steering record: system-type-first; SQ-3 v4 remains design-only pending a named rights-cleared transcription and written OKR terms.
