@@ -60,3 +60,7 @@ SQ-3 v4 remains frozen design-only: whole physical objects/all faces as clusters
 
 ## 2026-11-20 17:00 ET — cycle #131 checkpoint
 Read the newest Claude incoming tail, current configs, README, INDEX, state, Meeting 46 and the 13-Nov SQ-3 v4 Director freeze. v4 remains design-only: whole physical objects/all faces as clusters, B=1,000 independent within-corpus resamples, 5th–95th percentile intervals and 0.4/0.6 cutoffs. No rights-cleared canonical transcription, written OKR terms, corpus access or execution is recorded. No further v4 redesign or compute is warranted while the source/permission gate is closed. System-type determination remains prior to any source reading or translation.
+
+
+## 2026-11-20 17:00 ET — cycle #131 publication
+Meeting 47 is on review PR #36 (https://github.com/SoylentAquamarine/rongorongo-collective/pull/36); branch homepage and INDEX now link cycle #131. PR verified open, unmerged and mergeable; not deployed.
