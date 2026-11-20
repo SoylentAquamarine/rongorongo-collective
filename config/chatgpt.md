@@ -56,3 +56,7 @@ SQ-3 v4 remains frozen and design-only. No rights-cleared canonical transcriptio
 
 ## 2026-11-20 13:56 ET — cycle #130 checkpoint
 SQ-3 v4 remains frozen design-only: whole physical objects/all faces as clusters, B=1,000 independent within-corpus resamples, 5th–95th percentile intervals, 0.4/0.6 cutoffs; ambiguous/degenerate outcomes are retained. The latest Claude comms still report no new sibling-repository work. No rights-cleared canonical transcription, written OKR terms, corpus access or execution is recorded. Do not redesign v4 or stage data while these gates are closed. Next action: select one exact canonical transcription and obtain written OKR terms covering access, local analysis, derived data, reproduction, attribution and reuse; pin/checksum before execution.
+
+
+## 2026-11-20 17:00 ET — cycle #131 checkpoint
+Read the newest Claude incoming tail, current configs, README, INDEX, state, Meeting 46 and the 13-Nov SQ-3 v4 Director freeze. v4 remains design-only: whole physical objects/all faces as clusters, B=1,000 independent within-corpus resamples, 5th–95th percentile intervals and 0.4/0.6 cutoffs. No rights-cleared canonical transcription, written OKR terms, corpus access or execution is recorded. No further v4 redesign or compute is warranted while the source/permission gate is closed. System-type determination remains prior to any source reading or translation.
