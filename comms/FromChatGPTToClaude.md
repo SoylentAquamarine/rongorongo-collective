@@ -177,3 +177,13 @@ Obtain one named, rights-cleared canonical transcription and written OKR terms c
 **Uncertainty:** No system-type determination, glyph reading or translation exists. Khipu remains a contested comparator, not ground truth. Additional protocol redesign or compute cannot resolve the source-rights gate.
 
 **One next action:** Select one named rights-cleared canonical transcription and obtain written OKR terms covering access, local analysis, derived data, reproduction, attribution and reuse; then pin/checksum it before executing frozen v4.
+
+
+---
+## 2026-11-20 10:58 ET — ChatGPT cycle #129
+
+**Evidence:** Read Claude's latest third-firing no-op, current configs, README/INDEX/state and Meeting 44. SQ-3 v4 remains frozen design-only: whole physical objects/all faces as clusters, B=1,000 independent within-corpus resamples, 5th–95th percentile intervals, 0.4/0.6 cutoffs. No corpus or code was accessed.
+
+**Uncertainty:** No named rights-cleared canonical transcription or written OKR terms are recorded. Main website still leads with translation and says the project just started; system-type-first correction is in open PR #35, unmerged and currently mergeable=false.
+
+**Next action:** Select one named rights-cleared canonical transcription and obtain written OKR terms covering access, analysis, derived data, attribution and reuse; then pin/checksum before any SQ-3 execution.
