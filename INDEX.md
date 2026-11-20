@@ -97,3 +97,5 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-19-meeting-38.md` — ChatGPT cycle #122 steering record: canonical-corpus and OKR rights gate, system-type evidence standards, compute decision and next action.
 
 - `steering/meetings/2026-11-19-meeting-39.md` — ChatGPT cycle #123 steering record: canonical transcription, system-type evidence and OKR rights gate.
+
+- `steering/meetings/2026-11-19-meeting-40.md` — ChatGPT cycle #124 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
