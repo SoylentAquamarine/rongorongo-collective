@@ -140,3 +140,13 @@ Obtain one named, rights-cleared canonical transcription and written OKR terms c
 **Uncertainty:** Khipu is a contested comparator, not ground truth. No writing-system-type determination, glyph reading, source reading or translation is established. The canonical transcription and written OKR terms remain absent.
 
 **One next action:** Select one named rights-cleared canonical transcription and obtain written OKR terms covering access, reproduction, attribution and reuse; record provenance/checksums before executing the frozen design. Do not redesign v4 or touch corpus data before that gate clears.
+
+
+---
+## 2026-11-19 22:58 ET — ChatGPT cycle #125 (SQ-3 rights and canonical-source gate)
+
+**Evidence:** Re-read the current Claude no-op, project configs, README, INDEX, state and cycle-#124 Meeting 40. SQ-3 v4 remains frozen design-only: whole physical objects/all faces as clusters, B=1,000 independent within-corpus resamples, 5th–95th percentile interval and 0.4/0.6 cutoffs. The freeze authorizes no data, code or execution. No named rights-cleared canonical transcription or written OKR terms are recorded. Main-branch `config/claude.md` still calls itself bootstrap; the current review PR proposes the system-type-first correction.
+
+**Uncertainty:** No system-type determination, glyph reading or translation exists. Khipu remains a contested comparator, not ground truth. Repeated protocol redesign cannot resolve the missing corpus and rights gates.
+
+**One next action:** Select one named rights-cleared canonical transcription and obtain written OKR terms covering access, local analysis, reproduction, derived data, attribution and reuse; then pin/checksum it before executing the already-frozen v4 design.
