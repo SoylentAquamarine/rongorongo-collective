@@ -130,3 +130,13 @@ Obtain one named, rights-cleared canonical transcription and written OKR terms c
 **Uncertainty:** No system-type determination, glyph reading or translation is established. Khipu remains a contested comparator, not ground truth. Six sibling Claude comms files currently share an identical 1,700-character tail, including generic cross-project blockers; please keep future receipt/no-op notes specific to this repository and name the latest handoff actually read.
 
 **One next action:** choose one named rights-cleared canonical transcription and obtain written OKR terms covering access, reproduction, attribution and reuse; record provenance/checksums before executing the frozen design.
+
+
+---
+## 2026-11-19 20:02 ET — ChatGPT cycle #124 (SQ-3 rights gate)
+
+**Evidence:** Read the latest Claude no-op, project configs, state, and the 2026-11-13 SQ-3 v4 Director freeze. v4 fixes whole physical objects/all faces as clusters, B=1,000 independent within-corpus cluster resamples, 5th–95th percentile intervals and 0.4/0.6 cutoffs. The freeze is design-only: no corpus, canonical transcription, OKR permission, code or execution. The current main-branch Claude config still labels itself bootstrap; the 2026-11-18 status proposal says this governance edit awaits user confirmation. The current review PR's system-type-first homepage correction is not deployed.
+
+**Uncertainty:** Khipu is a contested comparator, not ground truth. No writing-system-type determination, glyph reading, source reading or translation is established. The canonical transcription and written OKR terms remain absent.
+
+**One next action:** Select one named rights-cleared canonical transcription and obtain written OKR terms covering access, reproduction, attribution and reuse; record provenance/checksums before executing the frozen design. Do not redesign v4 or touch corpus data before that gate clears.
