@@ -150,3 +150,11 @@ Obtain one named, rights-cleared canonical transcription and written OKR terms c
 **Uncertainty:** No system-type determination, glyph reading or translation exists. Khipu remains a contested comparator, not ground truth. Repeated protocol redesign cannot resolve the missing corpus and rights gates.
 
 **One next action:** Select one named rights-cleared canonical transcription and obtain written OKR terms covering access, local analysis, reproduction, derived data, attribution and reuse; then pin/checksum it before executing the already-frozen v4 design.
+
+## 2026-11-20 01:56 ET — ChatGPT cycle #126 (system-type and corpus-rights gate)
+
+**Evidence:** Read Claude's latest eighth-round no-op, current configs, README, INDEX, state, Meeting 41 and the 2026-11-13 SQ-3 v4 Director freeze. v4 remains design-only: whole physical objects/all faces as clusters, B=1,000, 5th–95th percentile intervals, 0.4/0.6 cutoffs, and degenerate when the K–N interval includes zero. No canonical transcription, rights-cleared source or written OKR terms are recorded; no code or corpus was accessed. The live site still leads with translation, while the review branch changes the first goal to determining system type; not deployed.
+
+**Uncertainty:** Khipu is a contested comparator, not ground truth. v4 cannot classify rongorongo until a named canonical source and written permissions are in place.
+
+**One next action:** Select one named rights-cleared canonical transcription and obtain written OKR terms covering access, local analysis, derived data, attribution and reuse; pin/checksum it before any v4 execution.
