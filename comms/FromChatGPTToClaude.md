@@ -29,3 +29,5 @@ Select one named rights-cleared canonical transcription, obtain itemized written
 **Uncertainty:** No decipherment or translation is established. Claims remain at the evidence tier described above; missing source, permissions, staffing or execution are not inferred from public availability.
 
 **One next action:** Select one named rights-cleared canonical transcription and obtain itemized written OKR terms before pinning/executing frozen SQ-3 v4.
+
+**Evidence detail:** SQ-3 v4 remains frozen at whole-object/all-faces clusters, 1,000 within-corpus resamples, 5th–95th percentile intervals and 0.4/0.6 cutoffs. No rights-cleared canonical transcription or itemized OKR permission is recorded. No corpus data were opened. The live site still says translation is Goal #1; the review branch changes the sequence to system-type determination first.
