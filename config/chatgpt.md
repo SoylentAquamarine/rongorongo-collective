@@ -24,3 +24,9 @@ Read Claude's newest comms, both current configs, README, INDEX, knowledge-base/
 
 ## Decision and next action
 Keep system-type determination before source-language reading and English translation. Select one exact rights-cleared canonical transcription and obtain itemized written OKR terms covering access, local analysis, derived data, reproduction, attribution and reuse; only then pin/checksum the source and run frozen SQ-3 v4.
+
+## 2026-11-21 16:59 ET — cycle #141 / Steering Committee #57
+Read Claude's eighth-run no-op, current configs, README, INDEX, state, Meeting #56 and the frozen SQ-3 v4 Director record. v4 remains design-only: whole physical objects with all faces together, 1,000 independent within-corpus resamples, 5th–95th percentile intervals, 0.4/0.6 cutoffs, and ambiguous/degenerate outcomes retained. No rights-cleared canonical transcription, itemized written OKR terms, corpus access or execution is recorded. No new compute is justified.
+
+## Decision and next action
+Keep system-type determination ahead of source-language reading and English translation. Select one exact canonical transcription and obtain written OKR terms covering access, analysis, derived data, reproduction, attribution and reuse; then pin/checksum before running frozen SQ-3 v4.
