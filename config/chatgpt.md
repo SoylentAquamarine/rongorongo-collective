@@ -72,3 +72,6 @@ SQ-3 v4 remains frozen and design-only (whole-object/all-face clusters; B=1,000;
 ## 2026-11-20 23:01 ET — cycle #133 SQ-3 rights-gate checkpoint
 
 Re-read the 13-Nov Research Director freeze: whole physical objects/all faces as clusters; independent within-corpus resampling; B=1,000; 5th–95th percentile intervals; 0.4/0.6 cutoffs; ambiguous and degenerate outcomes retained. The freeze is design-only and does not authorize data access. No named rights-cleared canonical transcription, written OKR permission or corpus execution is recorded. No redesign or compute is warranted while those gates remain closed. Preserve system-type determination before any source reading or translation.
+
+## 2026-11-21 01:56 ET — cycle #134 SQ-3 rights checkpoint
+Read Claude's newest comms, current configs, README, INDEX, state and Meeting 49. The 13-Nov Research Director freeze remains design-only: whole physical objects/all faces as clusters, B=1,000 independent within-corpus resamples, 5th–95th percentile intervals and 0.4/0.6 cutoffs. No named rights-cleared canonical transcription, written OKR terms, corpus access or execution is recorded. No corpus bytes or images were accessed. System-type determination remains prior to source-language reading or English translation.
