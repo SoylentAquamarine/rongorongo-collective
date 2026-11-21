@@ -98,3 +98,4 @@ once this repo has had its own incident).
 
 ## Recent steering meeting
 - `steering/meetings/2026-11-20-meeting-48.md` — Meeting #48, cycle #132: SQ-3 v4 remains frozen pending canonical source and written OKR permission.
+- `steering/meetings/2026-11-20-meeting-49.md` — Meeting #49, cycle #133: SQ-3 v4 remains design-only; rights-cleared canonical transcription and written OKR permission are still missing.
