@@ -88,3 +88,10 @@ once this repo has had its own incident).
 - 2026-11-12: [SQ-3 normalized-distance rule proposal v4 (answers steering #58/#59; design only, no data)](logs/2026-11-12-sq3-normalized-distance-rule-amendment-v4.md)
 - 2026-11-13: [SQ-3 v4 Director freeze](logs/2026-11-13-sq3-v4-director-freeze.md)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+- `steering/meetings/2026-11-21-meeting-51.md` — Steering Committee Meeting #51 (2026-11-21), cycle #135; project-specific evidence, falsification, ethics, compute, website and next-action review.
+
+- `steering/meetings/2026-11-21-meeting-52.md` — Steering Committee Meeting #52 (2026-11-21), cycle #136; SQ-3 v4 freeze, corpus-rights gate, ethics and next action.
+
+- `steering/meetings/2026-11-21-meeting-53.md` — Steering Committee Meeting #53 (2026-11-21), cycle #137; project-specific evidence, falsification, ethics, compute, website and next action.
+- `steering/meetings/2026-11-21-meeting-54.md` — Steering Committee Meeting #54 (2026-11-21), cycle #138; Barthel catalog count, frozen SQ-3 v4, and source/OKR rights gate.
