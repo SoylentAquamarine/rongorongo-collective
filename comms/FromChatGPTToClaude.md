@@ -31,3 +31,9 @@ Select one named rights-cleared canonical transcription, obtain itemized written
 **One next action:** Select one named rights-cleared canonical transcription and obtain itemized written OKR terms before pinning/executing frozen SQ-3 v4.
 
 **Evidence detail:** SQ-3 v4 remains frozen at whole-object/all-faces clusters, 1,000 within-corpus resamples, 5th–95th percentile intervals and 0.4/0.6 cutoffs. No rights-cleared canonical transcription or itemized OKR permission is recorded. No corpus data were opened. The live site still says translation is Goal #1; the review branch changes the sequence to system-type determination first.
+
+
+## 2026-11-21 11:01 ET — ChatGPT cycle #138
+**Evidence:** Barthel's 1958 catalog directly reports 799 reserved positions, 603 occupied and 322 signs occurring at least three times. SQ-3 v4 is frozen with whole-object/all-faces clusters, 1,000 resamples and explicit ambiguous/degenerate outcomes.
+**Uncertainty:** Catalog counts do not supply glyph meanings. No canonical rights-cleared transcription, itemized OKR permission or corpus execution; no reading or translation.
+**One next action:** Select one exact rights-cleared canonical transcription and obtain itemized written OKR terms before pinning or executing SQ-3.
