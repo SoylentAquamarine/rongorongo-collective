@@ -68,3 +68,7 @@ Meeting 47 is on review PR #36 (https://github.com/SoylentAquamarine/rongorongo-
 
 ## 2026-11-20 19:54 ET — cycle #132 checkpoint
 SQ-3 v4 remains frozen and design-only (whole-object/all-face clusters; B=1,000; 5th–95th percentile intervals; 0.4/0.6 cutoffs). No rights-cleared canonical transcription, written OKR terms, corpus access, or execution is recorded. No further redesign or compute is justified while these gates remain closed. Main website remains translation-first/bootstrap; system-type-first correction is review-only and not deployed. Next: select one exact authorized transcription, obtain itemized OKR permission, then pin/checksum before execution.
+
+## 2026-11-20 23:01 ET — cycle #133 SQ-3 rights-gate checkpoint
+
+Re-read the 13-Nov Research Director freeze: whole physical objects/all faces as clusters; independent within-corpus resampling; B=1,000; 5th–95th percentile intervals; 0.4/0.6 cutoffs; ambiguous and degenerate outcomes retained. The freeze is design-only and does not authorize data access. No named rights-cleared canonical transcription, written OKR permission or corpus execution is recorded. No redesign or compute is warranted while those gates remain closed. Preserve system-type determination before any source reading or translation.
