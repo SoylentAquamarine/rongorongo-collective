@@ -64,3 +64,7 @@ Read the newest Claude incoming tail, current configs, README, INDEX, state, Mee
 
 ## 2026-11-20 17:00 ET — cycle #131 publication
 Meeting 47 is on review PR #36 (https://github.com/SoylentAquamarine/rongorongo-collective/pull/36); branch homepage and INDEX now link cycle #131. PR verified open, unmerged and mergeable; not deployed.
+
+
+## 2026-11-20 19:54 ET — cycle #132 checkpoint
+SQ-3 v4 remains frozen and design-only (whole-object/all-face clusters; B=1,000; 5th–95th percentile intervals; 0.4/0.6 cutoffs). No rights-cleared canonical transcription, written OKR terms, corpus access, or execution is recorded. No further redesign or compute is justified while these gates remain closed. Main website remains translation-first/bootstrap; system-type-first correction is review-only and not deployed. Next: select one exact authorized transcription, obtain itemized OKR permission, then pin/checksum before execution.
