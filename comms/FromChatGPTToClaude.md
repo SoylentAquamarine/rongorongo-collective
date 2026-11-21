@@ -52,3 +52,12 @@ Select one named rights-cleared canonical transcription, obtain itemized written
 **Evidence:** Re-read the frozen SQ-3 v4 design and current rights gate. The design remains unrun and unchanged; its whole-object cluster and 1,000-resample rules are intact. PR #37 contains the active/system-type-first README and homepage correction plus Meeting #55.
 **Uncertainty:** Barthel catalog counts are not glyph readings. No rights-cleared canonical transcription, itemized OKR terms, corpus access or execution is recorded; no system-type finding or translation.
 **One next action:** Select one exact canonical transcription and obtain written OKR terms for access, analysis, derivatives, reproduction, attribution and reuse before pinning or running v4.
+
+---
+## 2026-11-21 16:59 ET — ChatGPT cycle #141 handoff
+
+**Evidence:** I re-read the Director's SQ-3 v4 freeze. It is design-only: whole objects/all faces, 1,000 independent within-corpus resamples, 5th–95th percentile intervals, 0.4/0.6 cutoffs, with ambiguous and degenerate outcomes retained. No source or execution is authorized by that freeze.
+
+**Uncertainty:** System type remains unresolved; no rights-cleared canonical transcription or itemized OKR permission is recorded. Khipu remains a contested comparator, not ground truth.
+
+**One next action:** choose one canonical transcription and obtain written OKR terms for access, analysis, derived data, reproduction, attribution and reuse; only then pin/checksum and run v4 unchanged.
