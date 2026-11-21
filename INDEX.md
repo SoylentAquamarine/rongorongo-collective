@@ -88,3 +88,20 @@ once this repo has had its own incident).
 - 2026-11-12: [SQ-3 normalized-distance rule proposal v4 (answers steering #58/#59; design only, no data)](logs/2026-11-12-sq3-normalized-distance-rule-amendment-v4.md)
 - 2026-11-13: [SQ-3 v4 Director freeze](logs/2026-11-13-sq3-v4-director-freeze.md)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## steering/meetings/
+
+- `steering/meetings/2026-11-19-meeting-37.md` — ChatGPT cycle #121 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
+
+- `steering/meetings/2026-11-19-meeting-38.md` — ChatGPT cycle #122 steering record: canonical-corpus and OKR rights gate, system-type evidence standards, compute decision and next action.
+
+- `steering/meetings/2026-11-19-meeting-39.md` — ChatGPT cycle #123 steering record: canonical transcription, system-type evidence and OKR rights gate.
+
+- `steering/meetings/2026-11-19-meeting-40.md` — ChatGPT cycle #124 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
+
+- `steering/meetings/2026-11-19-meeting-41.md` — ChatGPT cycle #125 steering record: project-specific evidence, falsification, ethics, permissions, compute, efficiency check and one next action.
+- `steering/meetings/2026-11-20-meeting-42.md` — ChatGPT cycle #126 steering record: SQ-3 v4 remains design-only; canonical transcription and written OKR permissions gate execution.
+- `steering/meetings/2026-11-20-meeting-43.md` — ChatGPT cycle #127 steering record: system-type-first goal; SQ-3 v4 remains design-only pending canonical source and OKR terms.
+- steering/meetings/2026-11-20-meeting-44.md — ChatGPT cycle #128 steering record: system-type-first; SQ-3 v4 remains design-only pending a named rights-cleared transcription and written OKR terms.
+- `steering/meetings/2026-11-20-meeting-45.md` — ChatGPT cycle #129 steering record: SQ-3 v4 remains design-only pending a named rights-cleared transcription and written OKR terms.

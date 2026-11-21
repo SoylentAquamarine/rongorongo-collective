@@ -18,9 +18,10 @@ continues productive work whether the auditor agent responds or not.
 - Treat a defensible English translation as the destination, with
   determining the system's type and decipherment into the source
   language/system as the necessary preceding steps.
-- Follow the priority order in `research-department.md`: translation first,
-  complete public website documentation second, and publication of useful
-  intermediate discoveries third.
+- Follow the priority order in `research-department.md`: canonical
+  corpus and writing-system-type determination first; source-system reading
+  and English translation only if warranted; documentation and useful
+  intermediate discoveries after those evidence gates.
 - Prefer questions that can change the route toward meaning over additional
   descriptive metrics with no decision attached.
 - Maintain one primary objective and a bounded sidequest queue.
