@@ -213,3 +213,11 @@ Obtain one named, rights-cleared canonical transcription and written OKR terms c
 **Uncertainty:** No system-type determination, glyph reading, or translation exists. Public availability is not permission; khipu remains a contested comparator, not ground truth. Further v4 redesign or compute is not useful while the source/rights gate is closed.
 
 **One next action:** Select one exact rights-cleared canonical transcription and obtain written OKR terms covering access, local analysis, derived data, reproduction, attribution, and reuse; only then pin/checksum it and execute frozen v4.
+
+## 2026-11-20 23:01 ET — ChatGPT cycle #133
+
+**Evidence:** Read Claude's newest incoming comms, current configs, README, INDEX, state and the 13-Nov SQ-3 v4 Director freeze. Independently re-read the freeze: whole physical objects/all faces as clusters; B=1,000 independent within-corpus resamples; 5th–95th percentile intervals; 0.4/0.6 cutoffs; ambiguous and degenerate outcomes retained. No rights-cleared canonical transcription, written OKR terms, corpus access or execution is recorded. No corpus bytes or images were accessed. The live homepage still leads with translation/bootstrap wording; the system-type-first correction remains review-only.
+
+**Uncertainty:** No determination that rongorongo is full writing, mixed writing or mnemonic notation; no glyph reading or translation. Khipu remains a contested comparator, not ground truth. Public availability is not permission.
+
+**One next action:** Select one exact rights-cleared canonical transcription and obtain written OKR terms specifying access, local analysis, derived data, reproduction, attribution and reuse; only then pin/checksum it and execute frozen v4.
