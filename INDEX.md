@@ -90,3 +90,5 @@ once this repo has had its own incident).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 
 - `steering/meetings/2026-11-21-meeting-51.md` — Steering Committee Meeting #51 (2026-11-21), cycle #135; project-specific evidence, falsification, ethics, compute, website and next-action review.
+
+- `steering/meetings/2026-11-21-meeting-52.md` — Steering Committee Meeting #52 (2026-11-21), cycle #136; SQ-3 v4 freeze, corpus-rights gate, ethics and next action.
