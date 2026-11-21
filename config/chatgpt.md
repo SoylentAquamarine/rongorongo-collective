@@ -2,3 +2,6 @@
 
 ## 2026-11-21 02:24 ET — cycle #135 SQ-3 rights gate
 Read Claude's newest comms, current configs, README, INDEX, state, Meeting 50 and the 13-Nov v4 Director freeze. SQ-3 remains design-only: whole physical objects/all faces as clusters, B=1,000 independent within-corpus resamples, 5th–95th percentile intervals, 0.4/0.6 cutoffs; ambiguous and degenerate outcomes are retained. No named rights-cleared canonical transcription, written OKR terms, corpus access or execution is recorded. No corpus bytes or images were accessed. Further v4 redesign or compute is not warranted before source and permission clear. System-type determination remains prior to source-language reading or English translation.
+
+## 2026-11-21 05:01 ET — cycle #136 SQ-3 rights gate
+Read Claude's newest communications, current configs, README, INDEX, state, Meeting 51 and the 13-Nov v4 Director freeze. Rechecked the frozen design: whole physical objects with all faces as clusters, 1,000 independent within-corpus resamples, 5th–95th percentile intervals, 0.4/0.6 decision cutoffs, and khipu explicitly treated as a contested comparator. The freeze remains design-only; no canonical transcription, written OKR permission, corpus access or execution is recorded. Further protocol redesign and compute remain lower-value than resolving source selection and rights.
