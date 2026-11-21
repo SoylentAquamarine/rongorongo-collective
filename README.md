@@ -12,6 +12,11 @@ The ultimate target is a defensible decipherment and faithful English translatio
 
 The project's priorities, in order, are:
 
+1. determine whether the evidence supports full writing, mixed/partial writing or mnemonic notation;
+2. only if a linguistic writing system is supported, recover source-language readings and then translate them into English;
+3. document the complete process and evidence on the public website in language a typical 10th-grade reader can understand;
+4. preserve and publish useful discoveries, including failures and corrections.
+
 1. translate the corpus into English, after recovering defensible source-language (or source-system) readings;
 2. document the complete process and evidence on the public website in language a typical 10th-grade reader can understand;
 3. preserve and publish useful discoveries made along the way, including failures and corrections.
@@ -47,7 +52,7 @@ Unlike the Voynich manuscript, rongorongo starts without an agreed canonical mac
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to rongorongo's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. A direct reading of Barthel's 1958 catalog establishes 799 reserved positions, 603 occupied positions and 322 signs occurring at least three times; these are catalog counts, not glyph meanings. SQ-3 v4 is frozen as a design but has not been run. No canonical rights-cleared transcription or itemized OKR permission is recorded, so no corpus data have been accessed. The public research site is live at the link below.
 
 ## Public research site
 
