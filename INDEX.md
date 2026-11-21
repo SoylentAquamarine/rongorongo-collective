@@ -88,3 +88,5 @@ once this repo has had its own incident).
 - 2026-11-12: [SQ-3 normalized-distance rule proposal v4 (answers steering #58/#59; design only, no data)](logs/2026-11-12-sq3-normalized-distance-rule-amendment-v4.md)
 - 2026-11-13: [SQ-3 v4 Director freeze](logs/2026-11-13-sq3-v4-director-freeze.md)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+- `steering/meetings/2026-11-21-meeting-57.md` — Steering Committee Meeting #57 (2026-11-21), cycle #141; SQ-3 v4 design freeze and canonical-source/OKR rights gate.
