@@ -94,3 +94,7 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-20-meeting-46.md` — Meeting #46: determine system type before any source-language reading or English translation; SQ-3 v4 remains design-only pending canonical source and OKR permission.
 
 - `steering/meetings/2026-11-20-meeting-47.md` — Meeting #47: SQ-3 v4 remains frozen and design-only; rights-cleared canonical transcription and written OKR terms remain the only execution gates.
+
+
+## Recent steering meeting
+- `steering/meetings/2026-11-20-meeting-48.md` — Meeting #48, cycle #132: SQ-3 v4 remains frozen pending canonical source and written OKR permission.
