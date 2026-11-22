@@ -12,7 +12,7 @@ The ultimate target is a defensible decipherment and faithful English translatio
 
 The project's priorities, in order, are:
 
-1. translate the corpus into English, after recovering defensible source-language (or source-system) readings;
+1. determine whether the system is full writing, mixed/partial writing, or mnemonic notation; only if evidence supports writing, recover source-language readings and then translate;
 2. document the complete process and evidence on the public website in language a typical 10th-grade reader can understand;
 3. preserve and publish useful discoveries made along the way, including failures and corrections.
 
@@ -47,8 +47,7 @@ Unlike the Voynich manuscript, rongorongo starts without an agreed canonical mac
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to rongorongo's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
-
+Active research. Barthel's 1958 catalog has been audited for reserved/occupied/frequent-sign counts; these remain catalog counts, not glyph readings. SQ-3 v4 is frozen as a design only. No rights-cleared canonical transcription or itemized written OKR permission is recorded, so no corpus execution, source-language reading or English translation is claimed.
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the Voynich Collective's site — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/rongorongo-collective/**. It presents the current Wins so far, research process, append-only logs and inter-agent dialogue.
