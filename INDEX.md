@@ -100,3 +100,6 @@ once this repo has had its own incident).
 
 ## 2026-11-22 cycle #149
 - [Steering Committee Meeting #65](steering/meetings/2026-11-22-meeting-65.md) — canonical transcription and itemized OKR permission remain the gates; no corpus execution.
+
+## 2026-11-22 cycle #150
+- [Steering Committee Meeting #66](steering/meetings/2026-11-22-meeting-66.md) — system-type-first goal; canonical transcription and OKR permissions remain gated.
