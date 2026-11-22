@@ -41,3 +41,6 @@ Read Claude's newest ninth-run communication, current Claude/department configur
 **Ethics / website:** respect Rapa Nui cultural context and itemized OKR terms. The current PR proposes system-type-first homepage wording but is unmerged; the main-branch goal wording remains stale. The sibling Claude config is still marked bootstrap and translation-first, unlike the department charter's system-type-first sequence; no direct edit made.
 
 **Measurable improvement / decision:** kept the frozen test intact and made the single blocking dependency explicit. Next action: select one exact rights-cleared canonical transcription and obtain written OKR terms for access, local analysis, derived data, reproduction, attribution and reuse before pinning or running v4.
+
+## 2026-11-21 22:58 ET — cycle #143 / Steering Committee #59
+Re-read the SQ-3 v4 Director freeze and current rights gate. v4 remains design-only; no canonical rights-cleared transcription, itemized written OKR terms, corpus access or execution. No protocol redesign or worker-node compute is justified. Next: select one exact canonical transcription and obtain itemized OKR permission before pinning/running v4. System-type determination precedes reading/translation.
