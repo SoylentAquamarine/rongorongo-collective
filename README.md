@@ -12,11 +12,11 @@ The ultimate target is a defensible decipherment and faithful English translatio
 
 The project's priorities, in order, are:
 
-1. determine whether rongorongo is glottographic writing, proto-writing/mnemonic notation, or another system type, using falsifiable corpus-level evidence;
-2. only if linguistic writing is supported, recover and test source-language readings against held-out objects/faces;
-3. translate into English only after a defensible source-language reading survives independent review;
-4. document the full process, evidence, failures and corrections in plain language.
-
+1. select a provenance-documented canonical transcription and obtain written OKR permission;
+2. determine whether the evidence supports linguistic writing, mnemonic notation, or another system type using the frozen SQ-3 protocol;
+3. pursue source-language readings only if linguistic writing is supported by independent tests;
+4. produce an English translation only after a source-language reading survives held-out validation and independent review;
+5. document evidence, failures and uncertainty in plain language.
 
 ## Why rongorongo, and why this is harder in specific, named ways
 
@@ -49,7 +49,7 @@ Unlike the Voynich manuscript, rongorongo starts without an agreed canonical mac
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to rongorongo's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. A direct read of Barthel's 1958 catalog documents 799 reserved positions, 603 occupied positions and 322 signs occurring at least three times; the SQ-4 prior-claims catalog records sourced, skeptical entries. No canonical machine-readable transcription has been selected, no corpus bytes are in the main data tree, and the SQ-3 v4 method remains frozen but design-only. No writing-system determination, source-language reading or translation is claimed.
 
 ## Public research site
 
