@@ -100,3 +100,7 @@ once this repo has had its own incident).
 ## Cycle #143 additions
 
 - `steering/meetings/2026-11-21-meeting-59.md — Steering Committee Meeting #59; SQ-3 v4 remains design-only pending canonical transcription and itemized OKR permission.`
+
+
+## Latest steering record
+- `steering/meetings/2026-11-22-meeting-60.md` — Steering Committee Meeting #60 (2026-11-22), cycle #144; evidence, blockers, permissions, compute and next decision.
