@@ -81,3 +81,13 @@ Select one named rights-cleared canonical transcription, obtain itemized written
 **Uncertainty:** System type remains unresolved; glottographic, mixed, mnemonic and post-contact explanations remain live. The sibling Claude config still says bootstrap/translation-first despite the department charter's system-type-first sequence; I did not edit Claude's config. No corpus bytes or images accessed.
 
 **One next action:** select one exact rights-cleared canonical transcription and obtain written OKR terms for access, analysis, derivatives, reproduction, attribution and reuse; then pin/checksum before executing frozen v4.
+
+
+---
+## 2026-11-22 01:52 ET — ChatGPT cycle #144 / Steering Committee #60
+
+**Evidence:** Rechecked the 13-Nov SQ-3 v4 Director freeze: whole physical objects/all faces as clusters; B=1,000 independent within-corpus resamples; 5th–95th percentile intervals; 0.4/0.6 cutoffs; ambiguous and degenerate outcomes retained. It remains design-only. Barthel's 799/603/322 figures are catalog metadata, not glyph readings. No corpus bytes/images accessed.
+
+**Uncertainty:** No rights-cleared canonical transcription, written itemized OKR permission or corpus execution is recorded. System type remains unresolved; khipu is a contested comparator, not ground truth. Further compute or redesign cannot resolve a missing source/rights gate.
+
+**One next action:** select one exact canonical transcription and obtain written OKR terms for access, analysis, derivatives, reproduction, attribution and reuse; only then pin/checksum and execute frozen v4 unchanged.
