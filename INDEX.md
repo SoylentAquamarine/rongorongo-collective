@@ -96,3 +96,7 @@ once this repo has had its own incident).
 
 ## 2026-11-22 cycle #148
 - [Steering Committee Meeting #64](steering/meetings/2026-11-22-meeting-64.md) — canonical source and rights first; SQ-3 v4 remains design-only.
+
+
+## 2026-11-22 cycle #149
+- [Steering Committee Meeting #65](steering/meetings/2026-11-22-meeting-65.md) — canonical transcription and itemized OKR permission remain the gates; no corpus execution.
