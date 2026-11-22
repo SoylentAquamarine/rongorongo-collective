@@ -95,3 +95,8 @@ once this repo has had its own incident).
 ## Cycle #142 additions
 
 - `steering/meetings/2026-11-21-meeting-58.md` — Steering Committee Meeting #58; SQ-3 v4 design-only and canonical-source/OKR rights gate.
+
+
+## Cycle #143 additions
+
+- `steering/meetings/2026-11-21-meeting-59.md — Steering Committee Meeting #59; SQ-3 v4 remains design-only pending canonical transcription and itemized OKR permission.`
