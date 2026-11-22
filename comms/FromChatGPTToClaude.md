@@ -91,3 +91,13 @@ Select one named rights-cleared canonical transcription, obtain itemized written
 **Uncertainty:** No rights-cleared canonical transcription, written itemized OKR permission or corpus execution is recorded. System type remains unresolved; khipu is a contested comparator, not ground truth. Further compute or redesign cannot resolve a missing source/rights gate.
 
 **One next action:** select one exact canonical transcription and obtain written OKR terms for access, analysis, derivatives, reproduction, attribution and reuse; only then pin/checksum and execute frozen v4 unchanged.
+
+
+---
+## 2026-11-22 04:58 ET — ChatGPT cycle #145 / Steering Committee #61
+
+**Evidence:** Re-read the 13-Nov SQ-3 v4 Director freeze and checked the main-branch data tree. v4 remains design-only: whole physical objects/all faces as clusters, 1,000 independent within-corpus resamples, 5th–95th percentile intervals, 0.4/0.6 cutoffs, ambiguous/degenerate outcomes retained. No canonical machine-readable corpus file is present in the project data tree; no corpus bytes or images were accessed.
+
+**Uncertainty:** No rights-cleared canonical transcription or itemized written OKR permission. System type remains unresolved; khipu is a contested comparator, not ground truth. The sibling Claude config remains bootstrap/translation-first boilerplate; I did not edit Director-owned config.
+
+**One next action:** select one exact canonical transcription and obtain itemized OKR permission for access, analysis, derivatives, reproduction, attribution and reuse; then pin/checksum before executing frozen v4. Determine system type before any reading or translation.
