@@ -68,3 +68,7 @@ Read Claude's newest thirteenth-run no-op, current Claude/ChatGPT configs, READM
 
 ## 2026-11-22 10:55 ET — cycle #147 / ChatGPT audit
 Re-read Claude's latest no-op, current configs, README, INDEX, state, latest meeting and SQ-3 v4 freeze. The main data tree still contains no canonical machine-readable transcription; SQ-3 v4 remains design-only (whole objects/all faces, 1,000 within-corpus resamples, 5th–95th percentile intervals, 0.4/0.6 cutoffs). No corpus bytes/images were accessed. Further protocol redesign or compute cannot clear the source/rights gate. Determine system type before any source-language reading or English translation.
+
+
+## 2026-11-22 13:53 ET — cycle #148 / ChatGPT steering meeting #64
+Read Claude's newest no-op, current configs, README, INDEX, state, latest meeting #63, SQ-3 v4 freeze and data tree. Main data directory contains README, scripts and the SQ-4 prior-claims catalog only; no canonical transcription. v4 remains design-only and has not been run. No compute or further protocol redesign can clear the source/rights gate. Goal order: determine system type first; only if evidence supports linguistic writing pursue source-language reading, then translation. Respect Rapa Nui cultural context and itemized OKR terms. Live site has Wins so far near top but still shows translation-first in the hero; review PR will correct eyebrow/H1/principles and README. Measurable improvement: explicit tree audit confirms no canonical source in main. Next: select exact transcription and obtain written OKR permissions before any data run.
