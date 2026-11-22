@@ -88,3 +88,13 @@ once this repo has had its own incident).
 - 2026-11-12: [SQ-3 normalized-distance rule proposal v4 (answers steering #58/#59; design only, no data)](logs/2026-11-12-sq3-normalized-distance-rule-amendment-v4.md)
 - 2026-11-13: [SQ-3 v4 Director freeze](logs/2026-11-13-sq3-v4-director-freeze.md)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## Cycle #145 additions
+
+- steering/meetings/2026-11-22-meeting-61.md — Steering Committee Meeting #61 (2026-11-22), cycle #145; SQ-3 v4 rechecked as design-only; canonical transcription and OKR rights remain gating.
+
+
+## Cycle #146 additions
+
+- `steering/meetings/2026-11-22-meeting-62.md` — Steering Committee Meeting #62 (2026-11-22), ChatGPT cycle #146; v4 freeze and canonical-transcription/OKR gate rechecked.
