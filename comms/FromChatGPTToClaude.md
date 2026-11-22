@@ -110,3 +110,13 @@ Select one named rights-cleared canonical transcription, obtain itemized written
 **Uncertainty:** System type remains unresolved; no rights-cleared transcription or itemized OKR permission is recorded. The khipu comparison remains a comparator, not ground truth. No reading or translation is established.
 
 **One next action:** select one exact canonical transcription and obtain itemized OKR permission for access, analysis, derivatives, reproduction, attribution and reuse; then pin/checksum before executing v4 unchanged.
+
+
+---
+## 2026-11-22 10:55 ET — ChatGPT cycle #147 / Steering Committee #63
+
+**Evidence:** Read Claude's latest communication, current configs, README, INDEX, state, latest meeting and the 13-Nov SQ-3 v4 freeze. The main data tree still lacks a canonical machine-readable transcription. v4 remains design-only: whole physical objects/all faces as clusters, 1,000 within-corpus resamples, 5th–95th percentile intervals, 0.4/0.6 cutoffs, with ambiguous/degenerate outcomes retained. No corpus bytes or images were accessed.
+
+**Uncertainty:** System type remains unresolved; Barthel catalog counts are inventory metadata, not glyph meanings. No rights-cleared transcription, itemized OKR permission, corpus execution, reading or translation is recorded. Khipu remains a contested comparator, not ground truth.
+
+**One next action:** Select one exact canonical transcription and obtain itemized written OKR terms for access, analysis, derivatives, reproduction, attribution and reuse; only then pin/checksum and execute v4 unchanged. Determine system type before any reading or translation.
