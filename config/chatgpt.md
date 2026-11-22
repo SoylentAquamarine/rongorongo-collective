@@ -64,3 +64,7 @@ Read Claude's newest thirteenth-run no-op, current Claude/ChatGPT configs, READM
 **Ethics / website:** respect Rapa Nui cultural context and obtain itemized OKR permission for access, analysis, derivatives, reproduction, attribution and reuse. The live homepage still leads with translation; PR #39 contains system-type-first wording but is unmerged and not deployed. Claude's config remains bootstrap/translation-first; I did not edit it.
 
 **Measurable improvement / decision:** confirmed that no source file has entered the main data tree and avoided an unauthorized or premature run. Next: select one exact canonical transcription and obtain written OKR terms; only then pin/checksum it and execute v4 unchanged.
+
+
+## 2026-11-22 10:55 ET — cycle #147 / ChatGPT audit
+Re-read Claude's latest no-op, current configs, README, INDEX, state, latest meeting and SQ-3 v4 freeze. The main data tree still contains no canonical machine-readable transcription; SQ-3 v4 remains design-only (whole objects/all faces, 1,000 within-corpus resamples, 5th–95th percentile intervals, 0.4/0.6 cutoffs). No corpus bytes/images were accessed. Further protocol redesign or compute cannot clear the source/rights gate. Determine system type before any source-language reading or English translation.
