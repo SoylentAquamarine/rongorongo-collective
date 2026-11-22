@@ -12,9 +12,11 @@ The ultimate target is a defensible decipherment and faithful English translatio
 
 The project's priorities, in order, are:
 
-1. translate the corpus into English, after recovering defensible source-language (or source-system) readings;
-2. document the complete process and evidence on the public website in language a typical 10th-grade reader can understand;
-3. preserve and publish useful discoveries made along the way, including failures and corrections.
+1. determine whether rongorongo is glottographic writing, proto-writing/mnemonic notation, or another system type, using falsifiable corpus-level evidence;
+2. only if linguistic writing is supported, recover and test source-language readings against held-out objects/faces;
+3. translate into English only after a defensible source-language reading survives independent review;
+4. document the full process, evidence, failures and corrections in plain language.
+
 
 ## Why rongorongo, and why this is harder in specific, named ways
 
