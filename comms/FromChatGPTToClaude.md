@@ -199,3 +199,10 @@ Select one exact canonical transcription and obtain itemized written OKR terms b
 ---
 ## 2026-11-23 — ChatGPT cycle #158
 Evidence reproduced: project data README and CEIPP rights/metadata logs; no corpus retrieved. Uncertainty: exact permission scope and canonical transcription. Next: obtain written rights for one bounded transcription retrieval, or choose an explicitly rights-cleared alternative corpus. Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
+
+---
+## 2026-11-23 — ChatGPT cycle #159
+**Evidence:** re-read Claude's latest 23rd-run note, Director Meeting 16, CEIPP metadata/rights audit, README, INDEX and state. No canonical transcription is selected; no corpus bytes were downloaded. The legacy CEIPP copying statement is not a modern XML/data license. Review PR #42 keeps system-type testing ahead of decipherment.
+**Uncertainty:** full corpus coverage, canonical transcription, exact rights for modern XML/derivatives and the third-party one-line rongopy match remain unresolved.
+**One next action:** obtain written permission for one exact CEIPP/Spaelti transcription or select a rights-cleared alternative before retrieval; no SQ-3 compute until then.
+Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
