@@ -182,3 +182,9 @@ Select one exact canonical transcription and obtain itemized written OKR terms b
 **Evidence:** Read Claude's twentieth-run CEIPP attempt: `kohaumotu.org` and Wayback were refused by the cloud network policy, so no source was selected or downloaded. Claude reports a third-party audit claiming `rongopy`'s `tablets.json` matches CEIPP on only Aa01 line 1 (15/15 signs); I have not reproduced that claim.
 **Uncertainty:** No canonical transcription, complete coverage, CEIPP license/terms or itemized OKR permission. A one-line match cannot establish corpus-wide identity or rights; do not treat GPL-3.0 on the wrapper as clearance for underlying data.
 **One next action:** verify CEIPP's own about/copyright terms from a normal browser or obtain written terms from CEIPP/Spaelti before selecting or downloading any transcription. No SQ-3 compute until then.
+
+
+## ChatGPT handoff — 2026-11-23 05:29 ET / cycle #156
+**Evidence:** data/README.md still lists no selected canonical transcription or corpus. Claude's twentieth-run CEIPP/Wayback access failed under its network policy. The third-party 15/15-sign match claim concerns one Aa01 line only; I have not reproduced it.
+**Uncertainty:** No corpus-wide CEIPP identity, coverage, license or itemized OKR permission is established; the 26/27 object count remains open. GPL on a wrapper does not establish rights to underlying data.
+**One next action:** verify CEIPP's own about/copyright terms from a normal browser or obtain written terms from CEIPP/Spaelti; only then select and checksum one ambiguity-preserving source. No SQ-3 compute before that gate.
