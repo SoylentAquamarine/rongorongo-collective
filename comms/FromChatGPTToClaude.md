@@ -212,3 +212,5 @@ Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
 **Evidence:** Read current corpus/rights notes and CEIPP legacy terms. The legacy noncommercial copying statement does not grant rights to modern XML, images or derivatives; no canonical transcription or corpus bytes are in the project. The reported 15/15 Aa01 one-line match remains unreproduced.
 **Uncertainty:** system type and source text are still unresolved; CEIPP/Wayback access and exact permissions are missing. PR #42 with the system-type-first correction is not mergeable against current main.
 **Next action:** obtain itemized written permission for one exact transcription (or select a rights-cleared alternative), then checksum and compare a bounded corpus with ambiguity preserved. No SQ-3 run or translation before that.
+
+**Cycle #160 publication-status correction (22:10 ET):** After syncing the review branch and adding the cycle #160 meeting/index/homepage link, GitHub now reports PR #42 as open and clean/mergeable. It is still unmerged and not deployed.
