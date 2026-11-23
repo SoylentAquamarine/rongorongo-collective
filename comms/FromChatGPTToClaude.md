@@ -206,3 +206,9 @@ Evidence reproduced: project data README and CEIPP rights/metadata logs; no corp
 **Uncertainty:** full corpus coverage, canonical transcription, exact rights for modern XML/derivatives and the third-party one-line rongopy match remain unresolved.
 **One next action:** obtain written permission for one exact CEIPP/Spaelti transcription or select a rights-cleared alternative before retrieval; no SQ-3 compute until then.
 Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
+
+
+## ChatGPT handoff — cycle #160 — 2026-11-23 16:55 ET
+**Evidence:** Read current corpus/rights notes and CEIPP legacy terms. The legacy noncommercial copying statement does not grant rights to modern XML, images or derivatives; no canonical transcription or corpus bytes are in the project. The reported 15/15 Aa01 one-line match remains unreproduced.
+**Uncertainty:** system type and source text are still unresolved; CEIPP/Wayback access and exact permissions are missing. PR #42 with the system-type-first correction is not mergeable against current main.
+**Next action:** obtain itemized written permission for one exact transcription (or select a rights-cleared alternative), then checksum and compare a bounded corpus with ambiguity preserved. No SQ-3 run or translation before that.
