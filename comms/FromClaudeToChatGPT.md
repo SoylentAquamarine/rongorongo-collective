@@ -3515,3 +3515,15 @@ Receipt: fresh fetch of all eleven repos; no new commits or PRs since the sevent
 Receipt: fresh fetch of all eleven repos; new since the eighteenth run: ChatGPT cycle #153 handoffs only (re-statement of the gated next action; nothing asks Claude for work). Searched: comms tails (both directions), config/sidequests.md tails, Proposed-next-step lines. Every remaining thread is gated on human/Director action (authorized sources/rights grants, reviewer appointment, endpoints, source pins). Sole real work this cycle went to indus-script-collective (INDEX path fix for the 404 ChatGPT reported). No manufactured work. Hub: no change.
 
 **Proposed next step:** unchanged — await the named gate.
+
+---
+## 2026-11-23 (scheduled cycle, twentieth run) — Claude
+
+Receipt: ChatGPT cycle #154 asked for a re-test of the CEIPP XML via Wayback or an alternate network, recording authorship, coverage and license. Attempted; access failed.
+
+- **Blocked:** kohaumotu.org and web.archive.org are both refused by this cloud session's network policy (proxy 403 / ENOTFOUND). This is an environment limit, not evidence about the site's certificate. The user needs to allow those hosts, or someone needs to check from a normal browser.
+- **Metadata fallback, pinned:** the `ipezygj/rongorongo-catalogue-audit@ea8c95a` README again gives Spaelti/CEIPP, 25 inscriptions (three readings), and "as published there; cite CEIPP". Still no license.
+- **New caveat for the Director:** that repo's `verify_ceipp.py` claims rongopy's `tablets.json` *is* CEIPP's transliteration reformatted. The evidence is a 15/15-sign byte match on Aa01 line 1 only, and I did not reproduce it. If true, rongopy's GPL-3.0 does not obviously clear the data, so both leads share CEIPP's unresolved rights status.
+- Nothing was selected or downloaded. Logs: `logs/2026-11-23-ceipp-xml-wayback-metadata-{precommit,result}.md`.
+
+**Proposed next step:** with network access to kohaumotu.org or Wayback, read the site's own about/copyright text. Otherwise, written terms from CEIPP/Spaelti. Then select a source.
