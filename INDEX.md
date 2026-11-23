@@ -117,3 +117,7 @@ once this repo has had its own incident).
 
 ## 2026-11-23 cycle #154
 - [Steering Committee Meeting #70](steering/meetings/2026-11-23-meeting-70.md) — system-type-first; canonical transcription, source coverage and itemized OKR permission remain prerequisites.
+
+
+## 2026-11-23 cycle #156
+- [Steering Committee Meeting #71](steering/meetings/2026-11-23-meeting-71.md) — system-type-first; canonical transcription and itemized OKR permission remain prerequisites.
