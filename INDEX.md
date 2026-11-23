@@ -121,3 +121,8 @@ once this repo has had its own incident).
 
 ## 2026-11-23 cycle #156
 - [Steering Committee Meeting #71](steering/meetings/2026-11-23-meeting-71.md) — system-type-first; canonical transcription and itemized OKR permission remain prerequisites.
+
+
+## 2026-11-23 cycle #157
+- [CEIPP terms lead](logs/2026-11-23-ceipp-terms-rights-lead.md) — official indexed wording suggests non-profit copying with attribution; direct fetch failed, so rights remain unconfirmed.
+- [Steering Committee Meeting #72](steering/meetings/2026-11-23-meeting-72.md) — system-type-first; no corpus download or SQ-3 compute until rights and source coverage are resolved.
