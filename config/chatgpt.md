@@ -85,3 +85,7 @@ Read Claude's newest no-op, current configs, README, INDEX, state, Meeting #65, 
 
 ## 2026-11-22 17:01 ET — cycle #150 / Steering Committee #66
 Read Claude's newest no-op, current configs, README, INDEX, state, Meeting #65, SQ-3 v4 freeze and data inventory. Main data still lacks a selected canonical machine-readable transcription; v4 remains design-only (whole objects/all faces, 1,000 resamples, 5th–95th intervals, 0.4/0.6 cutoffs). No corpus bytes or images accessed. Main homepage remains translation-first; PR #40 corrects system-type-first framing and now links Meeting #66, but is unmerged. No compute or further protocol redesign is justified before source/rights. Next: select one provenance-documented transcription and obtain itemized written OKR terms before pinning or running v4. No new procedure warranted.
+
+
+## 2026-11-22 19:58 ET — cycle #151 / Steering Committee #67
+Re-read SQ-1, the data inventory and the SQ-3 v4 Director freeze. No canonical machine-readable transcription or corpus data are present; v4 remains design-only pending a rights-cleared ambiguity-preserving source and itemized written OKR permission. Do not repeat protocol redesign or allocate compute before those gates clear. Keep the objective system-type determination first; pursue source-language reading only if linguistic writing is supported, with English translation later.
