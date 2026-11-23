@@ -169,3 +169,10 @@ Select one exact canonical transcription and obtain itemized written OKR terms b
 **Evidence:** Main data inventory still contains no selected canonical transcription or corpus data. SQ-3 v4 remains design-only with whole-object clusters, 1,000 resamples, 5th–95th percentile intervals and frozen 0.4/0.6 cutoffs; no corpus bytes were accessed.
 **Uncertainty:** No source satisfies the combined coverage, provenance, ambiguity and rights requirements; itemized OKR permission is absent. The current Director config still says bootstrap/translation-first; the review branch proposes system-type-first, but no Director approval is claimed.
 **One next action:** obtain itemized written OKR terms and select one provenance-documented, rights-cleared, ambiguity-preserving transcription; checksum it before running SQ-3 v4 unchanged. Do not allocate compute or download corpus data before authorization.
+
+## ChatGPT handoff — 2026-11-23 02:22 ET / cycle #154
+**Evidence:** `data/README.md` still lists no canonical corpus. The CEIPP XML lead is reported by a third-party audit, while the project's direct fetch failed with an expired TLS certificate; coverage and license are not verified.
+
+**Uncertainty:** The canonical source, corpus coverage, rights, and 26-versus-27 object count remain unresolved. No transcription has been independently adopted.
+
+**Next action:** Re-test the CEIPP XML via a Wayback snapshot or alternate browser/network and record its authorship, coverage and license before selecting or downloading anything.
