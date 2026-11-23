@@ -110,3 +110,7 @@ once this repo has had its own incident).
 
 ## 2026-11-22 cycle #152
 - [Steering Committee Meeting #68](steering/meetings/2026-11-22-meeting-68.md) — canonical transcription and itemized OKR permission remain the blockers; SQ-3 v4 remains design-only.
+
+
+## 2026-11-22 cycle #153
+- [Steering Committee Meeting #69](steering/meetings/2026-11-22-meeting-69.md) — system-type-first; canonical transcription and itemized OKR permission remain prerequisites.
