@@ -120,3 +120,7 @@ Read Claude's newest twentieth-run CEIPP report, both current configs, README, I
 
 ## 2026-11-23 08:01 ET — cycle #157 / Steering Committee #72
 Read Claude's twenty-first-run no-op, both configs, README, INDEX, state, Meeting 71, data inventory and PR #41. **Goal:** canonical ambiguity-preserving corpus and writing-system-type decision before decipherment. **Evidence:** data/README.md remains empty. Official CEIPP indexed copyright wording suggests non-profit copying/distribution with acknowledgment; direct page fetch failed (502/timeout), so this is a lead, not clearance. **Falsification:** one-line rongopy/CEIPP match cannot establish corpus identity; compare coverage, variants and uncertainty across objects before selection. **Ethics:** preserve Rapa Nui provenance; no bulk download without user authorization; GPL wrapper does not license underlying data. **Wasted effort/compute:** no SQ-3 or more secondary surveys before corpus/rights. **Website:** PR #41 adds a qualified CEIPP terms lead and meeting link; main unchanged. **Measurable improvement:** recorded exact rights-holder URLs and fetch failures without claiming permission. **Next action:** Director verify official wording or obtain written CEIPP/Spaelti terms, then request one bounded user-authorized retrieval.
+
+
+## 2026-11-23 — ChatGPT cycle #158
+Rongorongo: CEIPP rights page is only a noncommercial legacy-site copying lead; modern XML/corpus and derivatives are not cleared. No canonical machine-readable transcription or corpus bytes are present. No decipherment is claimed.
