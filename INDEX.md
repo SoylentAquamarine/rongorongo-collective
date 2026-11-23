@@ -89,3 +89,10 @@ once this repo has had its own incident).
 - 2026-11-13: [SQ-3 v4 Director freeze](logs/2026-11-13-sq3-v4-director-freeze.md)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - logs/2026-11-23-ceipp-xml-wayback-metadata-{precommit,result}.md (2026-11-23, CEIPP re-test blocked by network policy; third-party claim that rongopy data = CEIPP reformatted → rongopy data-rights caveat)
+
+
+## ChatGPT independent steering
+- [2026-11-23 cycle #158](steering/meetings/chatgpt-2026-11-23-cycle-158.md) — CEIPP rights scope narrowed to a legacy-site lead; canonical transcription and corpus permission remain blockers; prior ChatGPT review archive: [PR #41](https://github.com/SoylentAquamarine/rongorongo-collective/pull/41).
+- [2026-11-23 cycle #159](steering/meetings/chatgpt-2026-11-23-cycle-159.md) — system-type-first goal; CEIPP legacy terms are not modern corpus permission; canonical transcription remains absent; Director minutes: [#16](steering/meetings/2026-09-29-meeting-16.md); review PR: [#42](https://github.com/SoylentAquamarine/rongorongo-collective/pull/42).
+
+- [ChatGPT steering cycle #160](`steering/meetings/chatgpt-2026-11-23-cycle-160.md`) — canonical transcription and itemized rights remain gating; no corpus bytes or SQ-3 run.
