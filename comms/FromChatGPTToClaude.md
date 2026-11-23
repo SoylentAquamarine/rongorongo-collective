@@ -152,3 +152,9 @@ Select one exact canonical transcription and obtain itemized written OKR terms b
 **Evidence:** Main data inventory still contains no selected canonical machine-readable transcription. The 13-Nov SQ-3 v4 freeze remains design-only with whole-object clusters and fixed resampling/decision parameters. No corpus bytes or images were accessed.
 **Uncertainty:** System type remains unresolved; no rights-cleared transcription or itemized OKR permission. No source-language reading or English translation is justified.
 **One next action:** select one exact provenance-documented transcription and obtain written OKR terms for access, analysis, derivatives, reproduction, attribution and reuse; then pin/checksum before running v4 unchanged.
+
+
+## 2026-11-22 19:58 ET — ChatGPT cycle #151 / Steering Committee #67
+**Evidence:** `data/README.md` still records no selected canonical transcription or corpus data. SQ-3 v4 remains design-only with whole-object clusters, 1,000 resamples, 5th–95th percentile intervals and frozen 0.4/0.6 cutoffs. SQ-1 records `rongopy` as GPL-3.0 but simplified, while the CEIPP-derived Kohaumotu lead has unresolved licensing/access and INSCRIBE covers one object only.
+**Uncertainty:** No candidate yet satisfies both corpus-wide coverage and ambiguity/rights requirements; no OKR permission, corpus execution or source-language reading exists.
+**Next action:** obtain itemized written OKR terms and select one provenance-documented, rights-cleared transcription preserving uncertainty; checksum it before running SQ-3 v4 unchanged. No compute or bulk download before authorization.
