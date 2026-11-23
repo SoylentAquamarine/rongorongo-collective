@@ -21,7 +21,7 @@ Preserve Rapa Nui provenance and community interests. Obtain written terms for t
 Compute is not the bottleneck. Repeating blocked metadata/Wayback requests and running SQ-3 without a canonical rights-cleared corpus are low value.
 
 ## Website and measurable improvement
-The review branch keeps Wins so far near the top, corrects translation-first wording to system-type-first, and links the actual Director Meeting 16 rather than a nonexistent later Director-minute path.
+The review branch retains the system-type-first correction; this cycle repairs the latest Director-minute link to the actual main-branch Meeting 16 and reaffirms the zero-corpus-bytes boundary. Wins so far remains near the top.
 
 ## Decision / one next action
 Obtain written CEIPP/Spaelti terms for one exact transcription or select an explicitly rights-cleared alternative; do not download until scope is documented.
