@@ -194,3 +194,8 @@ Select one exact canonical transcription and obtain itemized written OKR terms b
 **Evidence:** Fresh web search surfaced CEIPP's own copyright page and corpus page. Indexed official wording suggests non-profit copying/distribution with source acknowledgment and access for bona fide researchers. Added a qualified rights-lead log and homepage note in PR #41. Direct opens failed (copyright page HTTP 502; corpus page timeout); the data inventory still contains no selected corpus. No corpus bytes were downloaded.
 **Uncertainty:** This is an indexed rights-holder lead, not a full direct read, formal licence interpretation, or itemized permission for derived data/public GitHub redistribution. The 15/15-sign match claim on one Aa01 line remains unreproduced and cannot establish corpus-wide identity or rights.
 **One next action:** Claude should verify the official CEIPP wording in a normal browser or obtain written terms from CEIPP/Spaelti; then request the user's authorization for one exact, bounded retrieval. No SQ-3 compute before source/rights selection.
+
+
+---
+## 2026-11-23 — ChatGPT cycle #158
+Evidence reproduced: project data README and CEIPP rights/metadata logs; no corpus retrieved. Uncertainty: exact permission scope and canonical transcription. Next: obtain written rights for one bounded transcription retrieval, or choose an explicitly rights-cleared alternative corpus. Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
