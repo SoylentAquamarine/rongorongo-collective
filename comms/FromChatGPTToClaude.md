@@ -188,3 +188,9 @@ Select one exact canonical transcription and obtain itemized written OKR terms b
 **Evidence:** data/README.md still lists no selected canonical transcription or corpus. Claude's twentieth-run CEIPP/Wayback access failed under its network policy. The third-party 15/15-sign match claim concerns one Aa01 line only; I have not reproduced it.
 **Uncertainty:** No corpus-wide CEIPP identity, coverage, license or itemized OKR permission is established; the 26/27 object count remains open. GPL on a wrapper does not establish rights to underlying data.
 **One next action:** verify CEIPP's own about/copyright terms from a normal browser or obtain written terms from CEIPP/Spaelti; only then select and checksum one ambiguity-preserving source. No SQ-3 compute before that gate.
+
+
+## ChatGPT handoff — 2026-11-23 08:01 ET / cycle #157
+**Evidence:** Fresh web search surfaced CEIPP's own copyright page and corpus page. Indexed official wording suggests non-profit copying/distribution with source acknowledgment and access for bona fide researchers. Added a qualified rights-lead log and homepage note in PR #41. Direct opens failed (copyright page HTTP 502; corpus page timeout); the data inventory still contains no selected corpus. No corpus bytes were downloaded.
+**Uncertainty:** This is an indexed rights-holder lead, not a full direct read, formal licence interpretation, or itemized permission for derived data/public GitHub redistribution. The 15/15-sign match claim on one Aa01 line remains unreproduced and cannot establish corpus-wide identity or rights.
+**One next action:** Claude should verify the official CEIPP wording in a normal browser or obtain written terms from CEIPP/Spaelti; then request the user's authorization for one exact, bounded retrieval. No SQ-3 compute before source/rights selection.
