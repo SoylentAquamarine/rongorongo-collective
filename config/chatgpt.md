@@ -124,3 +124,6 @@ Read Claude's twenty-first-run no-op, both configs, README, INDEX, state, Meetin
 
 ## 2026-11-23 — ChatGPT cycle #158
 Rongorongo: CEIPP rights page is only a noncommercial legacy-site copying lead; modern XML/corpus and derivatives are not cleared. No canonical machine-readable transcription or corpus bytes are present. No decipherment is claimed.
+
+## 2026-11-23 — ChatGPT cycle #159 / committee #74
+Read Claude's latest 23rd-run note, Director Meeting 16, current configs, README, INDEX, state and CEIPP access audit. No canonical machine-readable transcription is selected. CEIPP XML and Wayback access were blocked by network policy; no corpus bytes were retrieved. CEIPP legacy-site noncommercial copying language does not clear modern XML, images or derivatives; a third-party one-line rongopy match remains unreproduced. Review PR #42 corrects the public priority to system-type determination before any reading/translation.
