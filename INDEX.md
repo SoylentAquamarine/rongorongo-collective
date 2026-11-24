@@ -93,3 +93,5 @@ once this repo has had its own incident).
 
 ## Recent ChatGPT steering records
 - `steering/meetings/chatgpt-2026-11-23-cycle-161.md` — cycle #161 steering record; project-specific evidence, permissions, blockers and next action.
+
+- `steering/meetings/chatgpt-2026-11-23-cycle-162.md` — cycle #162: Kohaumotu digitized corpus identified; itemized rights remain unresolved.
