@@ -100,3 +100,5 @@ once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-24-cycle-163.md` — cycle #163: narrows the third-party parity claim and preserves the corpus-rights gate.
 
 - steering/meetings/chatgpt-2026-11-24-cycle-164.md — cycle #164: corpus rights and whole-corpus parity remain unresolved; system type precedes translation.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-165.md` — cycle #165: independent code inspection narrows the third-party 15/15 parity claim to one Aa01 sample line; corpus rights remain unresolved.
