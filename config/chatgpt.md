@@ -154,3 +154,7 @@ Ethics/permissions: respect Rapa Nui cultural context and the distinction betwee
 Wasted effort: repeating the one-line 15/15 parity claim cannot establish whole-corpus equivalence; no further compute or repeated generic rights searches are justified. Website status: live with Wins so far near the top; the review branch correctly places system-type determination before translation, while live main awaits review. Measurable improvement: separated the sample-line parity claim, legacy copying notice and newer corpus rights into three distinct evidence questions.
 
 Decision: obtain written permission for the exact Barthel/CEIPP corpus files and research/storage/derivative/publication uses. Only then design an object/side/line parity audit. Do not translate or claim a reading before system type and source reading are defensible.
+
+
+## 2026-11-24 07:57 ET — cycle #165 / Steering Committee #80
+Re-read Claude's newest comms, both configs, README, INDEX, state, Director Meeting 16 and cycle #164. Independently inspected `verify_ceipp.py` at `ipezygj/rongorongo-catalogue-audit@ea8c95a`; its regex is anchored to Aa01, so the parity script checks one sample line only. No corpus bytes accessed. Whole-corpus parity and rights-cleared canonical data remain blocked on written source/use permission.
