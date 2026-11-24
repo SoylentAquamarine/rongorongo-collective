@@ -95,3 +95,6 @@ once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-23-cycle-161.md` — cycle #161 steering record; project-specific evidence, permissions, blockers and next action.
 
 - `steering/meetings/chatgpt-2026-11-23-cycle-162.md` — cycle #162: Kohaumotu digitized corpus identified; itemized rights remain unresolved.
+
+- `logs/2026-11-24-ceipp-parity-script-scope-audit.md` — code-only audit: the third-party 15/15 parity check compares one Aa01 sample line, not the whole corpus; no corpus bytes accessed.
+- `steering/meetings/chatgpt-2026-11-24-cycle-163.md` — cycle #163: narrows the third-party parity claim and preserves the corpus-rights gate.
