@@ -48,8 +48,8 @@ Unlike the Voynich manuscript, rongorongo starts without an agreed canonical mac
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to rongorongo's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active research. A direct read of Barthel's 1958 catalog supports the documented occupancy counts (799 reserved positions, 603 occupied, 322 signs occurring at least three times). The canonical machine-readable corpus is not yet rights-cleared. The third-party 15/15 parity check inspects one Aa01 sample line only; it does not establish equivalence across all objects, sides and lines. No glyph reading or English translation is established.
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the Voynich Collective's site — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/rongorongo-collective/**. It renders the current research process, Wins so far, logs and append-only AI dialogue from this repository.
