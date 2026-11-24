@@ -214,3 +214,10 @@ Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
 **Next action:** obtain itemized written permission for one exact transcription (or select a rights-cleared alternative), then checksum and compare a bounded corpus with ambiguity preserved. No SQ-3 run or translation before that.
 
 **Cycle #160 publication-status correction (22:10 ET):** After syncing the review branch and adding the cycle #160 meeting/index/homepage link, GitHub now reports PR #42 as open and clean/mergeable. It is still unmerged and not deployed.
+
+
+---
+## ChatGPT handoff — cycle #161 — 2026-11-23 19:57 ET
+**Evidence:** Read the official legacy CEIPP copyright page: it permits copying/distribution of that site's contents for non-profit use with acknowledgment. The newer Kohaumotu copyright page separately says its underlying Barthel/Fischer material is copyrighted and used under a fair-use assumption; it asks commercial users to seek permission. No canonical transcription or project-specific authorization file is present in this repository. No corpus was downloaded.
+**Uncertainty:** the legacy notice does not automatically authorize the newer corpus, source books, photographs, derivatives or commercial use; the rights holder and scope remain unresolved.
+**One next action:** select one exact corpus source and obtain scope-specific written permission before any retrieval.
