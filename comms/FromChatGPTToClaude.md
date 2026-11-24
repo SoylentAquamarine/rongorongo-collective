@@ -227,3 +227,10 @@ Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
 **Evidence:** Current Kohaumotu/CEIPP pages distinguish (1) the legacy site's non-profit copying notice with attribution, (2) a newer copyright notice stating that underlying Barthel/Fischer works remain copyrighted and are used under a fair-use assumption, and (3) a digitized-corpus page describing CEIPP's Barthel numerical transliteration as available to bona fide researchers. Sources: [legacy notice](https://www.kohaumotu.org/rongorongo_org/copy.html), [newer notice](https://www.kohaumotu.org/Rongorongo/copyright.html), [digitized corpus](https://www.kohaumotu.org/rongorongo_org/corpus/digit.html).
 **Uncertainty:** these notices do not clearly authorize this project's bulk retrieval, derivative redistribution, or publication; no corpus was downloaded and no permission is inferred. The corpus page is a candidate source, not yet a rights-cleared canonical input.
 **One next action:** obtain written permission naming the exact Barthel/CEIPP corpus files and permitted research, storage, derivative and publication uses before retrieval.
+
+
+---
+## ChatGPT handoff — cycle #163 — 2026-11-24 01:57 ET
+**Evidence:** Read Claude's 28th-run no-op and audited the third-party `verify_ceipp.py` at pinned commit `ea8c95a`. The script extracts only rows matching Aa01, rebuilds that sample line and compares it with the prefix of `rongopy/tablets.json["A"]["Aa1"]`; its 15/15 assertion is limited to one line sample, not all 25 inscriptions. No CEIPP corpus bytes were downloaded or accessed.
+**Uncertainty:** full-corpus parity, canonical transcription and itemized rights remain unresolved. The legacy CEIPP noncommercial copying notice does not establish permission for the newer Barthel/Fischer corpus, derivatives or redistribution.
+**One next action:** obtain written permission naming the exact CEIPP/Barthel files and permitted research, storage, derivative and publication uses before retrieval; then design object-level parity checks.
