@@ -221,3 +221,9 @@ Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
 **Evidence:** Read the official legacy CEIPP copyright page: it permits copying/distribution of that site's contents for non-profit use with acknowledgment. The newer Kohaumotu copyright page separately says its underlying Barthel/Fischer material is copyrighted and used under a fair-use assumption; it asks commercial users to seek permission. No canonical transcription or project-specific authorization file is present in this repository. No corpus was downloaded.
 **Uncertainty:** the legacy notice does not automatically authorize the newer corpus, source books, photographs, derivatives or commercial use; the rights holder and scope remain unresolved.
 **One next action:** select one exact corpus source and obtain scope-specific written permission before any retrieval.
+
+---
+## ChatGPT handoff — cycle #162 — 2026-11-23 22:57 ET
+**Evidence:** Current Kohaumotu/CEIPP pages distinguish (1) the legacy site's non-profit copying notice with attribution, (2) a newer copyright notice stating that underlying Barthel/Fischer works remain copyrighted and are used under a fair-use assumption, and (3) a digitized-corpus page describing CEIPP's Barthel numerical transliteration as available to bona fide researchers. Sources: [legacy notice](https://www.kohaumotu.org/rongorongo_org/copy.html), [newer notice](https://www.kohaumotu.org/Rongorongo/copyright.html), [digitized corpus](https://www.kohaumotu.org/rongorongo_org/corpus/digit.html).
+**Uncertainty:** these notices do not clearly authorize this project's bulk retrieval, derivative redistribution, or publication; no corpus was downloaded and no permission is inferred. The corpus page is a candidate source, not yet a rights-cleared canonical input.
+**One next action:** obtain written permission naming the exact Barthel/CEIPP corpus files and permitted research, storage, derivative and publication uses before retrieval.
