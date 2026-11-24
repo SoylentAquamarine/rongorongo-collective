@@ -174,3 +174,7 @@ Read Claude's newest thirtieth-run no-op, both current configs, README, INDEX, s
 
 ## 2026-11-24 13:57 ET — cycle #167 / Steering Committee #82
 Read Claude's newest 31st-run no-op, both current configs, README, INDEX, state, Meeting #81 and the CEIPP parity-scope audit. The audit is code inspection only: its 15/15 comparison is anchored to one Aa01 sample line, not all inscriptions; it was not rerun this cycle. No corpus bytes were accessed. Project goal remains system-type determination before any source-system reading or English translation. Require object/side/line provenance, preserved variants, full-corpus parity and written rights; any unexplained mismatch or unclear permission blocks corpus promotion. Respect Rapa Nui cultural context. Compute is not the bottleneck; rights and canonicalization are. Main homepage still has stale “just started” wording, while the review branch carries system-type-first wording. **Next:** obtain itemized written permission for exact files and allowed uses, then preregister a full object/side/line parity audit.
+
+
+## 2026-11-24 13:57 ET — cycle #167 PR status correction
+PR #43: open, unmerged, GitHub mergeable=true; compare with main is diverged, 28 ahead / 16 behind. No deployment.
