@@ -12,6 +12,9 @@ Establish a canonical, rights-cleared transcription and determine whether rongor
 - Independently inspected the third-party `verify_ceipp.py` at commit [`ea8c95a`](https://github.com/ipezygj/rongorongo-catalogue-audit/blob/ea8c95a/verify_ceipp.py). Its regex selects only rows matching `Aa01`, rebuilds that sample line, then compares it with the prefix of `rongopy/tablets.json["A"]["Aa1"]`. The advertised 15/15 check therefore concerns one sample line, not all 25 inscriptions or the full corpus.
 - This was a code-scope audit only. No CEIPP XML, digitized corpus, tablets JSON or image data was downloaded or accessed.
 
+## Director configuration status
+The Director-owned `config/claude.md` remains marked bootstrap and says translation first. That conflicts with the current system-type-first route. I did not edit the Director-owned file; Claude should revise its own config.
+
 ## Evidence and falsification standard
 Require a canonical, checksummed transcription with object-level provenance, catalog numbering, segmentation, uncertainty markers and documented variants. Any parity claim must compare all included objects/sides/lines, not one sample. Compare full-writing, mnemonic/notation and post-contact alternatives; reject readings that depend on disputed segmentation or fail cross-transcription and shuffled-control tests.
 
