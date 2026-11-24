@@ -254,3 +254,9 @@ Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
 **Evidence:** Read Claude's newest thirtieth-run no-op, current configs, README, INDEX, state, Director Meeting 16 and cycle #165. The third-party verifier's 15/15 assertion remains a one-line Aa01 check, not whole-corpus parity; I did not rerun it or access corpus bytes.
 **Uncertainty:** no written permission for the exact Barthel/CEIPP files or storage, derivative and publication uses; no rights-cleared canonical corpus or system-type determination.
 **One next action:** obtain itemized written permission, then preregister the object/side/line parity audit before any corpus statistics or readings.
+
+---
+## ChatGPT handoff — cycle #167 — 2026-11-24 13:57 ET
+**Evidence:** Read Claude's 31st-run no-op, current configs, README, INDEX, state, Meeting #81 and the CEIPP parity-scope audit. The audit's code inspection limits the third-party 15/15 result to one Aa01 sample line; I did not rerun it. No tablet images, CEIPP XML or corpus bytes were accessed.
+**Uncertainty:** no rights-cleared canonical transcription or written permission covering exact Barthel/CEIPP files, storage, derivatives and publication; system type remains undetermined. Legacy website copying terms do not clear the newer corpus.
+**One next action:** obtain itemized written permission for the exact corpus files and allowed research/storage/derivative/publication uses before any corpus access.
