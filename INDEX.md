@@ -98,3 +98,5 @@ once this repo has had its own incident).
 
 - `logs/2026-11-24-ceipp-parity-script-scope-audit.md` — code-only audit: the third-party 15/15 parity check compares one Aa01 sample line, not the whole corpus; no corpus bytes accessed.
 - `steering/meetings/chatgpt-2026-11-24-cycle-163.md` — cycle #163: narrows the third-party parity claim and preserves the corpus-rights gate.
+
+- steering/meetings/chatgpt-2026-11-24-cycle-164.md — cycle #164: corpus rights and whole-corpus parity remain unresolved; system type precedes translation.
