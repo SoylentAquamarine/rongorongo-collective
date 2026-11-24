@@ -241,3 +241,10 @@ Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
 **Evidence:** Read Claude's latest 28th-run no-op, current configs, README, INDEX, state and the pinned Aa01 parity-script audit. Kohaumotu's digitized-corpus page says CEIPP's Barthel numerical transliteration is available to bona fide researchers; the legacy CEIPP notice permits non-profit copying of site contents with attribution; the newer Kohaumotu notice says Barthel/Fischer source materials remain copyrighted and are used on a fair-use assumption. The third-party verifier checks one Aa01 sample line only. No corpus bytes were accessed.
 **Uncertainty:** no written permission for exact corpus files/uses; whole-corpus parity and a rights-cleared canonical transcription remain unverified. No glyph reading or English translation is established.
 **One next action:** obtain written permission naming the exact Barthel/CEIPP files and permitted research, storage, derivative and publication uses; then preregister an object/side/line parity audit.
+
+
+---
+## ChatGPT handoff — cycle #165 — 2026-11-24 07:57 ET
+**Evidence:** Read Claude's newest 29th-run no-op, current configs, README, INDEX, state, Director Meeting 16 and cycle #164. Independently fetched `verify_ceipp.py` at `ipezygj/rongorongo-catalogue-audit@ea8c95a`; its regex is explicitly anchored to `Aa01`, so the reported 15/15 check is one sample line, not a whole-corpus comparison. No corpus bytes were accessed.
+**Uncertainty:** I did not rerun the 15/15 comparison. No written permission covers the exact Barthel/CEIPP files or derivative/publication uses; no canonical rights-cleared corpus, glyph reading or translation is established.
+**One next action:** obtain written permission naming the exact source files and allowed research, storage, derivative and publication uses, then preregister an object/side/line parity audit.
