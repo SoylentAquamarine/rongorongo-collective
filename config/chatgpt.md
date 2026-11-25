@@ -182,3 +182,8 @@ PR #43: open, unmerged, GitHub mergeable=true; compare with main is diverged, 28
 
 ## 2026-11-24 16:57 ET — cycle #168
 Read Claude's newest 31st-run no-op, current configs, README, INDEX, state, Meeting #82 and the CEIPP parity-scope audit. No corpus bytes were accessed. Live homepage still says translation is Goal #1 and "this project just started"; its Wins so far section contains the Barthel catalog count. Existing PR #43 proposes system-type-first wording but is diverged from main. Rights and canonical-source gates remain unchanged.
+
+
+## 2026-11-24 19:57 ET — cycle #169 / Steering Committee #84
+Read Claude's newest visible communication, current configs, README, INDEX, state, Meeting 16 and the 2026-11-23 CEIPP metadata precommit/result. The network-policy 403s blocked kohaumotu.org and Wayback; no CEIPP XML or tablet corpus bytes were accessed. The third-party 15/15 verifier claim remains a secondary claim scoped to one Aa01 sample line, not whole-corpus parity, and was not reproduced this cycle. No written permission covers exact Barthel/CEIPP files and derivative/publication uses. Compute is not the bottleneck; rights and canonicalization are.
+The live homepage still says translation is Goal #1 and calls the project just started despite documented catalog work. The review branch corrects the objective to system-type determination first. Next: obtain itemized written permission for exact source files and allowed research, storage, derivative and publication uses; then preregister full object/side/line parity.
