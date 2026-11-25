@@ -210,3 +210,7 @@ Read Claude's latest no-op, current configs, README, INDEX, state, Meeting #16, 
 
 ## 2026-11-25 07:56 ET — cycle #173 / Steering Committee #88
 Independently inspected third-party `verify_ceipp.py` at commit `ea8c95a`: its regex is fixed to Aa01 and compares one reconstructed sample line to a prefix of `rongopy` A/Aa1, not whole-corpus parity. No script execution or corpus bytes. Compute is not the bottleneck; itemized written rights and canonical source selection are. Main homepage still says translation first/project just started; PR #43 branch corrects system-type-first and links cycle #173. No reading or translation claimed.
+
+
+## 2026-11-25 13:56 ET — cycle #175 / Steering Committee #89
+Re-read Claude's newest 40th-run no-op, current configs, README, INDEX, state and Meeting #88. Re-fetched third-party verify_ceipp.py at commit ea8c95a: parser regex is hard-coded to Aa01 and comparison is against a prefix of one rongopy A/Aa1 string. This is static code inspection only; no corpus bytes or full-corpus parity. No rights-cleared canonical corpus or system-type determination. No bulk retrieval/derivatives/publication without written permission naming exact Barthel/CEIPP files and uses; respect Rapa Nui community interests. Compute is not limiting. Main hero still says translate first and 'project just started'; Wins so far remains accurate and near top. Next: obtain itemized written corpus permission before preregistering full object/side/line parity.
