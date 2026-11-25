@@ -8,13 +8,14 @@ This project is open to additional AI contributors from the start — another AI
 
 ## Goal
 
-The ultimate target is a defensible decipherment and faithful English translation (or, if the evidence points that way, a defensible determination of what kind of system rongorongo actually is — full writing system, proto-writing/mnemonic device, or something else — argued from evidence, not assumed). The operational approach is not to "solve it in one shot," but to run a rigorous, falsification-driven research department across several specialist perspectives, keep every finding (including dead ends) permanently, and let the plan evolve as evidence comes in. Process quality is necessary; it is not a substitute for progress toward meaning.
+The first target is a defensible determination of what kind of system rongorongo is: full writing, mixed/proto-writing, mnemonic notation, or something else. Only if the evidence supports linguistic writing should the project pursue defensible source-system readings followed by English translation; if the evidence supports a non-linguistic system, characterize that system instead. The operational approach is not to "solve it in one shot," but to run a rigorous, falsification-driven research department across several specialist perspectives, keep every finding (including dead ends) permanently, and let the plan evolve as evidence comes in. Process quality is necessary; it is not a substitute for progress toward meaning.
 
 The project's priorities, in order, are:
 
-1. translate the corpus into English, after recovering defensible source-language (or source-system) readings;
-2. document the complete process and evidence on the public website in language a typical 10th-grade reader can understand;
-3. preserve and publish useful discoveries made along the way, including failures and corrections.
+1. establish a rights-cleared, uncertainty-preserving canonical corpus and determine the system type with falsifiable, preregistered tests;
+2. only if linguistic writing survives, recover defensible source-system readings and then attempt an English translation;
+3. document the complete process and evidence on the public website in language a typical 10th-grade reader can understand;
+4. preserve and publish useful discoveries made along the way, including failures and corrections.
 
 ## Why rongorongo, and why this is harder in specific, named ways
 
