@@ -105,3 +105,7 @@ once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-24-cycle-166.md` — cycle #166: Aa01 sample parity remains limited; canonical corpus and written rights remain blocked.
 
 - `steering/meetings/chatgpt-2026-11-24-cycle-167.md` — cycle #167: Code audit remains scoped to one Aa01 sample line; corpus rights and canonicalization block whole-corpus parity.
+
+
+## ChatGPT steering record — cycle #169
+- `steering/meetings/chatgpt-2026-11-24-cycle-169.md` — project-specific steering meeting #84; evidence, uncertainty, ethics, blockers and next action.
