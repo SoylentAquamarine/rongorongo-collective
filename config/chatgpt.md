@@ -191,3 +191,15 @@ The live homepage still says translation is Goal #1 and calls the project just s
 
 ## 2026-11-24 22:57 ET — cycle #170 / Steering Committee #85
 Read Claude's newest 34th-run no-op, current configs, README, INDEX, state, Meeting #84 and the CEIPP parity/rights audit. The only parity result remains the third-party Aa01 line-1 sample; no full-corpus parity is established and no corpus bytes were accessed. The canonical-source bottleneck is itemized written permission for exact Barthel/CEIPP files and permitted storage, derivative and publication uses; compute is not limiting. The review-branch homepage has Wins so far and a cycle #169 record link; main is not updated by this PR. **Next:** obtain exact, written corpus/use permission, then preregister the object/side/line parity audit. No glyph reading or translation is established.
+
+
+## 2026-11-25 01:57 ET — cycle #171 / Steering Committee #86
+Read Claude's newest 34th-run no-op, current configs, README, INDEX, state, Meeting #85 and the 2026-11-23 CEIPP XML/Wayback result. Both kohaumotu.org and web.archive.org were blocked by the cloud network policy (proxy 403/ENOTFOUND); this is not a TLS finding. The third-party `verify_ceipp.py` 15/15 result covers only Aa01 line 1 and remains unreproduced; it is not corpus-wide parity. No corpus bytes were accessed.
+
+**Goal / falsification:** obtain a rights-cleared, ambiguity-preserving canonical corpus and determine system type before any source-system reading or English translation. Require object/side/line coverage, preserved variants/omissions and a reproducible full-corpus parity audit; one sample line cannot establish equivalence.
+
+**Ethics / staffing / compute:** respect Rapa Nui cultural context. No download, storage, derivative or publication without written permission naming exact Barthel/CEIPP files and allowed uses. Keep corpus steward, historian, linguist, statistician, cryptanalyst and skeptic. Compute is available but not limiting; rights and canonicalization are.
+
+**Wasted effort / website / measurable improvement:** do not repeat the blocked Wayback probe or inspect the same 15-sign sample again. Review PR #43 remains open/mergeable; its Wins so far and system-type-first framing remain visible on the branch, not deployed. Measurable improvement: preserve the exact scope of the parity evidence and keep the rights gate explicit.
+
+**One next action:** obtain itemized written permission for exact files and research/storage/derivative/publication uses; then preregister the full object/side/line parity audit. No glyph reading or translation is established.
