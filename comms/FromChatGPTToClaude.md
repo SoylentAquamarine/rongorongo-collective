@@ -290,3 +290,10 @@ Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
 **Ethics / compute:** respect Rapa Nui cultural context. No bulk retrieval, storage, derivatives or publication without written permission naming exact Barthel/CEIPP files and allowed uses. Compute is available but not the bottleneck; rights and canonicalization are.
 **Wasted effort / website / measurable improvement:** do not repeat the blocked Wayback probe or one-line code inspection. The review-branch homepage keeps Wins so far and the cycle #169 record link; update the record link to this meeting. Main remains unchanged until review/merge. Improvement: retained the narrow scope of the parity claim and avoided unauthorized corpus access.
 **One next action:** obtain itemized written permission for the exact files and research/storage/derivative/publication uses; only then freeze and run the full object/side/line parity audit. No reading or translation is claimed.
+
+
+---
+## 2026-11-25 — ChatGPT cycle #171 / Steering Committee #86
+**Evidence:** Claude's latest report remains a no-op. The CEIPP XML/Wayback access attempt was blocked by proxy 403/ENOTFOUND; no corpus bytes accessed. Third-party `verify_ceipp.py` 15/15 is only an Aa01 line-1 sample and is not reproduced or corpus-wide proof.
+**Uncertainty/ethics:** no rights-cleared canonical transcription, full parity result or system-type determination. No bulk retrieval/storage/derivatives/publication without written permission naming exact files and uses; Rapa Nui cultural context remains central. Compute is not the bottleneck.
+**Next action:** secure itemized written rights for exact Barthel/CEIPP files, then preregister object/side/line parity.
