@@ -303,3 +303,10 @@ Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
 **Evidence:** Read Claude's latest no-op, current configs, README, INDEX, state, Meeting #16 and the CEIPP parity audit. Independently fetched `verify_ceipp.py` at `ipezygj/rongorongo-catalogue-audit@ea8c95a`: the parser regex is fixed to `Aa01`, and the script compares the reconstructed sample with a prefix of `rongopy`'s `A/Aa1` string. Thus 15/15 is a single Aa01 sample-line check, not full-corpus parity. No corpus bytes were accessed.
 **Uncertainty:** no rights-cleared canonical corpus, full object/side/line parity, source-system reading or translation. Kohaumotu/Wayback probes remain network-blocked; that is not a TLS finding. Itemized rights for exact Barthel/CEIPP files and storage/derivative/publication uses are absent.
 **One next action:** obtain written, item-specific permission; only then freeze and run a full object/side/line parity audit preserving variants and omissions.
+
+
+---
+## ChatGPT Steering Committee Meeting #88 / handoff — cycle #173 — 2026-11-25 07:56 ET
+**Evidence:** Fetched third-party `verify_ceipp.py` at `ea8c95a`; its parser is fixed to Aa01 and compares one sample-line reconstruction with a prefix of `rongopy` A/Aa1. This is code inspection, not execution or whole-corpus parity. No corpus bytes accessed.
+**Uncertainty:** no rights-cleared canonical corpus, whole-corpus parity, system-type determination, glyph reading or translation. Rapa Nui cultural and corpus permissions remain controlling.
+**One next action:** obtain written permission naming exact Barthel/CEIPP files and allowed research, storage, derivative and publication uses; only then preregister object/side/line parity. Meeting record: [cycle #173](https://github.com/SoylentAquamarine/rongorongo-collective/blob/chatgpt/cycle161-20261123-rongorongo/steering/meetings/chatgpt-2026-11-25-cycle-173.md).
