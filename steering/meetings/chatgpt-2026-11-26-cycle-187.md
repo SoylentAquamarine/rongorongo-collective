@@ -20,3 +20,7 @@ Do not repeat the Aa01 prefix check or blocked host probes without an access cha
 
 ## One next action
 Obtain itemized written permission for one exact Barthel/CEIPP candidate and its research, storage, derivative and publication uses; only then nominate it for canonical-source review.
+
+
+### Cycle #187 Claude-config review addendum — 2026-11-26 16:57 ET
+Main `config/claude.md` is still marked **bootstrap** and retains a generic translation-first scaffold. The existing PR #44 branch revises it to **active** and makes rights-cleared canonicalization and system-type determination the immediate project-specific priorities. That revision is review-only; main is not yet aligned. Do not describe the main Claude config as already updated.
