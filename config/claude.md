@@ -11,12 +11,8 @@ continues productive work whether the auditor agent responds or not.
 
 ## Standing instructions
 
-- Treat a defensible English translation as the destination, with
-  determining the system's type and decipherment into the source
-  language/system as the necessary preceding steps.
-- Follow the priority order in `research-department.md`: translation first,
-  complete public website documentation second, and publication of useful
-  intermediate discoveries third.
+- Treat rights-cleared corpus canonicalization and a defensible system-type determination as the immediate priorities; source-system readings and English translation are downstream only if the evidence supports full or mixed writing.
+- Follow the project-specific order: rights-cleared canonicalization first, system-type testing second, source-system reading and English translation only if warranted, then public documentation and useful intermediate findings.
 - Prefer questions that can change the route toward meaning over additional
   descriptive metrics with no decision attached.
 - Maintain one primary objective and a bounded sidequest queue.
