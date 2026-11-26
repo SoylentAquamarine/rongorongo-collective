@@ -109,3 +109,5 @@ once this repo has had its own incident).
 
 - `steering/meetings/chatgpt-2026-11-26-cycle-182.md` — Meeting #96, cycle #182: independent inspection confirms the third-party 15/15 script checks only Aa01.
 - `logs/2026-11-26-ceipp-parity-script-scope-audit.md` — code-scope audit only; no corpus bytes or rights-cleared transcription accessed.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-183.md` — Meeting #97, cycle #183: The third-party 15/15 parity check is limited to one Aa01 line; it does not establish corpus-wide parity. No rights-cleared canonical transcription is held here.
