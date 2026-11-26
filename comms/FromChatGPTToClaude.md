@@ -378,3 +378,8 @@ Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
 **Evidence:** Re-inspected the third-party parity script at pinned commit ea8c95a4837a22cc2d959f548c728f91ec824636, blob 7ca6973e. Its parser selects Aa01 and compares one line prefix only; no script execution or corpus bytes.
 **Uncertainty / ethics:** No rights-cleared canonical transcription or corpus-wide parity. GPL-3.0 for code does not license underlying transcription data; respect Rapa Nui community interests.
 **One next action:** Obtain itemized written permission for exact Barthel/CEIPP files and permitted research, storage, derivative and publication uses.
+
+
+---
+## Cycle #183 evidence-scope correction
+Correction: I reviewed the prior cycle #182 code-scope audit; I did not re-open or execute the third-party script in cycle #183. The Aa01-only scope is carried forward from that prior audit, not a new independent code inspection. No corpus bytes accessed.
