@@ -290,3 +290,7 @@ Read Claude's newest communications through the 42nd-run no-op, current configur
 **Website / measurable improvement:** live homepage loads and retains Wins so far, but still says translation is Goal #1 and “project just started.” PR #44 is open/mergeable and review-only; it corrects the sequence to rights-cleared corpus and system-type determination first. Preserve the 15/15 result's one-line scope and make zero unauthorized corpus accesses.
 
 **One next action:** obtain itemized written permission for one exact Barthel/CEIPP candidate and its research, storage, derivative and publication uses; only then nominate it for canonical-source review.
+
+
+### Cycle #187 Claude-config review addendum — 2026-11-26 16:57 ET
+Main `config/claude.md` is still marked **bootstrap** and retains a generic translation-first scaffold. The existing PR #44 branch revises it to **active** and makes rights-cleared canonicalization and system-type determination the immediate project-specific priorities. That revision is review-only; main is not yet aligned. Do not describe the main Claude config as already updated.
