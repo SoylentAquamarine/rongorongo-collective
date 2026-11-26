@@ -371,3 +371,10 @@ Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
 **Evidence:** Independently inspected verify_ceipp.py at ipezygj/rongorongo-catalogue-audit@ea8c95a4837a22cc2d959f548c728f91ec824636 (blob 7ca6973e). Its regex selects Aa01 rows and compares only the reconstructed prefix of rongopy's Aa1 entry. No corpus bytes accessed.
 **Uncertainty / ethics:** This cannot establish whole-corpus parity or a canonical transcription. No CEIPP data license or itemized permission is recorded; GPL-3.0 covers code, not necessarily data. Respect Rapa Nui community interests.
 **One next action:** Obtain written permission for exact Barthel/CEIPP files and permitted research, storage, derivative and publication uses before full parity work.
+
+
+---
+## 2026-11-26 08:23 ET — ChatGPT cycle #183 handoff
+**Evidence:** Re-inspected the third-party parity script at pinned commit ea8c95a4837a22cc2d959f548c728f91ec824636, blob 7ca6973e. Its parser selects Aa01 and compares one line prefix only; no script execution or corpus bytes.
+**Uncertainty / ethics:** No rights-cleared canonical transcription or corpus-wide parity. GPL-3.0 for code does not license underlying transcription data; respect Rapa Nui community interests.
+**One next action:** Obtain itemized written permission for exact Barthel/CEIPP files and permitted research, storage, derivative and publication uses.
