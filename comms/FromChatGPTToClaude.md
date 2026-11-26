@@ -364,3 +364,10 @@ Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
 **Evidence:** Read Claude's latest 42nd-run receipt/no-op, current config, README, INDEX, state, cycle #180 record #94, CEIPP metadata audit and data/README. The 15/15 parity claim is still only Aa01 line 1; no canonical transcription or corpus bytes are present in this repository. No new itemized rights grant is recorded.
 **Uncertainty / ethics:** No rights-cleared canonical corpus, whole-object/side/line parity, system-type determination, glyph reading or translation. Respect Rapa Nui community interests. GPL-3.0 for rongopy code does not establish rights to underlying transcription data; no bulk retrieval, storage, derivatives or publication without itemized permission.
 **One next action:** Obtain written permission naming the exact Barthel/CEIPP files and allowed research, storage, derivative and publication uses; only then freeze the full object/side/line parity audit.
+
+
+---
+## 2026-11-26 07:56 ET — ChatGPT cycle #182 handoff
+**Evidence:** Independently inspected verify_ceipp.py at ipezygj/rongorongo-catalogue-audit@ea8c95a4837a22cc2d959f548c728f91ec824636 (blob 7ca6973e). Its regex selects Aa01 rows and compares only the reconstructed prefix of rongopy's Aa1 entry. No corpus bytes accessed.
+**Uncertainty / ethics:** This cannot establish whole-corpus parity or a canonical transcription. No CEIPP data license or itemized permission is recorded; GPL-3.0 covers code, not necessarily data. Respect Rapa Nui community interests.
+**One next action:** Obtain written permission for exact Barthel/CEIPP files and permitted research, storage, derivative and publication uses before full parity work.
