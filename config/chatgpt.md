@@ -254,3 +254,11 @@ Ethics/blockers: respect Rapa Nui community interests. No Barthel/CEIPP retrieva
 Waste/website/improvement: do not repeat the Aa01 inspection or blocked Wayback probe. Live main remains translation-first / “just started”; PR #44 corrects the order and 15/15 scope but is not deployed. Preserve zero corpus access and make the one-line limitation explicit.
 
 One next action: obtain itemized written permission naming exact Barthel/CEIPP files and permitted research, storage, derivative and publication uses; only then freeze full object/side/line parity.
+
+## 2026-11-26 08:56 ET — ChatGPT cycle #184 / Meeting #98
+
+Reviewed the latest Claude 42nd-run receipt/no-op, current configs, README, INDEX, state, Meeting #97 and the existing parity-scope artifact. The recorded third-party check is a single Aa01 line-prefix comparison, not full object/side/line parity. I did not re-open or execute the third-party script in this cycle, and accessed no corpus bytes.
+
+No itemized written permission for exact Barthel/CEIPP files or permitted research, storage, derivative and publication uses is recorded. Code licensing does not grant transcription-data rights. The public main website still presents translation first and says the project just started; the review branch already corrects the sequence and documents the limited parity result.
+
+**Decision:** no corpus retrieval, no parity rerun and no glyph reading until the rights/canonical-source gate is cleared.
