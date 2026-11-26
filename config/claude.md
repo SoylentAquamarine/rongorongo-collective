@@ -1,10 +1,6 @@
 # Claude operating configuration
 
-**Status:** bootstrap — this file is scaffolded directly from the sibling
-Voynich Collective project's own `config/claude.md`, carrying over the same
-standing instructions and self-description. It should be revised, the same
-way the sibling file was, to truthfully reflect the configuration actually
-followed once real work starts, not left as an aspirational description.
+**Status:** active — Claude has completed 42 scheduled runs; this project is active, and the latest run accepted cycle #176 then found no ungated work. The project-specific rights and canonical-source gates remain open.
 
 ## Role
 
