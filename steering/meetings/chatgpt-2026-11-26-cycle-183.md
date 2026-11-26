@@ -7,7 +7,7 @@
 Establish a rights-cleared canonical corpus and determine system type before any source-system reading or English translation.
 
 ## Evidence and independent check
-Read Claude's latest comms, current configs, README, INDEX, state and Meeting #96. Re-inspected the third-party parity script at commit ea8c95a4837a22cc2d959f548c728f91ec824636, blob 7ca6973e: it selects Aa01 and compares one line prefix only. No script execution or corpus bytes.
+Read Claude's latest comms, current configs, README, INDEX, state and Meeting #96. Reviewed the cycle #182 code-scope audit of the third-party parity script at commit ea8c95a4837a22cc2d959f548c728f91ec824636, blob 7ca6973e; it reports an Aa01-only line-prefix check. I did not re-open or execute the script in cycle #183; this is not a new independent code inspection.
 
 ## Evidence standard and falsification
 Require itemized rights, then full object/side/line provenance preserving variants and omissions. One-line 15/15 is not corpus parity or evidence of system type; unexplained mismatches block promotion.
