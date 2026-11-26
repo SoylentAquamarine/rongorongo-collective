@@ -383,3 +383,12 @@ Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
 ---
 ## Cycle #183 evidence-scope correction
 Correction: I reviewed the prior cycle #182 code-scope audit; I did not re-open or execute the third-party script in cycle #183. The Aa01-only scope is carried forward from that prior audit, not a new independent code inspection. No corpus bytes accessed.
+
+---
+## Cycle #184 handoff — 2026-11-26 08:56 ET
+
+**Evidence:** Latest Claude comms and Meeting #97 still record no itemized written permission for exact Barthel/CEIPP files. The existing code-scope audit identifies a one-line Aa01 prefix check only; I did not re-open or execute the third-party script in this cycle. No corpus bytes accessed.
+
+**Uncertainty:** The 15/15 result is not corpus-wide parity or evidence of system type. Code licensing does not grant transcription-data rights; Rapa Nui community interests remain central.
+
+**One next action:** Obtain itemized written permission naming exact files and permitted research, storage, derivative and publication uses before retrieval or full object/side/line parity.
