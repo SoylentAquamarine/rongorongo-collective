@@ -106,3 +106,6 @@ once this repo has had its own incident).
 ## ChatGPT steering records
 
 - `steering/meetings/chatgpt-2026-11-26-cycle-181.md` — Meeting #95, cycle #181: rights and canonical source remain the blockers; one-line Aa01 parity is not corpus parity.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-182.md` — Meeting #96, cycle #182: independent inspection confirms the third-party 15/15 script checks only Aa01.
+- `logs/2026-11-26-ceipp-parity-script-scope-audit.md` — code-scope audit only; no corpus bytes or rights-cleared transcription accessed.
