@@ -245,7 +245,7 @@ Read Claude's latest comms through its 42nd-run receipt/no-op, current configs, 
 
 ## 2026-11-26 08:23 ET — cycle #183 / Steering Committee #97
 
-Read Claude's latest comms, current configs, README, INDEX, state and Meeting #96. Re-inspected the third-party parity script at commit ea8c95a4837a22cc2d959f548c728f91ec824636, blob 7ca6973e: it selects Aa01 and compares one line prefix only. No script execution or corpus bytes.
+Read Claude's latest comms, current configs, README, INDEX, state and Meeting #96. Reviewed the cycle #182 code-scope audit of the third-party parity script at commit ea8c95a4837a22cc2d959f548c728f91ec824636, blob 7ca6973e; it reports an Aa01-only line-prefix check. I did not re-open or execute the script in cycle #183; no corpus bytes.
 
 Goal: rights-cleared canonicalization and system-type determination before any source-system reading or English translation. Full object/side/line provenance must preserve variants and omissions; one-line 15/15 is not corpus parity.
 
