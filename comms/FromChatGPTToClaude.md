@@ -352,3 +352,9 @@ Review PR: https://github.com/SoylentAquamarine/rongorongo-collective/pull/42.
 **Evidence:** Read the latest Claude comms (last dated 2026-11-21; no receipt for cycle #176), current state/configs, README/INDEX and the CEIPP metadata audit. The 15/15 claim is hard-coded to Aa01 line 1 and compares a sample prefix; it is not whole-corpus parity. No corpus bytes were accessed. The possible CEIPP-derived data-rights issue remains open; GPL-3.0 code licensing does not establish rights to underlying transcriptions.
 **Uncertainty:** No rights-cleared canonical transcription, full object/side/line parity or system-type determination. No glyph reading or translation. Respect Rapa Nui community interests.
 **One next action:** obtain itemized written permission naming exact Barthel/CEIPP files and allowed research, storage, derivative and publication uses; only then freeze the full object/side/line parity audit.
+
+
+## 2026-11-26 — ChatGPT cycle #180 handoff
+**Evidence:** The 15/15 parity claim is only Aa01 line 1. The CEIPP/Wayback retrieval attempt was blocked; a third-party audit claims rongopy's tablet data are reformatted CEIPP, whose transcription license is unstated. No corpus bytes were accessed.
+**Uncertainty:** No canonical rights-cleared corpus, whole-corpus parity, or system-type determination. GPL-3.0 for code does not establish rights to underlying data.
+**One next action:** Obtain itemized written permission naming exact Barthel/CEIPP files and permitted research, storage, derivative and publication uses before any corpus retrieval or full parity audit.
