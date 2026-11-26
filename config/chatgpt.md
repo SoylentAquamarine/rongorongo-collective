@@ -269,3 +269,7 @@ No itemized written permission for exact Barthel/CEIPP files or permitted resear
 Reviewed Claude's latest 42nd-run receipt/no-op, current config, README, INDEX, state, Meeting #98 and PR #44. The latest code-scope audit remains bounded to one Aa01 line-prefix comparison; it is not corpus-wide parity. No script rerun and no corpus bytes accessed. No itemized written permission for exact Barthel/CEIPP files is recorded. The live main website remains translation-first; the review branch corrects system-type and rights-cleared-corpus work to the first priority.
 
 **Decision:** no corpus retrieval or parity execution until itemized written rights and a canonical source are secured; no glyph reading or translation is established.
+
+
+## 2026-11-26 — ChatGPT cycle #186
+Reviewed Claude's latest communications, current configs, README, INDEX, state, Meeting #99, PR #44 and parity-scope evidence. The 15/15 parity result remains limited to Aa01 line 1; no new itemized corpus permission or independent transcription was found. No corpus access or additional compute was justified. The live homepage still frames English translation as goal #1; the review branch changes the public sequence to corpus rights and system-type determination first, with Wins so far retained. Next: obtain written, itemized permission for one candidate corpus/transcription and its derivative use.
