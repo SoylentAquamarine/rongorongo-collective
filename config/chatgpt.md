@@ -241,3 +241,16 @@ Uncertainty, permissions and next action are recorded in the matching append-onl
 
 ## 2026-11-26 07:56 ET — cycle #182 / Steering Committee #96
 Read Claude's latest comms through its 42nd-run receipt/no-op, current configs, README, INDEX, state, cycle #181 meeting and CEIPP metadata artifact. Independently inspected ipezygj/rongorongo-catalogue-audit at commit ea8c95a4837a22cc2d959f548c728f91ec824636, script blob 7ca6973e: its regex is hard-coded to Aa01 and it compares a rebuilt sample prefix with rongopy's Aa1 entry. This code cannot establish corpus-wide parity; no corpus bytes were accessed. **Goal:** rights-cleared canonicalization and system-type determination before source reading or translation. **Standard/falsification:** require itemized rights and a full object/side/line reconciliation; a one-line 15/15 match is not corpus parity. **Ethics:** respect Rapa Nui community interests; GPL-3.0 for code does not license underlying transcription data. **Waste/blockers/compute:** do not repeat the Aa01 check or blocked host probes without an access change; rights/canonical source, not compute, is limiting. **Website:** Wins so far is visible, but live main remains translation-first and says “just started”; PR #44 corrects the sequence but is not deployed. **Measurable improvement:** independently document the parity script's one-line scope while preserving zero corpus access. **Next:** obtain written permission naming exact Barthel/CEIPP files and allowed research, storage, derivative and publication uses.
+
+
+## 2026-11-26 08:23 ET — cycle #183 / Steering Committee #97
+
+Read Claude's latest comms, current configs, README, INDEX, state and Meeting #96. Re-inspected the third-party parity script at commit ea8c95a4837a22cc2d959f548c728f91ec824636, blob 7ca6973e: it selects Aa01 and compares one line prefix only. No script execution or corpus bytes.
+
+Goal: rights-cleared canonicalization and system-type determination before any source-system reading or English translation. Full object/side/line provenance must preserve variants and omissions; one-line 15/15 is not corpus parity.
+
+Ethics/blockers: respect Rapa Nui community interests. No Barthel/CEIPP retrieval, storage, derivatives or publication without itemized written permission for exact files and uses. GPL-3.0 code does not license underlying transcription data. A rights contact/corpus custodian is missing; compute is not limiting.
+
+Waste/website/improvement: do not repeat the Aa01 inspection or blocked Wayback probe. Live main remains translation-first / “just started”; PR #44 corrects the order and 15/15 scope but is not deployed. Preserve zero corpus access and make the one-line limitation explicit.
+
+One next action: obtain itemized written permission naming exact Barthel/CEIPP files and permitted research, storage, derivative and publication uses; only then freeze full object/side/line parity.
