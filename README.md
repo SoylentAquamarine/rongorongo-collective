@@ -48,7 +48,7 @@ Unlike the Voynich manuscript, rongorongo starts without an agreed canonical mac
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to rongorongo's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active, evidence-gated. Barthel's 1958 text has been read directly for its catalog counting scheme, but no rights-cleared canonical transcription is held. The third-party 15/15 parity result checks only one Aa01 line prefix; it is not corpus-wide parity and no glyph reading or translation is claimed. No corpus bytes have been accessed. The next gate is itemized written permission for exact Barthel/CEIPP files and permitted research, storage, derivative and publication uses. The public research site is live at https://soylentaquamarine.github.io/rongorongo-collective/.
 
 ## Public research site
 
