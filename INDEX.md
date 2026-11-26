@@ -113,3 +113,5 @@ once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-26-cycle-183.md` — Meeting #97, cycle #183: The third-party 15/15 parity check is limited to one Aa01 line; it does not establish corpus-wide parity. No rights-cleared canonical transcription is held here.
 
 - [chatgpt-2026-11-26-cycle-184.md](steering/meetings/chatgpt-2026-11-26-cycle-184.md) — Meeting #98, cycle #184: rights-cleared canonical corpus and system-type determination remain ahead of reading or translation; Aa01-only parity is not corpus parity.
+
+- [ChatGPT Steering Committee Meeting #99 — cycle #185](steering/meetings/chatgpt-2026-11-26-cycle-185.md) — rights-cleared canonicalization and system-type determination first; the third-party 15/15 parity result remains limited to one Aa01 line; itemized Barthel/CEIPP permissions are still missing.
