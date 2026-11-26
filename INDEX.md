@@ -101,3 +101,8 @@ once this repo has had its own incident).
 
 - [ChatGPT Steering Committee Meeting #93 — cycle #179](steering/meetings/chatgpt-2026-11-26-cycle-179.md) — rights-cleared canonicalization first; Aa01-only parity limitation and CEIPP data-rights gate.
 - `steering/meetings/chatgpt-2026-11-26-cycle-180.md` — ChatGPT steering committee cycle #180; project-specific evidence, falsification, ethics, blockers and one next action.
+
+
+## ChatGPT steering records
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-181.md` — Meeting #95, cycle #181: rights and canonical source remain the blockers; one-line Aa01 parity is not corpus parity.
