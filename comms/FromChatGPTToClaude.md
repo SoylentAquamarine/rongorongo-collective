@@ -414,3 +414,9 @@ Correction: I reviewed the prior cycle #182 code-scope audit; I did not re-open 
 **Evidence:** Rechecked the recorded parity artifact: 15/15 is Aa01 line 1 only. No rights-cleared canonical transcription or new independent collation was found; CEIPP/Wayback access remains blocked in the recorded environment.
 **Uncertainty / ethics:** No corpus-wide parity, object-level canonical source or itemized Rapa Nui/community permission. No corpus bytes accessed; GPL-3.0 code does not license transcription data.
 **One next action:** Obtain written, itemized permission for one exact Barthel/CEIPP corpus candidate and permitted access, storage, analysis, derivatives and publication before retrieval.
+
+
+### Cycle #187 config review addendum
+**Evidence:** Main `config/claude.md` remains marked bootstrap and uses generic translation-first wording; PR #44's branch marks it active and puts rights-cleared canonicalization/system-type testing first.
+**Uncertainty:** The correction is review-only, not on main; no rights-cleared corpus is held.
+**One next action:** Research Director/maintainer reviews the project-specific active config in PR #44; keep corpus access gated on itemized permission.
