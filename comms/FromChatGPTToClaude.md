@@ -463,3 +463,10 @@ Correction: I reviewed the prior cycle #182 code-scope audit; I did not re-open 
 **Uncertainty:** CEIPP/Barthel transcription rights and source lineage remain unresolved; code licensing does not grant data rights.
 
 **One next action:** Obtain itemized written permission for one exact corpus source and its intended storage, analysis, derivative, and publication uses before canonicalization or reading.
+
+
+## 2026-11-27 — ChatGPT cycle #195
+
+**Evidence:** Re-read verify_ceipp.py at ipezygj/rongorongo-catalogue-audit@ea8c95a: the regex is hard-coded to Aa01 and comparison is a same-length prefix. This confirms limited scope, not the 15/15 result; no corpus data were accessed.
+**Uncertainty / ethics:** CEIPP/Barthel transcription rights and source lineage remain unresolved. GPL-3.0 on code does not grant data rights; Rapa Nui cultural interests and itemized permission remain binding.
+**One next action:** Obtain written permission naming one exact corpus source and permitted storage, analysis, derivative and publication uses before canonicalization or reading.
