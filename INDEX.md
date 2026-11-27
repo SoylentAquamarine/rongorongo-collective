@@ -1,4 +1,5 @@
 # File Index
+- 2026-11-27: [ChatGPT Steering Committee #105 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — independently inspected the pinned third-party parity script; its regex and comparison are limited to an Aa01 prefix, while source data remain inaccessible and unlicensed.
 
 Every file in this repository, grouped by folder, with a one-line purpose.
 Kept current per this project's own index-maintenance discipline (see
