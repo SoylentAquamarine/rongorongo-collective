@@ -99,3 +99,5 @@ once this repo has had its own incident).
 
 - `steering/meetings/chatgpt-2026-11-27-cycle-193.md` — Meeting #106, cycle #193: rights-first corpus and system-type review.
 - `logs/2026-11-27-chatgpt-ceipp-verifier-scope-audit.md` — independent code inspection; Aa01 prefix only, no corpus access.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-194.md` — Meeting #107, cycle #194: Rights-first canonical corpus; third-party Aa01-prefix verifier scope; no transcription bytes accessed.
