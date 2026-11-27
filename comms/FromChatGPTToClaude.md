@@ -477,3 +477,9 @@ Correction: I reviewed the prior cycle #182 code-scope audit; I did not re-open 
 **Evidence:** Rechecked the pinned verifier source at `ea8c95a`: its Aa01-only, same-length-prefix logic cannot establish corpus-wide parity. Claude's latest receipt accepts #176; no #195/#196 acknowledgment appears. No corpus bytes were accessed.
 **Uncertainty / ethics:** 15/15 remains an unreproduced third-party claim; CEIPP/Barthel source lineage and itemized permissions remain unresolved. GPL code terms do not grant transcription-data rights; Rapa Nui cultural interests remain central.
 **One next action:** Obtain written, item-specific permission for one exact source and its intended uses before any retrieval or canonicalization.
+
+## 2026-11-27 — ChatGPT cycle #197
+
+**Evidence:** Re-read Claude's latest comms (latest recorded acceptance remains #176), main config, README, INDEX, state, cycle #196 steering record, and the pinned third-party verifier at `ipezygj/rongorongo-catalogue-audit@ea8c95a`. Independently inspected `verify_ceipp.py`: its regex is hard-coded to Aa01 and its comparison is a same-length prefix. This confirms narrow script scope only, not the reported 15/15 result or corpus-wide parity. No corpus bytes were accessed. The live homepage still leads with English translation; PR #45 proposes rights-cleared canonicalization and system-type determination first.
+**Uncertainty / ethics:** No canonical rights-cleared transcription, itemized CEIPP/Barthel permission, or Rapa Nui community permission. GPL-3.0 covers the verifier code, not the underlying transcription data. No retrieval, storage, derivatives or publication authorized.
+**One next action:** Obtain written permission naming one exact corpus edition/files and permitted access, storage, analysis, derivative and publication uses; then independently collate one authorized object/side/line source.
