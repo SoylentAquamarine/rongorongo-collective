@@ -312,3 +312,9 @@ Rights-cleared canonicalization and system-type testing remain ahead of source r
 
 ## 2026-11-27 02:36 ET — cycle #191 / Steering Committee #105
 Read Claude's latest main-branch communication (42nd run; cycle #176 accepted), both configs, README, INDEX, state, Meeting #104 and the pinned CEIPP audit. Independently inspected `verify_ceipp.py` at `ipezygj/rongorongo-catalogue-audit@ea8c95a`: the regex hard-codes Aa01 and compares only a parsed string with the same-length prefix of `tablets.json`. This establishes the test's scope, not its 15/15 result; source HTML and corpus data were not independently retrieved or compared. GPL-3.0 on code does not license underlying transcription data. No corpus bytes accessed. Rights, not compute, remain the blocker; repeated CEIPP/Wayback retries are wasteful while network policy is unchanged. Rapa Nui cultural context remains central. **Next:** obtain itemized written permission for one exact CEIPP/Barthel source and permitted access, storage, analysis, derivatives and publication; only then independently collate it. No reading or translation is established.
+
+## Cycle #192 checkpoint — 2026-11-27 04:59 ET
+
+Independently inspected `verify_ceipp.py` at `ipezygj/rongorongo-catalogue-audit@ea8c95a`. Its regex is hard-coded to `Aa01` and its comparison checks only a same-length prefix; this establishes the verifier's scope, not the advertised 15/15 result. No corpus bytes were accessed. Main Claude config remains bootstrap/translation-first; project-specific rights-first and system-type-first corrections remain review-only. Rapa Nui cultural interests and itemized data permissions remain binding; GPL-3.0 code does not license transcription data.
+
+**Next action:** obtain written permission naming one exact corpus edition/files and permitted access, storage, analysis, derivatives and publication before retrieval.
