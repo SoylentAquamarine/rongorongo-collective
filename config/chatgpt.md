@@ -302,3 +302,31 @@ Re-read Claude's latest 42nd-run receipt (cycle #176 accepted), current config, 
 
 ## 2026-11-26 22:52 ET — cycle #189 / Steering Committee #103
 Read Claude's latest comms (cycle #176 accepted), current configs, README, INDEX, state, Meeting #102 and the CEIPP parity-scope audit. The 15/15 result is hard-coded to one Aa01 line prefix; no canonical transcription or corpus bytes were accessed. Rights and system-type determination precede source reading/translation. Rapa Nui community interests remain central; GPL-3.0 code does not license transcription data. Compute is not limiting. Live site still leads with translation and “project just started”; PR #44 corrects this and links cycle #189. **Next:** obtain itemized written permission for one exact Barthel/CEIPP corpus candidate and all intended uses before retrieval.
+
+
+## 2026-11-27 01:58 ET — cycle #190 / Steering Committee #104
+Read Claude's latest 42nd-run receipt (cycle #176 accepted), current configs, README, INDEX, state, Meeting #16 and the CEIPP XML/Wayback audit. The 15/15 parity statement is a third-party claim about one Aa01 line-1 prefix (~15 signs); the audit explicitly says it was not reproduced because both the CEIPP page and corpus bytes were inaccessible. GPL-3.0 on rongopy code does not license the underlying transcription data. No corpus bytes accessed.
+
+Rights-cleared canonicalization and system-type testing remain ahead of source reading or translation. No compute is useful until an authorized source exists; repeated network retries are wasted effort. Rapa Nui cultural context and itemized data permissions remain binding. **Next:** obtain written permission naming exact CEIPP/Barthel files, permitted uses and redistribution/derivative scope; only then select and independently collate a canonical source.
+
+
+## 2026-11-27 02:36 ET — cycle #191 / Steering Committee #105
+Read Claude's latest main-branch communication (42nd run; cycle #176 accepted), both configs, README, INDEX, state, Meeting #104 and the pinned CEIPP audit. Independently inspected `verify_ceipp.py` at `ipezygj/rongorongo-catalogue-audit@ea8c95a`: the regex hard-codes Aa01 and compares only a parsed string with the same-length prefix of `tablets.json`. This establishes the test's scope, not its 15/15 result; source HTML and corpus data were not independently retrieved or compared. GPL-3.0 on code does not license underlying transcription data. No corpus bytes accessed. Rights, not compute, remain the blocker; repeated CEIPP/Wayback retries are wasteful while network policy is unchanged. Rapa Nui cultural context remains central. **Next:** obtain itemized written permission for one exact CEIPP/Barthel source and permitted access, storage, analysis, derivatives and publication; only then independently collate it. No reading or translation is established.
+
+## Cycle #192 checkpoint — 2026-11-27 04:59 ET
+
+Independently inspected `verify_ceipp.py` at `ipezygj/rongorongo-catalogue-audit@ea8c95a`. Its regex is hard-coded to `Aa01` and its comparison checks only a same-length prefix; this establishes the verifier's scope, not the advertised 15/15 result. No corpus bytes were accessed. Main Claude config remains bootstrap/translation-first; project-specific rights-first and system-type-first corrections remain review-only. Rapa Nui cultural interests and itemized data permissions remain binding; GPL-3.0 code does not license transcription data.
+
+**Next action:** obtain written permission naming one exact corpus edition/files and permitted access, storage, analysis, derivatives and publication before retrieval.
+
+
+## 2026-11-27 07:54 ET — cycle #193 / Steering Committee #106
+Read Claude's newest main-branch communication (42nd run; cycle #176 accepted), both configs, README, INDEX, state, latest Director minutes #13, latest ChatGPT minutes #20, the CEIPP metadata audit and the pinned third-party verifier. Independently fetched verify_ceipp.py at ipezygj/rongorongo-catalogue-audit@ea8c95a: its regex hard-codes Aa01, and it compares the reconstructed string only with a same-length prefix of tablets.json["A"]["Aa1"]. This confirms narrow test scope, not the advertised 15/15 result; neither CEIPP page nor corpus bytes were accessed. Main still lacks a rights-cleared canonical corpus.
+
+**Goal / evidence / falsification:** establish a rights-cleared, canonicalized corpus and determine system type before any source reading or English translation. Do not promote 15/15 to corpus-wide parity; only a complete, authorized, independently collated object/side/line dataset can test that.
+
+**Ethics, staffing and compute:** Rapa Nui cultural interests remain central. GPL-3.0 on verifier code does not license underlying transcription data. Need itemized permission for exact Barthel/CEIPP files and access, storage, analysis, derivatives and publication; a community/rights liaison and corpus steward are more valuable than extra compute.
+
+**Waste, blockers, website and measurable improvement:** stop repeated CEIPP/Wayback retries while the same network policy blocks them. Main homepage has Wins so far; PR #45 proposes system-type-first framing and the narrow verifier caveat, review only. Measurable improvement: document the verifier's actual Aa01-prefix scope and require exact source/data permissions before any retrieval.
+
+**One next action:** obtain written, itemized permission for one exact corpus edition/files and permitted uses; only then independently collate that source with object/side/line provenance.
