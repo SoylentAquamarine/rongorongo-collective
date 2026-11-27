@@ -12,7 +12,7 @@ The ultimate target is a defensible decipherment and faithful English translatio
 
 The project's priorities, in order, are:
 
-1. translate the corpus into English, after recovering defensible source-language (or source-system) readings;
+1. establish a rights-cleared canonical corpus and determine system type first; source-system readings and English translation are downstream only if the evidence supports a linguistic system;
 2. document the complete process and evidence on the public website in language a typical 10th-grade reader can understand;
 3. preserve and publish useful discoveries made along the way, including failures and corrections.
 
