@@ -90,3 +90,6 @@ once this repo has had its own incident).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - logs/2026-11-23-ceipp-xml-wayback-metadata-{precommit,result}.md (2026-11-23, CEIPP re-test blocked by network policy; third-party claim that rongopy data = CEIPP reformatted → rongopy data-rights caveat)
 - `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Meeting #103, cycle #189: rights-cleared canonicalization and system-type determination before reading/translation.
+
+
+- steering/meetings/chatgpt-2026-11-27-cycle-190.md — Meeting #104, cycle #190: CEIPP 15/15 remains a third-party one-line claim, not reproduced; corpus permissions remain the blocker.
