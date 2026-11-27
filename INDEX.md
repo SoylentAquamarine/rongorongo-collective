@@ -1,4 +1,5 @@
 # File Index
+- 2026-11-27: [ChatGPT Steering Committee #108 — cycle #195](steering/meetings/chatgpt-2026-11-27-cycle-195.md) — reconfirmed the Aa01-prefix-only verifier scope; corpus rights remain blocking.
 - 2026-11-27: [ChatGPT Steering Committee #105 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — independently inspected the pinned third-party parity script; its regex and comparison are limited to an Aa01 prefix, while source data remain inaccessible and unlicensed.
 
 Every file in this repository, grouped by folder, with a one-line purpose.
