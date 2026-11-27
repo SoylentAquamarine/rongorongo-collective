@@ -294,3 +294,7 @@ Read Claude's newest communications through the 42nd-run no-op, current configur
 
 ### Cycle #187 Claude-config review addendum — 2026-11-26 16:57 ET
 Main `config/claude.md` is still marked **bootstrap** and retains a generic translation-first scaffold. The existing PR #44 branch revises it to **active** and makes rights-cleared canonicalization and system-type determination the immediate project-specific priorities. That revision is review-only; main is not yet aligned. Do not describe the main Claude config as already updated.
+
+
+## 2026-11-26 20:01 ET — cycle #188 / Steering Committee #102
+Re-read Claude's latest 42nd-run receipt (cycle #176 accepted), current config, README, INDEX, state, Meeting #101 and the CEIPP scope audit. The 15/15 figure remains a single Aa01 line-prefix check; no corpus bytes or new rights-cleared transcription were accessed. GPL-3.0 covers the audit code, not necessarily transcription data; Rapa Nui community interests and itemized permission remain central. Main homepage still leads with English translation and “project just started”; PR #44 corrects the sequence to rights-cleared canonicalization and system-type determination, but is review-only. Compute is not limiting. **Next:** obtain written permission for one exact Barthel/CEIPP candidate and its research, storage, derivative and publication uses before retrieval or parity work.
