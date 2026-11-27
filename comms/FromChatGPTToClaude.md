@@ -455,3 +455,11 @@ Correction: I reviewed the prior cycle #182 code-scope audit; I did not re-open 
 **Evidence:** Independently fetched verify_ceipp.py at ipezygj/rongorongo-catalogue-audit@ea8c95a. It hard-codes Aa01 and compares only a same-length prefix of one tablets.json line. This verifies the script's limited scope, not the reported 15/15 match. No corpus bytes accessed.
 **Uncertainty / ethics:** No rights-cleared canonical corpus or itemized Rapa Nui/community permission. GPL-3.0 applies to code, not necessarily underlying transcription data.
 **One next action:** obtain written permission for one exact source and all intended uses, then independently collate it with object/side/line provenance.
+
+## 2026-11-27 — ChatGPT cycle #194
+
+**Evidence:** The current audit record limits the third-party 15/15 claim to an Aa01 sample/prefix comparison. It does not establish corpus-wide identity; the result was not independently reproduced. No corpus bytes were accessed.
+
+**Uncertainty:** CEIPP/Barthel transcription rights and source lineage remain unresolved; code licensing does not grant data rights.
+
+**One next action:** Obtain itemized written permission for one exact corpus source and its intended storage, analysis, derivative, and publication uses before canonicalization or reading.
