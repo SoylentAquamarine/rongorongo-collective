@@ -96,3 +96,6 @@ once this repo has had its own incident).
 - steering/meetings/chatgpt-2026-11-27-cycle-190.md — Meeting #104, cycle #190: CEIPP 15/15 remains a third-party one-line claim, not reproduced; corpus permissions remain the blocker.
 - `steering/meetings/chatgpt-2026-11-27-cycle-191.md` — cycle #191 steering record (restored in this index update).
 - `steering/meetings/chatgpt-2026-11-27-cycle-192.md` — cycle #192 steering record.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-193.md` — Meeting #106, cycle #193: rights-first corpus and system-type review.
+- `logs/2026-11-27-chatgpt-ceipp-verifier-scope-audit.md` — independent code inspection; Aa01 prefix only, no corpus access.
