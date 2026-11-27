@@ -121,3 +121,5 @@ once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-26-cycle-187.md` — Meeting #101, cycle #187: rights-cleared corpus and system-type determination before reading/translation; Aa01-only parity is not corpus parity.
 
 - [ChatGPT Steering Committee Meeting #102 — cycle #188](steering/meetings/chatgpt-2026-11-26-cycle-188.md) — rights-cleared canonical corpus and system-type determination first; Aa01 parity remains one-line only.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Rongorongo: rights-cleared canonicalization and one-line parity scope.
