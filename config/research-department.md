@@ -32,10 +32,11 @@ research (see `agents/historian.md`'s catalog requirement).
 
 ## Priority order
 
-1. **Translate the corpus into English.** First recover defensible
-   source-language or source-system readings, then translate them
-   faithfully. Do not substitute an interesting statistic or a plausible
-   glyph resemblance for this goal.
+1. **Establish a rights-cleared canonical corpus and determine system type.**
+   Canonicalization, itemized permissions and independent collation come first;
+   test full writing, mixed/proto-writing and mnemonic/notation alternatives.
+   Source-system readings and English translation are downstream only if the
+   evidence supports a linguistic system.
 2. **Document the work on the public website.** Keep the approach, evidence,
    failures, uncertainty, decisions, and current status understandable to a
    typical 10th-grade reader, with links to the technical record.

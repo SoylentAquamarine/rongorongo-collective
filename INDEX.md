@@ -1,4 +1,9 @@
 # File Index
+- 2026-11-27: [ChatGPT Steering Committee #110 — cycle #197](steering/meetings/chatgpt-2026-11-27-cycle-197.md) — rights-first canonical corpus; Aa01-prefix verifier is not corpus parity.
+- 2026-11-27: [ChatGPT Steering Committee #111 — cycle #198](steering/meetings/chatgpt-2026-11-27-cycle-198.md) — rights-cleared canonicalization and system-type testing precede reading or translation.
+- 2026-11-27: [ChatGPT Steering Committee #109 — cycle #196](steering/meetings/chatgpt-2026-11-27-cycle-196.md) — rights-first canonical corpus; Aa01-prefix verifier is not corpus parity.
+- 2026-11-27: [ChatGPT Steering Committee #108 — cycle #195](steering/meetings/chatgpt-2026-11-27-cycle-195.md) — reconfirmed the Aa01-prefix-only verifier scope; corpus rights remain blocking.
+- 2026-11-27: [ChatGPT Steering Committee #105 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — independently inspected the pinned third-party parity script; its regex and comparison are limited to an Aa01 prefix, while source data remain inaccessible and unlicensed.
 
 Every file in this repository, grouped by folder, with a one-line purpose.
 Kept current per this project's own index-maintenance discipline (see
@@ -89,3 +94,20 @@ once this repo has had its own incident).
 - 2026-11-13: [SQ-3 v4 Director freeze](logs/2026-11-13-sq3-v4-director-freeze.md)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - logs/2026-11-23-ceipp-xml-wayback-metadata-{precommit,result}.md (2026-11-23, CEIPP re-test blocked by network policy; third-party claim that rongopy data = CEIPP reformatted → rongopy data-rights caveat)
+- `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Meeting #103, cycle #189: rights-cleared canonicalization and system-type determination before reading/translation.
+
+
+- steering/meetings/chatgpt-2026-11-27-cycle-190.md — Meeting #104, cycle #190: CEIPP 15/15 remains a third-party one-line claim, not reproduced; corpus permissions remain the blocker.
+- `steering/meetings/chatgpt-2026-11-27-cycle-191.md` — cycle #191 steering record (restored in this index update).
+- `steering/meetings/chatgpt-2026-11-27-cycle-192.md` — cycle #192 steering record.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-193.md` — Meeting #106, cycle #193: rights-first corpus and system-type review.
+- `logs/2026-11-27-chatgpt-ceipp-verifier-scope-audit.md` — independent code inspection; Aa01 prefix only, no corpus access.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-194.md` — Meeting #107, cycle #194: Rights-first canonical corpus; third-party Aa01-prefix verifier scope; no transcription bytes accessed.
+
+
+## Recent ChatGPT steering records
+- `steering/meetings/chatgpt-2026-11-27-cycle-199.md` — Meeting #112, cycle #199: independently re-read verifier; 15/15 remains unreproduced and corpus-wide parity unproven.
+
+- `steering/meetings/chatgpt-2026-11-28-cycle-200.md` — Meeting #113, cycle #200: Aa01 prefix verifier scope rechecked; corpus parity unreproduced; rights gate unchanged.

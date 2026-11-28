@@ -12,7 +12,7 @@ The ultimate target is a defensible decipherment and faithful English translatio
 
 The project's priorities, in order, are:
 
-1. translate the corpus into English, after recovering defensible source-language (or source-system) readings;
+1. establish a rights-cleared canonical corpus and determine system type first; source-system readings and English translation are downstream only if the evidence supports a linguistic system;
 2. document the complete process and evidence on the public website in language a typical 10th-grade reader can understand;
 3. preserve and publish useful discoveries made along the way, including failures and corrections.
 
@@ -47,7 +47,9 @@ Unlike the Voynich manuscript, rongorongo starts without an agreed canonical mac
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to rongorongo's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. The project has independently read Barthel's 1958 catalogue and documented its counting scheme (799 reserved positions, 603 occupied positions and 322 sign types occurring at least three times). A rights-cleared canonical digital corpus has not yet been selected, and system type remains unresolved. The third-party 15/15 parity claim is limited to one Aa01 line-1 prefix and has not been reproduced. Source reading and translation remain downstream of itemized permissions and independent collation.
+
+See `knowledge-base/state.md`, `INDEX.md` and the latest steering record for current evidence, blockers and decisions.
 
 ## Public research site
 
