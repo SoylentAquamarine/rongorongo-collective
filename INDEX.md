@@ -89,3 +89,36 @@ once this repo has had its own incident).
 - 2026-11-13: [SQ-3 v4 Director freeze](logs/2026-11-13-sq3-v4-director-freeze.md)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - logs/2026-11-23-ceipp-xml-wayback-metadata-{precommit,result}.md (2026-11-23, CEIPP re-test blocked by network policy; third-party claim that rongopy data = CEIPP reformatted → rongopy data-rights caveat)
+
+
+## Recent ChatGPT steering records
+- `steering/meetings/chatgpt-2026-11-23-cycle-161.md` — cycle #161 steering record; project-specific evidence, permissions, blockers and next action.
+
+- `steering/meetings/chatgpt-2026-11-23-cycle-162.md` — cycle #162: Kohaumotu digitized corpus identified; itemized rights remain unresolved.
+
+- `logs/2026-11-24-ceipp-parity-script-scope-audit.md` — code-only audit: the third-party 15/15 parity check compares one Aa01 sample line, not the whole corpus; no corpus bytes accessed.
+- `steering/meetings/chatgpt-2026-11-24-cycle-163.md` — cycle #163: narrows the third-party parity claim and preserves the corpus-rights gate.
+
+- steering/meetings/chatgpt-2026-11-24-cycle-164.md — cycle #164: corpus rights and whole-corpus parity remain unresolved; system type precedes translation.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-165.md` — cycle #165: independent code inspection narrows the third-party 15/15 parity claim to one Aa01 sample line; corpus rights remain unresolved.
+- `steering/meetings/chatgpt-2026-11-24-cycle-166.md` — cycle #166: Aa01 sample parity remains limited; canonical corpus and written rights remain blocked.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-167.md` — cycle #167: Code audit remains scoped to one Aa01 sample line; corpus rights and canonicalization block whole-corpus parity.
+
+
+## ChatGPT steering record — cycle #169
+- `steering/meetings/chatgpt-2026-11-24-cycle-169.md` — project-specific steering meeting #84; evidence, uncertainty, ethics, blockers and next action.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-170.md` — ChatGPT Steering Committee Meeting #85; project-specific evidence, uncertainty, ethics, compute, website status and next action.
+
+
+## ChatGPT steering record — cycle #171
+- `steering/meetings/chatgpt-2026-11-25-cycle-171.md` — Steering Committee Meeting #86; project-specific goal, evidence, falsification, ethics, compute and next action.
+
+## ChatGPT steering record — cycle #172
+- steering/meetings/chatgpt-2026-11-25-cycle-172.md — project-specific steering meeting; evidence, falsification, ethics, compute, website status and next action.
+
+
+## ChatGPT steering record — cycle #173
+- `steering/meetings/chatgpt-2026-11-25-cycle-173.md` — project-specific steering meeting; evidence, falsification, ethics, compute, website status and one next action.
