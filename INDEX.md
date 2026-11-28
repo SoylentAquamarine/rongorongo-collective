@@ -1,5 +1,6 @@
 # File Index
 - 2026-11-27: [ChatGPT Steering Committee #110 — cycle #197](steering/meetings/chatgpt-2026-11-27-cycle-197.md) — rights-first canonical corpus; Aa01-prefix verifier is not corpus parity.
+- 2026-11-27: [ChatGPT Steering Committee #111 — cycle #198](steering/meetings/chatgpt-2026-11-27-cycle-198.md) — rights-cleared canonicalization and system-type testing precede reading or translation.
 - 2026-11-27: [ChatGPT Steering Committee #109 — cycle #196](steering/meetings/chatgpt-2026-11-27-cycle-196.md) — rights-first canonical corpus; Aa01-prefix verifier is not corpus parity.
 - 2026-11-27: [ChatGPT Steering Committee #108 — cycle #195](steering/meetings/chatgpt-2026-11-27-cycle-195.md) — reconfirmed the Aa01-prefix-only verifier scope; corpus rights remain blocking.
 - 2026-11-27: [ChatGPT Steering Committee #105 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — independently inspected the pinned third-party parity script; its regex and comparison are limited to an Aa01 prefix, while source data remain inaccessible and unlicensed.
