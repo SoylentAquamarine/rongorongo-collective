@@ -105,3 +105,7 @@ once this repo has had its own incident).
 - `logs/2026-11-27-chatgpt-ceipp-verifier-scope-audit.md` — independent code inspection; Aa01 prefix only, no corpus access.
 
 - `steering/meetings/chatgpt-2026-11-27-cycle-194.md` — Meeting #107, cycle #194: Rights-first canonical corpus; third-party Aa01-prefix verifier scope; no transcription bytes accessed.
+
+
+## Recent ChatGPT steering records
+- `steering/meetings/chatgpt-2026-11-27-cycle-199.md` — Meeting #112, cycle #199: independently re-read verifier; 15/15 remains unreproduced and corpus-wide parity unproven.
