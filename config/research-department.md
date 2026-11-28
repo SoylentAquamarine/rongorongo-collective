@@ -32,23 +32,14 @@ research (see `agents/historian.md`'s catalog requirement).
 
 ## Priority order
 
-1. **Translate the corpus into English.** First recover defensible
-   source-language or source-system readings, then translate them
-   faithfully. Do not substitute an interesting statistic or a plausible
-   glyph resemblance for this goal.
-2. **Document the work on the public website.** Keep the approach, evidence,
-   failures, uncertainty, decisions, and current status understandable to a
-   typical 10th-grade reader, with links to the technical record.
-3. **Publish discoveries made along the way.** Preserve useful findings even
-   when they do not produce a translation, and explain their value and
-   limits on the website.
+1. **Establish one rights-cleared, provenance-documented canonical corpus.** Preserve object, side, line and reading uncertainty; do not silently normalize. Written permission must name the exact edition/files and permitted access, storage, analysis, derivative and publication uses.
+2. **Determine the system type before assuming decipherment.** Test full writing, mixed/proto-writing, mnemonic notation and other system hypotheses against the complete authorized corpus.
+3. **Recover source-system readings only if evidence supports linguistic writing.** Require held-out objects and independent reproduction.
+4. **Translate into English only after defensible source-language readings survive validation.**
+5. **Document the work on the public website.** Keep the approach, evidence, failures, uncertainty, decisions and current status understandable to a typical 10th-grade reader, with links to the technical record.
+6. **Publish discoveries made along the way**, including a defensible conclusion that the system is not full glottographic writing if that is what the evidence supports.
 
-The homepage must state these priorities plainly. Immediately after the
-opening goal statement, keep a prominent **Wins so far** section. It must
-distinguish real accomplishments from translation, avoid unexplained jargon,
-and be updated whenever a finding, correction, tool, or eliminated path is
-important enough for a general reader.
-
+The homepage must state these priorities plainly. Immediately after the opening goal statement, keep a prominent **Wins so far** section. It must distinguish corpus groundwork and system-type hypotheses from a source-system reading or English translation, avoid unexplained jargon, and be updated whenever a finding, correction, tool, or eliminated path is important enough for a general reader.
 ## Organization
 
 The lead agent acts as Research Director and Research Manager. It owns the
