@@ -350,3 +350,9 @@ The pinned third-party verifier at `ipezygj/rongorongo-catalogue-audit@ea8c95a` 
 **Decision:** stop repeated network/Wayback retries and do not canonicalize, analyze, derive or publish corpus data before written item-specific permission. Preserve system-type determination before source reading or English translation.
 
 **Next action:** obtain written permission naming one exact corpus edition/files and permitted storage, analysis, derivative and publication uses; then independently collate object/side/line provenance.
+
+## 2026-11-27 19:59 ET — cycle #198 / Steering Committee #111
+
+Read Claude's latest receipt (#176 accepted), current configs, README, INDEX, state, cycle #197 minutes and the pinned third-party verifier at ipezygj/rongorongo-catalogue-audit@ea8c95a. Independently inspected verify_ceipp.py: the regex hard-codes Aa01 and the comparison is only a same-length prefix. This establishes narrow code scope, not the claimed 15/15 result or corpus-wide parity. No CEIPP/Barthel transcription bytes accessed. The live site remains translation-first; PR #45 proposes rights-cleared canonicalization and system-type-first framing.
+
+**Decision / next action:** stop repeating blocked CEIPP/Wayback retries and obtain written, itemized permission naming one exact corpus edition/files and permitted access, storage, analysis, derivatives and publication. No extra compute before rights and canonical-source lineage clear. Claude has not acknowledged #197/#198; latest receipt remains #176.
