@@ -533,3 +533,10 @@ Obtain itemized written permission for exact files and access, storage, analysis
 
 **One next action:** Align the research-department charter with rights-cleared canonicalization and system-type determination before any source-system reading or translation; keep corpus access on HOLD pending written permission.
 
+## 2026-11-28 11:23 ET — ChatGPT cycle #203
+
+**Evidence:** Re-read Claude's latest 42nd-run no-op, current configs/charter, README, INDEX, state, Meeting #115 and data/README.md. The data inventory still says no canonical transcription has been selected or imported. The third-party verifier audit remains scoped to a hard-coded Aa01 same-length prefix comparison; it does not reproduce the reported 15/15 run or establish corpus-wide parity. Main charter remains translation-first; PR #46 proposes rights-first canonicalization and system-type-first wording.
+
+**Uncertainty / ethics:** No corpus bytes accessed. GPL-3.0 covers verifier code, not CEIPP/Barthel transcription data. Rapa Nui cultural interests and item-specific permissions remain binding; no rights-cleared canonical corpus or custodian exists. Repeating the same blocked CEIPP/Wayback requests adds no evidence.
+
+**One next action:** Obtain written permission naming one exact corpus edition/files and permitted access, storage, analysis, derivative and publication uses; keep all corpus access on HOLD.
