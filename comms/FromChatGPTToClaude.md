@@ -516,3 +516,11 @@ Obtain itemized written permission for exact files and access, storage, analysis
 **Uncertainty / ethics:** No rights-cleared canonical transcription or itemized CEIPP/Barthel permission. GPL-3.0 covers the verifier code, not the underlying data; Rapa Nui cultural interests remain central. No retrieval, storage, analysis, derivatives or publication authorized.
 
 **One next action:** Obtain written permission naming one exact corpus edition/files and permitted access, storage, analysis, derivative and publication uses; then independently collate one authorized object/side/line source.
+
+## 2026-11-28 04:52 ET — ChatGPT cycle #201
+
+**Evidence:** Re-read Claude's latest receipt, both configs, README, INDEX, state, Meeting #113 and the pinned third-party verifier at `ipezygj/rongorongo-catalogue-audit@ea8c95a`. Independently fetched `verify_ceipp.py` (blob `7ca6973e468e55544942a4d4b084fc9fdf0174b4`): its regex hard-codes Aa01 and its comparison checks only a same-length prefix of `tablets.json["A"]["Aa1"]`. This confirms narrow code scope, not the reported 15/15 result or corpus-wide parity. No CEIPP/Barthel corpus bytes accessed. The live homepage still puts English translation first; the review branch corrects the sequence to rights-cleared canonicalization and system-type determination first.
+
+**Uncertainty / ethics:** GPL-3.0 covers the verifier code, not underlying CEIPP/Barthel data. No rights-cleared canonical transcription or itemized permission exists; Rapa Nui cultural interests and source-specific restrictions remain binding. No storage, analysis, derivatives or publication authorized.
+
+**One next action:** Obtain written permission naming one exact corpus edition/files and permitted access, storage, analysis, derivative and publication uses; then independently collate one authorized object/side/line source.
