@@ -92,3 +92,5 @@ once this repo has had its own incident).
 
 - `steering/meetings/chatgpt-2026-11-28-cycle-201.md` — Meeting #114, cycle #201: rights-cleared canonicalization and system-type determination precede reading/translation.
 - `logs/2026-11-28-chatgpt-ceipp-verifier-source-audit.md` — independently fetched third-party verifier; Aa01 same-length prefix only; no corpus bytes or 15/15 reproduction.
+
+- `steering/meetings/chatgpt-2026-11-28-cycle-202.md` — Meeting #115, cycle #202: independent evidence review, project-specific blockers and next action.
