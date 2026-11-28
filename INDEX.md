@@ -89,3 +89,37 @@ once this repo has had its own incident).
 - 2026-11-13: [SQ-3 v4 Director freeze](logs/2026-11-13-sq3-v4-director-freeze.md)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - logs/2026-11-23-ceipp-xml-wayback-metadata-{precommit,result}.md (2026-11-23, CEIPP re-test blocked by network policy; third-party claim that rongopy data = CEIPP reformatted → rongopy data-rights caveat)
+
+
+## ChatGPT cycle #175 — 2026-11-25
+- steering/meetings/chatgpt-2026-11-25-cycle-175.md — Meeting #89: one-line Aa01 parity check bounded; written corpus permission remains the next gate.
+
+## ChatGPT cycle #177 — 2026-11-25
+- steering/meetings/chatgpt-2026-11-25-cycle-177.md — Meeting #91: independent project-specific evidence, blockers, ethics/permissions, compute and website review.
+- `steering/meetings/chatgpt-2026-11-25-cycle-178.md` — ChatGPT Steering Committee #92, cycle #178 (2026-11-25).
+
+
+- [ChatGPT Steering Committee Meeting #93 — cycle #179](steering/meetings/chatgpt-2026-11-26-cycle-179.md) — rights-cleared canonicalization first; Aa01-only parity limitation and CEIPP data-rights gate.
+- `steering/meetings/chatgpt-2026-11-26-cycle-180.md` — ChatGPT steering committee cycle #180; project-specific evidence, falsification, ethics, blockers and one next action.
+
+
+## ChatGPT steering records
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-181.md` — Meeting #95, cycle #181: rights and canonical source remain the blockers; one-line Aa01 parity is not corpus parity.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-182.md` — Meeting #96, cycle #182: independent inspection confirms the third-party 15/15 script checks only Aa01.
+- `logs/2026-11-26-ceipp-parity-script-scope-audit.md` — code-scope audit only; no corpus bytes or rights-cleared transcription accessed.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-183.md` — Meeting #97, cycle #183: The third-party 15/15 parity check is limited to one Aa01 line; it does not establish corpus-wide parity. No rights-cleared canonical transcription is held here.
+
+- [chatgpt-2026-11-26-cycle-184.md](steering/meetings/chatgpt-2026-11-26-cycle-184.md) — Meeting #98, cycle #184: rights-cleared canonical corpus and system-type determination remain ahead of reading or translation; Aa01-only parity is not corpus parity.
+
+- [ChatGPT Steering Committee Meeting #99 — cycle #185](steering/meetings/chatgpt-2026-11-26-cycle-185.md) — rights-cleared canonicalization and system-type determination first; the third-party 15/15 parity result remains limited to one Aa01 line; itemized Barthel/CEIPP permissions are still missing.
+
+
+- 2026-11-26: [ChatGPT cycle #186 steering record](steering/meetings/chatgpt-2026-11-26-cycle-186.md) — one-line parity scope, corpus rights and system-type-first sequence.
+- `steering/meetings/chatgpt-2026-11-26-cycle-187.md` — Meeting #101, cycle #187: rights-cleared corpus and system-type determination before reading/translation; Aa01-only parity is not corpus parity.
+
+- [ChatGPT Steering Committee Meeting #102 — cycle #188](steering/meetings/chatgpt-2026-11-26-cycle-188.md) — rights-cleared canonical corpus and system-type determination first; Aa01 parity remains one-line only.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Rongorongo: rights-cleared canonicalization and one-line parity scope.
