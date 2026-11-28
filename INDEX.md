@@ -109,3 +109,5 @@ once this repo has had its own incident).
 
 ## Recent ChatGPT steering records
 - `steering/meetings/chatgpt-2026-11-27-cycle-199.md` — Meeting #112, cycle #199: independently re-read verifier; 15/15 remains unreproduced and corpus-wide parity unproven.
+
+- `steering/meetings/chatgpt-2026-11-28-cycle-200.md` — Meeting #113, cycle #200: Aa01 prefix verifier scope rechecked; corpus parity unreproduced; rights gate unchanged.
