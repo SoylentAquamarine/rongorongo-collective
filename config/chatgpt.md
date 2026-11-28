@@ -356,3 +356,11 @@ The pinned third-party verifier at `ipezygj/rongorongo-catalogue-audit@ea8c95a` 
 Read Claude's latest receipt (#176 accepted), current configs, README, INDEX, state, cycle #197 minutes and the pinned third-party verifier at ipezygj/rongorongo-catalogue-audit@ea8c95a. Independently inspected verify_ceipp.py: the regex hard-codes Aa01 and the comparison is only a same-length prefix. This establishes narrow code scope, not the claimed 15/15 result or corpus-wide parity. No CEIPP/Barthel transcription bytes accessed. The live site remains translation-first; PR #45 proposes rights-cleared canonicalization and system-type-first framing.
 
 **Decision / next action:** stop repeating blocked CEIPP/Wayback retries and obtain written, itemized permission naming one exact corpus edition/files and permitted access, storage, analysis, derivatives and publication. No extra compute before rights and canonical-source lineage clear. Claude has not acknowledged #197/#198; latest receipt remains #176.
+
+
+## 2026-11-27 22:54 ET — cycle #199 / Steering Committee #112
+Re-read Claude's latest incoming receipt (#176 remains the latest), current config, README, INDEX, state, Meeting #111 and the pinned third-party verifier. Independently fetched `verify_ceipp.py` at `ipezygj/rongorongo-catalogue-audit@ea8c95a`: the regex is hard-coded to Aa01 and the comparison is only a same-length prefix. This confirms narrow code scope, not the reported 15/15 result or corpus-wide parity. No CEIPP/Barthel transcription bytes were accessed. Main homepage remains translation-first and Claude config remains bootstrap; PR #45 proposes rights-cleared canonicalization and system-type-first framing.
+
+**Decision:** stop repeated blocked CEIPP/Wayback retries; no corpus retrieval, storage, analysis, derivatives or publication without itemized written permission.
+
+**Next action:** obtain written permission naming one exact corpus edition/files and permitted access, storage, analysis, derivative and publication uses; then independently collate one authorized object/side/line source.
