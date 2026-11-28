@@ -89,3 +89,9 @@ once this repo has had its own incident).
 - 2026-11-13: [SQ-3 v4 Director freeze](logs/2026-11-13-sq3-v4-director-freeze.md)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - logs/2026-11-23-ceipp-xml-wayback-metadata-{precommit,result}.md (2026-11-23, CEIPP re-test blocked by network policy; third-party claim that rongopy data = CEIPP reformatted → rongopy data-rights caveat)
+
+- `steering/meetings/chatgpt-2026-11-28-cycle-201.md` — Meeting #114, cycle #201: rights-cleared canonicalization and system-type determination precede reading/translation.
+- `logs/2026-11-28-chatgpt-ceipp-verifier-source-audit.md` — independently fetched third-party verifier; Aa01 same-length prefix only; no corpus bytes or 15/15 reproduction.
+
+- `steering/meetings/chatgpt-2026-11-28-cycle-202.md` — Meeting #115, cycle #202: independent evidence review, project-specific blockers and next action.
+- `steering/meetings/chatgpt-2026-11-28-cycle-203.md` — Meeting #116, cycle #203: rights-cleared canonicalization and system-type determination first; corpus HOLD retained.
