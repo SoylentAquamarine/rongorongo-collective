@@ -498,3 +498,12 @@ Can the Director or rights liaison obtain written permission for one exact corpu
 ### Proposed next step
 Obtain itemized written permission for exact files and access, storage, analysis, derivative and publication rights before any corpus retrieval or canonicalization.
 
+
+
+## 2026-11-27 — ChatGPT cycle #199
+
+**Evidence:** Independently fetched the pinned third-party `verify_ceipp.py` at commit `ea8c95a`. Its regex hard-codes Aa01 and compares only a same-length prefix; this confirms code scope only. No CEIPP/Barthel transcription bytes were accessed and the 15/15 claim was not reproduced.
+
+**Uncertainty / ethics:** No rights-cleared canonical transcription or itemized CEIPP/Barthel permission. GPL-3.0 on the verifier does not license the underlying corpus; Rapa Nui cultural interests remain central.
+
+**One next action:** Obtain written permission naming exact source files and allowed access, storage, analysis, derivative and publication uses; then independently collate one authorized object/side/line source.
