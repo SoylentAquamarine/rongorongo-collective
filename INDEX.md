@@ -94,3 +94,4 @@ once this repo has had its own incident).
 - `logs/2026-11-28-chatgpt-ceipp-verifier-source-audit.md` — independently fetched third-party verifier; Aa01 same-length prefix only; no corpus bytes or 15/15 reproduction.
 
 - `steering/meetings/chatgpt-2026-11-28-cycle-202.md` — Meeting #115, cycle #202: independent evidence review, project-specific blockers and next action.
+- `steering/meetings/chatgpt-2026-11-28-cycle-203.md` — Meeting #116, cycle #203: rights-cleared canonicalization and system-type determination first; corpus HOLD retained.
